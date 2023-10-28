@@ -65,7 +65,7 @@ def main():
                 write_html(output_rows)
 
 def write_html(rows):
-    with open("output.html", "w") as f:
+    with open("index.html", "w") as f:
         f.write("<html><head><title>Output</title><style>table, th, td { border: 1px solid black;} table { border-collapse: collapse; }</style></head><body><table><thead><tr>")
         f.write("<td>Filename</td><td>Line</td><td>Keyword</td><td>Match</td></tr><tbody>")
         for row in rows:
