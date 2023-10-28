@@ -1,0 +1,3422 @@
+[2019] FWCA 195
+
+DECISION
+Fair Work Act 2009
+s.185—Enterprise agreement
+
+Australian Trade and Investment Commission (Austrade)
+(AG2018/6930)
+
+AUSTRADE ENTERPRISE AGREEMENT 2019-2022
+Commonwealth employment
+COMMISSIONER LEE
+
+MELBOURNE, 15 JANUARY 2019
+
+Application for approval of the Austrade Enterprise Agreement 2019-2022.
+[1]
+An application has been made for approval of an enterprise agreement known as the
+Austrade Enterprise Agreement 2019-2022 (the Agreement). The application was made
+pursuant to s.185 of the Fair Work Act 2009 (the Act). It has been made by Australian Trade
+and Investment Commission (Austrade). The Agreement is a single enterprise agreement.
+[2]
+I am satisfied that each of the requirements of ss.186, 187 and 188 as are relevant to
+this application for approval have been met.
+[3]
+The Community and Public Sector Union being a bargaining representative for the
+Agreement, has given notice under s.183 of the Act that it wants the Agreement to cover it. In
+accordance with s.201(2) I note that the Agreement covers the organisation.
+[4]
+The Agreement is approved and, in accordance with s.54 of the Act, will operate from
+22 January 2019. The nominal expiry date of the Agreement is 21 January 2022.
+
+COMMISSIONER
+Printed by authority of the Commonwealth Government Printer
+<AE501318 PR703817>
+1
+
+AUSTRADE ENTERPRISE
+AGREEMENT
+2019–2022
+
+CONTENTS
+FORMAL ACCEPTANCE OF THE AGREEMENT ................................................................................... 5
+1.
+
+SECTION 1: SCOPE OF THIS AGREEMENT ................................................................................. 6
+1.1
+
+Title .................................................................................................................................... 6
+
+1.2
+
+Coverage ............................................................................................................................ 6
+
+1.3
+
+Operation of the Agreement ............................................................................................. 6
+
+1.4
+
+Entitlements under Commonwealth Laws ........................................................................ 6
+
+1.5
+
+Relationship to Human Resources policies ....................................................................... 6
+
+1.6
+
+Authorisation ..................................................................................................................... 7
+
+1.7
+
+Individual Flexibility Arrangement .................................................................................... 7
+
+2.
+
+SECTION 2: CLASSIFICATION STRUCTURE AND REMUNERATION ............................................ 8
+
+2.1.
+
+Classification structure .......................................................................................................... 8
+
+2.2.
+
+APS classification structure ................................................................................................... 9
+
+2.3.
+
+Salary structure and salary on commencement ................................................................... 9
+
+2.4.
+
+Salary advancement ............................................................................................................ 10
+
+2.5.
+
+Salary increases ................................................................................................................... 10
+
+2.6.
+
+Adjustment to first pay increase under this Agreement .................................................... 10
+
+2.7.
+
+Payment of salary................................................................................................................ 11
+
+2.8.
+
+Engagement for duties that are Irregular or Intermittent .................................................. 11
+
+2.9.
+
+Junior rates .......................................................................................................................... 11
+
+2.10.
+
+Indigenous Cadet APS rates............................................................................................. 11
+
+2.11.
+
+Trainee APS (Administrative)........................................................................................... 11
+
+2.12.
+
+Graduates ........................................................................................................................ 12
+
+2.13.
+
+Supported salary payments for employees with a disability .......................................... 12
+
+2.14.
+
+Superannuation ............................................................................................................... 12
+
+3.
+
+SECTION 3: PEOPLE ................................................................................................................. 12
+
+3.1.
+
+Employee Assistance Program ............................................................................................ 12
+
+3.2.
+
+Study Assistance Scheme .................................................................................................... 13
+
+4.
+
+SECTION 4: PERFORMANCE MANAGEMENT .......................................................................... 13
+
+4.1.
+
+Performance Management ................................................................................................. 13
+
+4.2.
+
+Managing underperformance ............................................................................................. 13
+
+4.3.
+
+Review of decisions to terminate employment .................................................................. 13
+
+5.
+
+SECTION 5: EMPLOYMENT CONDITIONS ................................................................................ 14
+
+5.1.
+
+Overseas assignments – Conditions of employment .......................................................... 14
+
+Austrade Enterprise Agreement 2019–2022
+
+2
+
+5.2.
+
+Professional relocation assistance ...................................................................................... 14
+
+5.3.
+
+Travel ................................................................................................................................... 14
+
+5.4.
+
+Ordinary hours .................................................................................................................... 14
+
+5.5.
+
+Span of hours ...................................................................................................................... 15
+
+5.6.
+
+Overtime ............................................................................................................................. 15
+
+5.7.
+
+Emergency duty .................................................................................................................. 16
+
+5.8.
+
+Redeployment and retrenchment ...................................................................................... 16
+
+5.9.
+
+Resignation and retirement ................................................................................................ 16
+
+5.10.
+
+Allowances....................................................................................................................... 16
+
+5.10.1. Higher Duties allowance.................................................................................................. 16
+5.10.2. First Aid Officer allowance .............................................................................................. 17
+5.10.3. Fire Warden allowance.................................................................................................... 17
+5.10.4. Liaison Officer allowance................................................................................................. 17
+5.10.5. Motor vehicle allowance ................................................................................................. 17
+5.10.6. Language proficiency allowance ..................................................................................... 17
+5.10.7. Healthy living reimbursement ......................................................................................... 18
+5.11.
+
+Leave provisions .............................................................................................................. 18
+
+5.11.1. Annual leave .................................................................................................................... 18
+5.11.1.1.
+
+Accrual, approval and cancellation .............................................................................. 18
+
+5.11.1.2.
+
+Excess annual leave ..................................................................................................... 19
+
+5.11.1.3.
+
+Cash out annual leave .................................................................................................. 19
+
+5.11.1.4.
+
+Payment on termination of employment .................................................................... 19
+
+5.11.2. Christmas/New Year leave arrangements....................................................................... 19
+5.11.3. Purchased leave............................................................................................................... 20
+5.11.4. Personal / Carer’s leave ................................................................................................... 20
+5.11.5. Compassionate leave....................................................................................................... 21
+5.11.6. Miscellaneous leave ........................................................................................................ 21
+5.11.7. Family and domestic violence ......................................................................................... 22
+5.11.8. Cultural and ceremonial leave......................................................................................... 22
+5.11.9. Community service leave ................................................................................................ 22
+5.11.10.
+
+Leave for ADF Reserve and Continuous Full Time Service or Cadet Force obligations
+23
+
+5.11.11.
+
+Maternity leave............................................................................................................ 23
+
+5.11.12.
+
+Parental leave .............................................................................................................. 24
+
+5.11.12.1.
+
+Unpaid parental leave .............................................................................................. 24
+Austrade Enterprise Agreement 2019–2022
+
+3
+
+5.11.12.2.
+
+Paid parental leave................................................................................................... 24
+
+5.11.12.3.
+
+Returning to work after parental leave ................................................................... 24
+
+5.11.13.
+
+Long Service Leave ....................................................................................................... 24
+
+5.11.14.
+
+Portability of leave and recognition of prior service ................................................... 25
+
+5.11.15.
+
+Public holidays ............................................................................................................. 25
+
+6.
+
+SECTION 6: WORKING FLEXIBLY.............................................................................................. 26
+
+6.1.
+
+Flexible Working Arrangements.......................................................................................... 26
+
+6.2.
+
+Flextime or Time Off in Lieu ................................................................................................ 26
+
+6.3.
+
+Part-time employment ........................................................................................................ 26
+
+6.4.
+
+Working from home ............................................................................................................ 26
+
+7.
+
+SECTION 7: CO-OPERATIVE WORKING ARRANGEMENTS ....................................................... 27
+
+7.1.
+
+General consultation ........................................................................................................... 27
+
+7.2.
+
+Consultation relating to major change ............................................................................... 27
+
+7.3.
+
+Representation .................................................................................................................... 29
+
+7.4.
+
+Dispute resolution ............................................................................................................... 29
+
+8.
+
+SECTION 8: INTERPRETATIONS AND DEFINITIONS ................................................................. 31
+
+Appendix A: AUSTRADE PAY SCALES .............................................................................................. 32
+Appendix B: SUPPORTED SALARY PAYMENTS FOR EMPLOYEES WITH A DISABILITY .................... 33
+Appendix C: REDEPLOYMENT AND RETRENCHMENT PROVISIONS ............................................... 36
+
+Austrade Enterprise Agreement 2019–2022
+
+4
+
+FORMAL ACCEPTANCE OF THE AGREEMENT
+Employer
+
+Signed for, and on behalf of, the Commonwealth by the Chief Executive Officer of the Australian
+Trade and Investment Commission (Austrade):
+
+Full name
+Agency: Australian Trade and Investment Commission (Austrade)
+Address: 2 Phillip Law Street, Canberra ACT 2601
+
+Bargaining Representative: Community and Public Sector Union
+
+Signed for, and on behalf of, the Community and Public Sector Union
+
+me: Lisa Newman, CPSU Deputy National President
+Address: Level 7, 350 Queen Street, Melbourne VIC 3000
+
+Employee Bargaining Representative
+
+Full name: Cassandra Sinclair
+Address: 2 Phillip Law Street, Canberra ACT 2601
+
+Austrade Enterprise Agreement 2019-2022
+5
+
+1. SECTION 1: SCOPE OF THIS AGREEMENT
+1.1
+
+Title
+
+(1)
+
+This Agreement is made under section 172 of the Fair Work Act 2009 (FW Act) and
+shall be known as the Austrade Enterprise Agreement 2019–2022.
+
+1.2
+
+Coverage
+
+(1)
+
+The Agreement covers the Commonwealth of Australia and all Austrade employees
+engaged under section 22(1) or 72 of the Public Service Act 1999 (PS Act), with the
+exception of those engaged as Senior Executive Service (SES) employees.
+
+1.3
+
+Operation of the Agreement
+
+(1)
+
+This Agreement shall commence seven days after it is approved by the Fair Work
+Commission and shall nominally expire three years after the date of commencement.
+
+(2)
+
+This Agreement comprehensively states the terms and conditions of employment of
+the employees covered by this Agreement, other than implied terms of the contract of
+employment and terms and conditions applying under a Commonwealth law.
+
+1.4
+
+Entitlements under Commonwealth laws
+
+(1)
+
+Without incorporation into this Agreement, entitlements, if any, contained in the PS
+Act, the FW Act and other Commonwealth legislation will continue to apply. This
+includes, but is not limited to:
+(a)
+
+Long service leave
+
+(b)
+
+Maternity and parental leave
+
+(c)
+
+Superannuation
+
+(d)
+
+Work Health and Safety
+
+(e)
+
+Worker’s compensation
+
+(f)
+
+Review of actions
+
+(g)
+
+Disability, age and racial discrimination
+
+(h)
+
+Human rights and equal opportunity.
+
+(2)
+
+This Agreement will be read and interpreted in conjunction with the National
+Employment Standards (NES). Where there is an inconsistency between this
+Agreement and the NES, and the NES provides a greater benefit, the NES provision will
+apply to the extent of the inconsistency.
+
+1.5
+
+Relationship to Human Resources policies
+
+(1)
+
+Austrade’s Human Resources policies support this Agreement and provide information
+to employees and managers on the administration and application of conditions of
+service.
+
+Austrade Enterprise Agreement 2019–2022
+
+6
+
+(2)
+
+The express terms of this Agreement prevail over the policies to the extent of any
+inconsistency.
+
+(3)
+
+For the avoidance of doubt, Austrade's policies (including those referred to in this
+Agreement) are not incorporated into this Agreement.
+
+1.6
+
+Authorisation
+
+(1)
+
+The CEO may delegate or authorise a person, in writing, to exercise any of the powers
+or functions of the CEO under this Agreement (other than this power of authorisation)
+and may do so subject to conditions.
+
+1.7
+
+Individual Flexibility Arrangement
+
+(1)
+
+The CEO and an employee covered by this Agreement may agree to make an Individual
+Flexibility Arrangement to vary the effect of terms of the Agreement if:
+(a)
+
+the Agreement deals with one or more of the following matters:
+(i)
+
+arrangements about when work is performed;
+
+(ii) overtime rates;
+(iii) penalty rates;
+(iv) allowances;
+(v) remuneration;
+(vi) leave;
+(vii) leave loading; and
+
+(2)
+
+(3)
+
+(b)
+
+the arrangement meets the genuine needs of the employer and employee in
+relation to one or more of the matters mentioned in 1.7(1)(a); and
+
+(c)
+
+the arrangement is genuinely agreed to by the CEO and employee.
+
+The CEO must ensure that the terms of the individual flexibility arrangement:
+(a)
+
+are about permitted matters under section 172 of the Fair Work Act 2009;
+
+(b)
+
+are not unlawful terms under section 194 of the Fair Work Act 2009; and
+
+(c)
+
+result in the employee being better off overall than the employee would be if no
+arrangement was made.
+
+The CEO must ensure that the individual flexibility arrangement:
+(a)
+
+is in writing;
+
+(b)
+
+includes the name of the employer and employee; and
+
+(c)
+
+is signed by the CEO and employee and if the employee is under 18 years of age,
+signed by a parent or guardian of the employee; and
+
+(d)
+
+includes details of:
+(i)
+
+the terms of the enterprise agreement that will be varied by the
+arrangement; and
+Austrade Enterprise Agreement 2019–2022
+
+7
+
+(ii) how the arrangement will vary the effect of the terms; and
+(iii) how the employee will be better off overall in relation to the terms and
+conditions of their employment as a result of the arrangement; and
+(e)
+
+states the day on which the arrangement commences.
+
+(4)
+
+The CEO must give the employee a copy of the individual flexibility arrangement within
+14 days after it is agreed to.
+
+(5)
+
+The CEO or employee may terminate the individual flexibility arrangement:
+(a)
+
+by giving no more than 28 days written notice to the other party to the
+arrangement; or
+
+(b)
+
+if the CEO and employee agree in writing – at any time.
+
+2. SECTION 2: CLASSIFICATION STRUCTURE AND REMUNERATION
+2.1.
+
+Classification structure
+
+(1)
+
+This Agreement will transition Austrade from the Austrade Performance Level (APL)
+local designations structure to an APS classification structure.
+
+(2)
+
+The APL local designations set out in the Austrade Enterprise Agreement 2015–2018
+were assigned equivalent approved APS classifications in accordance with the Public
+Service Classification Rules 2000 (PS Classification Rules). The APL local designations
+will no longer apply from commencement of this Agreement and employees will be
+assigned to their equivalent APS classification and applicable pay point.
+
+(3)
+
+The Austrade pay scales at Appendix A detail the APL pay point conversion to the
+equivalent APS classification pay points.
+
+(4)
+
+On commencement of this Agreement, the bottom three APL5 pay points (APL501,
+APL502 and APL503) will be classified as the Executive Level 2 Specialist, the EL2.6,
+EL2.7 and EL2.8 pay points.
+
+(5)
+
+The APL504 pay point will be grandfathered on commencement of this Agreement.
+
+(6)
+
+The grandfathered APL504 pay point will become the EL2.9 pay point.
+
+(7)
+
+On commencement of this Agreement, employees will no longer be assigned to the
+grandfathered Executive Level 2 pay point – the EL2.9.
+
+(8)
+
+The grandfathered Executive Level 2 pay point will receive the general salary increases
+detailed at clause 2.5.
+
+(9)
+
+Advancement through an Austrade broadband will only occur where:
+(a)
+
+an employee’s performance is at least satisfactory;
+
+(b)
+
+there is sufficient work available at the higher classification level; and
+
+(c)
+
+the employee has the necessary skills and proficiencies to perform that work in
+accordance with the work level standards for that classification.
+
+Austrade Enterprise Agreement 2019–2022
+
+8
+
+2.2.
+
+APS classification structure
+
+(1)
+
+Austrade will transition to an APS classification structure on commencement of this
+Agreement.
+
+Former Austrade
+Performance Level (APL)
+Local Designation
+
+APS classification
+
+Salary rate on commencement
+
+APL5
+
+Executive Level 2 (grandfathered)
+
+Maximum/Minimum: $157,369 p/a
+
+APL5
+
+Executive Level 2
+Specialist
+
+Maximum: $151,681 p/a
+Minimum: $140,913 p/a
+
+APL4
+
+Executive Level 2
+
+Maximum: $135,494 p/a
+Minimum: $116,266 p/a
+
+APL3
+
+Executive Level 1
+
+Maximum: $111,795 p/a
+Minimum: $99,385 p/a
+
+APL2
+
+APS5–APS6 broadband
+
+Maximum: $93,320 p/a
+Minimum: $76,155 p/a
+
+APL1
+
+APS3–APS4 broadband
+
+Maximum: $73,226 p/a
+Minimum: $57,602 p/a
+
+APL1
+
+APS1–2 broadband
+
+Maximum: $55,386 p/a
+Minimum: $51,209 p/a
+
+2.3.
+
+Salary structure and salary on commencement
+
+(1)
+
+The salary ranges and pay points under this Agreement are provided at Appendix A.
+
+(2)
+
+An employee’s salary on engagement, promotion and assignment of duties (including
+higher duties and movement from another APS agency, whether temporary or
+ongoing) will ordinarily be at the minimum point of the salary range of the relevant
+APS classification. Engagement, promotion and assignment above the minimum pay
+point may be authorised by the CEO, if justified by the complexity and responsibility of
+the work, and the experience, qualifications and skills of the employee.
+
+(3)
+
+Where an employee transfers at level to Austrade from another APS agency, they will
+ordinarily be assigned to the pay point that is nearest to their substantive annual
+salary at that agency, without any reduction in salary to occur. The exception to this is
+when an employee’s salary at their previous agency is above Austrade’s EL2.5 pay
+point. There is no automatic entry to the EL2 Specialist pay points, therefore an
+employee’s salary will be maintained in accordance with 2.3(4) where their salary
+exceeds Austrade’s EL2.5 pay point.
+
+(4)
+
+Where an employee transfers at level to Austrade from another APS agency and the
+employee’s substantive salary at that agency exceeds the maximum pay point at the
+relevant APS classification in Austrade, the CEO may authorise that the employee’s
+
+Austrade Enterprise Agreement 2019–2022
+
+9
+
+salary be maintained at the higher amount until such time that it is absorbed into the
+relevant Austrade APS classification pay scale.
+2.4.
+
+Salary advancement
+
+(1)
+
+Salary advancement from one pay point to the next is effective on 1 July of each year.
+
+(2)
+
+Eligibility for salary advancement from one pay point to the next is contingent on:
+(a)
+
+the employee having occupied their current classification at the same pay point
+for a period of at least six months on 1 July; and
+
+(b)
+
+An employee’s performance being at least satisfactory within the current
+performance cycle, subject to the terms of Austrade’s Performance Management
+policy.
+
+(3)
+
+Non-ongoing employees who have been employed for a continuous period of at least
+six months at the same classification level and pay point on 1 July will be eligible for
+salary advancement, subject to 2.4(2) above.
+
+(4)
+
+There will be no salary advancement to the Executive Level 2 Specialist pay points
+(EL2.6, EL2.7 and EL2.8) unless the employee also has specialist experience,
+qualifications and/or skills that warrants specialist remuneration.
+
+(5)
+
+Where an employee is assigned to the Executive Level 2 Specialist, they will be eligible
+for pay point progression to the next pay point through the performance management
+cycle, provided they meet the criteria in 2.4(2).
+
+2.5.
+
+Salary increases
+
+(1)
+
+Under this agreement, employees will receive a productivity salary increase of:
+(a)
+
+2% – on commencement of the Agreement;
+
+(b)
+
+2% – 12 months after commencement; and
+
+(c)
+
+2% – 24 months after commencement.
+
+2.6.
+
+Adjustment to first pay increase under this Agreement
+
+(1)
+
+In this clause:
+(a) Commencement Date means the date the Agreement commences operation;
+and
+(b)
+
+(2)
+
+(3)
+
+Effective Date means the day which is 12 weeks after the date the Agreement
+was made in accordance with section 182 of the Fair Work Act 2009 (Cth).
+
+If the Commencement Date occurs after the Effective Date, then, in the first available
+pay period after the Commencement Date, Austrade will apply the increase at clause
+2.5(1)(a) from the Effective Date.
+The salary adjustment payment at clause 2.5(1)(a) applies only to salary and does not
+apply to any allowance or other payments provided for in this Enterprise Agreement.
+
+Austrade Enterprise Agreement 2019–2022
+
+10
+
+2.7.
+
+Payment of salary
+
+(1)
+
+Employees will be paid fortnightly in arrears, based on the following formula:
+Fortnightly pay =
+
+Annual Salary x 12
+313
+
+(2)
+
+Fortnightly salary will be paid by electronic funds transfer into a financial institution
+account of the employee’s choice.
+
+2.8.
+
+Engagement for duties that are Irregular or Intermittent
+
+(1)
+
+Casual employees’ will be paid a 20% loading in lieu of public holidays on which the
+employee is not rostered to work and paid leave excluding long service leave.
+
+(2)
+
+A casual employee will be paid for a minimum of four hours’ work per shift, regardless
+of the hours actually worked. Above this minimum, the employee will be paid for each
+hour that they work.
+
+(3)
+
+Casual employees are not entitled to flextime.
+
+2.9.
+
+Junior rates
+
+(1)
+
+Junior rates of pay apply to employees engaged at the APS1 classification aged below
+21 years of age. Adult rates apply on attainment of 21 years of age.
+
+(2)
+
+Junior rates as a percentage of the APS1 equivalent adult rate of pay apply as follows:
+•
+
+under 18 years
+
+60%
+
+•
+
+at 18 years
+
+70%
+
+•
+
+at 19 years
+
+81%
+
+•
+
+at 20 years
+
+91%
+
+2.10. Indigenous Cadet APS rates
+(1)
+
+If Austrade engages a Cadet APS under Austrade’s Indigenous Cadetship Program, the
+cadet will be paid at a pay point within the APS3 classification.
+
+(2)
+
+Cadet APS rates of pay will be as a percentage of the APS3 classification. The
+percentages apply as follows:
+
+(3)
+
+•
+
+practical training at the rate of 100%; and
+
+•
+
+full-time study at the rate of 57%.
+
+A Cadet APS will be engaged under schedule 2 of the PS Classification Rules and, as
+such, successful completion of training is a condition of ongoing employment.
+
+2.11. Trainee APS (Administrative)
+(1)
+
+If Austrade engages an employee as a Trainee APS (Administrative) to undertake a
+traineeship, the CEO will determine the conditions of employment to apply (provided
+
+Austrade Enterprise Agreement 2019–2022
+
+11
+
+that the employee is better off than the APS Award). The pay point will be determined
+within the APS1–2 broadband.
+(2)
+
+A Trainee APS (Administrative) will be engaged under schedule 2 of the PS
+Classification Rules and, as such, successful completion of training is a condition of
+ongoing employment.
+
+2.12. Graduates
+(1)
+
+If Austrade engages an employee under the APS Training Classification, Graduate APS,
+they will be paid at a pay point within the APS3 classification.
+
+(2)
+
+On successful completion of the graduate program, the Graduate APS employee will be
+assigned to the APS4 classification within the APS3–4 broadband. This will be at pay
+point APS4.1, unless a higher pay point is approved by the delegate.
+
+2.13. Supported salary payments for employees with a disability
+(1)
+
+Supported salary rates and conditions of employment as set out in Appendix B shall
+apply to an employee with a disability who is eligible for consideration under the
+supported wage system as defined in Appendix B.
+
+2.14. Superannuation
+(1)
+
+Austrade will make compulsory superannuation contributions on behalf of employees
+as required by the applicable legislation and fund requirements.
+
+(2)
+
+Employer contributions to the Superannuation Accumulation Plan (PSSap) will be
+15.4% of the employee’s fortnightly contribution salary.
+
+(3)
+
+Where an employee exercises superannuation choice, employer superannuation
+contributions will be at the same rate as the contribution rate for PSSap.
+
+(4)
+
+Employer contributions will not be reduced by any other contributions made through
+salary sacrifice arrangements. This clause does not apply where a superannuation fund
+cannot accept employer superannuation contributions (e.g. is unable to accept
+contributions for people aged over 75).
+
+(5)
+
+Employer superannuation contributions will not be paid on behalf of employees during
+periods of unpaid leave that does not count as service, unless otherwise required
+under legislation.
+
+3. SECTION 3: PEOPLE
+3.1.
+
+Employee Assistance Program
+
+(1)
+
+Austrade will provide employees and their immediate family members with access to a
+free, confidential and professional counselling service to support them with personal
+and work related issues through Austrade’s Employee Assistance Program.
+
+Austrade Enterprise Agreement 2019–2022
+
+12
+
+3.2.
+
+Study Assistance Scheme
+
+(1)
+
+Austrade will support personal development through the studies assistance and
+scholarship program.
+
+(2)
+
+Support for study leave and course fees will be provided to employees who are
+approved students undertaking external study in areas relevant to Austrade.
+
+4. SECTION 4: PERFORMANCE MANAGEMENT
+4.1.
+
+Performance Management
+
+(1)
+
+All eligible employees will participate in the Austrade Performance Management
+process.
+
+(2)
+
+The principles underpinning Performance Management are designed to:
+•
+
+support managers and employees to develop individual performance
+agreements that offer role clarity, agreed measures of satisfactory performance
+and opportunities for continuous development
+
+•
+
+align Austrade’s strategic priorities, business plans and APS Values and
+Austrade Values to individual performance agreements
+
+•
+
+acknowledge regular performance conversations, including timely feedback
+from managers, as key to effective working relationships and overall employee
+performance
+
+•
+
+support the identification of high performing employees.
+
+4.2.
+
+Managing underperformance
+
+(1)
+
+Austrade aims to promptly and fairly address and reduce the incidence of
+underperformance.
+
+(2)
+
+Underperformance may be identified at any time during the performance
+management cycle if a manager makes the assessment that an employee’s
+performance is unsatisfactory.
+
+(3)
+
+Where underperformance is identified, Austrade will work with the affected employee
+and their manager to assist them to attain and sustain the standards required in
+accordance with the relevant policy and procedure.
+
+(4)
+
+The formal underperformance procedures do not apply to employees on probation or
+non-ongoing employees.
+
+(5)
+
+An employee being subject to an underperformance process does not prevent
+Austrade from dealing with cases of suspected breaches of the code of conduct under
+its procedures for determining breaches of the code of conduct.
+
+4.3.
+
+Review of decisions to terminate employment
+
+(1)
+
+An employee’s employment may be terminated by Austrade under section 29 of the
+PS Act.
+Austrade Enterprise Agreement 2019–2022
+
+13
+
+(2)
+
+The sole and exhaustive rights and remedies of an employee in relation to termination
+of employment are those that the employee enjoys under the FW Act; other
+Commonwealth laws (including the Constitution); and common law.
+
+(3)
+
+Termination of, or a decision to terminate employment, cannot be reviewed under the
+Austrade procedures for preventing and settling disputes or review of employment
+related actions procedures in this Agreement.
+
+(4)
+
+Nothing in the Agreement prevents the CEO from terminating the employment of an
+employee for serious misconduct, without further notice or a payment in lieu of
+notice.
+
+5. SECTION 5: EMPLOYMENT CONDITIONS
+5.1.
+
+Overseas assignments – Conditions of employment
+
+(1)
+
+From time to time, employees may undertake long-term overseas postings.
+
+(2)
+
+Information about the conditions of employment for employees undertaking longterm overseas postings are contained in Austrade’s policies and procedures for longterm overseas postings.
+
+5.2.
+
+Professional relocation assistance
+
+(1)
+
+Austrade may provide existing or new employees with financial assistance for
+relocation and removal expenses if the employee is required by Austrade to relocate
+within Australia.
+
+(2)
+
+Austrade will fund a professional relocation service to assist Austrade employees and
+their families who are relocated within Australia, or on return to Australia from an
+overseas assignment.
+
+(3)
+
+The level of funding will be determined by the CEO, depending on the employee’s
+family composition and the level of assistance required.
+
+(4)
+
+Financial assistance for employee instigated relocations, whether an existing or
+prospective employee, will generally not be provided unless there is exceptional
+circumstances.
+
+5.3.
+
+Travel
+
+(1)
+
+All reasonable meal, accommodation and incidental costs, as determined by the CEO,
+incurred during official travel (domestic and international) are met by Austrade,
+through the use of a corporate credit card or on a reimbursement basis.
+
+5.4.
+
+Ordinary hours
+
+(1)
+
+The ordinary hours of work of full-time employees covered by this Agreement will be
+37.5 hours a week which translate to 7.5 hours a day from Monday to Friday.
+
+Austrade Enterprise Agreement 2019–2022
+
+14
+
+•
+
+For part-time employees, ordinary hours of duty are those agreed in their parttime work agreement. Part-time employees are guaranteed a minimum of
+three hours duty, unless otherwise agreed.
+
+•
+
+The five day work period (Monday to Friday) may vary for employees located
+overseas, to accord with local conditions.
+
+(2)
+
+An employee will not be required to work beyond a maximum of five hours without a
+break of at least 30 minutes.
+
+5.5.
+
+Span of hours
+
+(1)
+
+The span of hours during which employees may work ordinary hours is 7.00am to
+7.00pm Monday to Friday in Australia, or another five day period for employees at an
+overseas location in line with local conditions. All employees are to agree on their
+pattern of attendance at work with their manager, to ensure that operational
+requirements are met.
+
+(2)
+
+Where an employee requests to work outside this span of hours for personal reasons,
+they may do so with the agreement of their manager, provided operational
+requirements can be satisfied. Any hours worked on this basis will be treated as
+ordinary hours and will not attract overtime rates.
+
+5.6.
+
+Overtime
+
+(1)
+
+Where necessitated by operational requirements, a manager may direct an employee
+to work overtime outside ordinary hours.
+
+(2)
+
+An employee may refuse to work overtime in circumstances where the working of
+such overtime would result in the employee working hours which are unreasonable in
+accordance with section 63(2) of the FW Act.
+
+(3)
+
+Only APS1–APS6 employees will be paid for working overtime. A manager may
+approve for overtime rates to be paid for work performed by employees, at the APS1–
+APS6 classifications either outside the span of hours specified at clause 5.5, or in
+excess of 7.5 hours on any one day, Monday to Friday.
+
+(4)
+
+All APS1–APS6 employees working authorised overtime may, with the agreement of
+their manager, take their overtime entitlement as time-off-in-lieu, calculated at the
+applicable overtime rate. In cases where time-off-in-lieu has been granted but
+operational requirements have prevented the employee from taking time off within
+four weeks or other agreed period, payment for the overtime will be made.
+
+(5)
+
+Overtime rates are as follows:
+•
+
+Monday to Friday:
+
+time and a half
+
+•
+
+Saturday, Sunday and Public Holidays:
+
+double time
+
+Where an employee works overtime on a public holiday that they are ordinarily
+scheduled to work, the payment of salary for the public holiday is single time during
+ordinary hours. Payment is double time for hours worked outside ordinary hours.
+
+Austrade Enterprise Agreement 2019–2022
+
+15
+
+(6)
+
+An employee’s salary for the purposes of calculating overtime will include any higher
+duties allowance payable to the employee at that time.
+
+(7)
+
+An employee, who works overtime outside the span of hours extending over the entire
+duration of a meal period will be paid a meal allowance.
+
+(8)
+
+For the purposes of this clause a meal period is:
+•
+
+Monday to Friday:
+
+7.00am to 9.00am
+6.00pm to 7.00pm
+midnight to 1.00am
+
+•
+
+Saturdays, Sundays & Public Holidays:
+
+7.00am to 9.00am
+12.30pm to 1.30pm
+6.00pm to 7.00pm
+midnight to 1.00am
+
+5.7.
+
+Emergency duty
+
+(1)
+
+Emergency duty occurs when an APS1–APS6 employee is required to work to meet an
+emergency situation, at a time that the employee would not ordinarily be on duty,
+with no notice given before completion of the employee’s last period of ordinary duty.
+
+(2)
+
+Payment for such duty will be at double time and will include time spent necessarily
+travelling to and from duty. The minimum payment will be for two hours.
+
+(3)
+
+Further information is contained in the Overtime and Emergency Duty policy.
+
+5.8.
+
+Redeployment and retrenchment
+
+(1)
+
+The procedures for handling redeployment and retrenchment for Austrade employees
+are described at Appendix C.
+
+5.9.
+
+Resignation and retirement
+
+(1)
+
+An employee may resign or retire by giving the CEO 14 calendar days’ written notice.
+The CEO may agree to waive this requirement or agree to a shorter notice period if
+requested by the employee.
+
+(2)
+
+The CEO may give effect to a resignation at an earlier date within the notice period. In
+such cases, the employee will be paid compensation in lieu of the notice period which
+is not worked.
+
+5.10. Allowances
+5.10.1. Higher Duties allowance
+(1)
+
+An employee directed to temporarily perform work at a higher classification level for
+periods in excess of 10 continuous working days will be paid an allowance determined
+under clause 5.10.1(2) for the entire continuous period.
+
+Austrade Enterprise Agreement 2019–2022
+
+16
+
+(2)
+
+An employee directed to perform all the duties of a higher level will be paid an
+allowance equal to the difference between the employee’s own salary and the salary
+the employee would receive if they were promoted to the higher level position. The
+CEO may determine an alternative amount when partial performance is directed, or
+when the employee is performing the duties of a position at SES level.
+
+(3)
+
+Where an employee undertakes any period of higher duties, the period working at the
+higher level will be taken into account in their performance review. This includes short
+term higher duties where there is no eligibility for pay progression at the end of the
+performance cycle.
+
+5.10.2. First Aid Officer allowance
+(1)
+
+An employee who possesses a current first aid certificate and who is appointed as a
+First Aid Officer to undertake first aid responsibilities within Austrade will be paid an
+allowance relevant to their first aid qualifications. The First Aid allowance will be
+increased in line with the salary increases of this Agreement.
+
+(2)
+
+Employees undertaking both First Aid Officer and Fire Warden responsibilities will not
+be entitled to payment for both.
+
+5.10.3. Fire Warden allowance
+(1)
+
+An employee who is appointed as a Fire Warden will be paid an allowance for the
+period of their appointment, subject to undertaking the required training. The Fire
+Warden allowance will be increased in line with the salary increases of this Agreement.
+
+(2)
+
+Employees undertaking both Fire Warden and First Aid Officer responsibilities will not
+be entitled to payment for both.
+
+5.10.4. Liaison Officer allowance
+(1)
+
+An employee who is appointed as a Liaison Officer in the office of the Minister
+responsible for Austrade will be paid an annual allowance. The Liaison Officer
+allowance will be increased in line with the salary increases of this Agreement.
+
+5.10.5. Motor vehicle allowance
+(1)
+
+Where the CEO considers that it will be more efficient and cost-effective, employees
+may be authorised to use a private car owned by the employee or hired by the
+employee at Austrade expense for official travel. Where an employee uses their
+private car for official travel they will be entitled to a motor vehicle allowance.
+
+5.10.6. Language proficiency allowance
+(1)
+
+Language Proficiency allowance will be paid fortnightly to an employee at a rate
+commensurate with the level achieved in an officially recognised language test. The
+allowance will be payable where the use of the language is a requirement for the
+performance of their duties.
+
+Austrade Enterprise Agreement 2019–2022
+
+17
+
+5.10.7. Healthy living reimbursement
+(1)
+
+In support of the potential benefit to Austrade of employees undertaking healthy
+lifestyle initiatives, each eligible ongoing employee may apply for reimbursement of
+expenses towards maintaining a healthy lifestyle.
+
+(2)
+
+As at commencement of this agreement, the rate of the reimbursement is up to $400
+per financial year. This limit will be adjusted by the year to date CPI rate released for
+the March quarter each year during the life of this agreement. Adjustments will take
+effect from 1 July each year.
+
+(3)
+
+Further information is contained in the Healthy Living Reimbursement policy.
+
+5.11. Leave provisions
+5.11.1. Annual leave
+5.11.1.1.
+
+Accrual, approval and cancellation
+
+(1)
+
+Employees, other than casual employees, are entitled to accrue four weeks’ paid
+annual leave for each year of service. Annual leave accrues progressively and
+employees are able to access to leave entitlements as they accrue.
+
+(2)
+
+Part-time employees accrue annual leave on a pro rata basis.
+
+(3)
+
+Annual leave can be taken at full pay or half pay, with the exception of employees on
+long-term overseas postings who cannot access annual leave at half pay unless they
+are on parental leave. Annual leave credits will only be deducted at half the duration
+when half pay leave is taken.
+
+(4)
+
+An employee with excess leave entitlements in accordance with 5.11.1.2 will not be
+allowed to take half pay annual leave unless exceptional circumstances apply.
+
+(5)
+
+Periods of leave without pay will not count as service for annual leave accrual
+purposes.
+
+(6)
+
+The CEO may approve an application by an employee for annual leave up to the
+employee’s maximum accrued credit. Periods of annual leave count as service for all
+purposes.
+
+(7)
+
+Where a public holiday occurs while an employee is on a period of annual leave, the
+public holiday is not deducted from the employee’s annual leave credit.
+
+(8)
+
+Where an employee is on half pay annual leave and a public holiday occurs that the
+employee is scheduled to work, the public holiday will be paid at full pay.
+
+(9)
+
+Where an employee’s annual leave is cancelled without reasonable notice, or an
+employee is recalled to work from leave, the employee will be reimbursed travel costs
+and incidental expenses as determined by the CEO, that are not otherwise recoverable
+under insurance or from any other source.
+
+Austrade Enterprise Agreement 2019–2022
+
+18
+
+5.11.1.2.
+
+Excess annual leave
+
+(1)
+
+On 1 February in each year, any employee who has an annual leave entitlement of
+more than 40 days (or two years of accrual at the applicable pro rata amount for a
+part-time employee) may be directed to take an amount of annual leave to reduce
+their entitlement to 40 days or under.
+
+(2)
+
+Where an employee has an excess annual leave entitlement, a leave management plan
+will be agreed between the employee and their manager in order to reduce the excess
+leave entitlement.
+
+(3)
+
+Where an employee does not reduce their entitlement to 40 days or fails to comply
+with a leave management plan, they may be directed in writing to take annual leave.
+Such an employee will not be required to attend work for that period and they will
+receive their annual leave entitlement for the period for which they have been
+directed to take annual leave. The employee will be regarded as being on annual leave
+for all purposes during that period.
+
+5.11.1.3.
+
+Cash out annual leave
+
+(1)
+
+An employee may request to cash out a portion of their accrued annual leave credits.
+
+(2)
+
+The employee must have at least four weeks of annual leave credit remaining after
+cashing out their annual leave.
+
+(3)
+
+Each request to cash out leave must be a separate agreement in writing between the
+employee and the CEO.
+
+(4)
+
+The employee will be paid the full amount that would have been paid to them had
+they taken the leave that is cashed out.
+
+5.11.1.4.
+(1)
+
+Payment on termination of employment
+
+Accrued annual leave will be paid out on termination of employment, less adjustment
+if necessary for periods not to count as service. Payment in lieu of accrued leave on
+termination of employment will include allowances payable in Australia which would
+have been payable for the period if the employee had accessed the accrued leave.
+
+5.11.2. Christmas/New Year leave arrangements
+(1)
+
+As an international organisation, it is necessary for Austrade to continue essential
+operations over the Christmas/New Year period.
+
+(2)
+
+Employees based in Australia over this period will be reduced to the minimum level
+necessary to meet essential operational requirements.
+
+(3)
+
+Staffing will be arranged primarily on a volunteer basis. Where operational
+requirements cannot be met on this basis, employees may be requested to work,
+including on the public holidays falling in the Christmas/New Year period. Where an
+employee other than a casual employee is requested to work on any of the public
+holidays falling in the Christmas/New Year period, the employee may refuse the
+request where they have reasonable grounds for doing so.
+
+Austrade Enterprise Agreement 2019–2022
+
+19
+
+(4)
+
+Between Christmas and New Year, employees, other than casual employees, who are
+not required to work over this period, will be eligible for three days’ paid leave without
+deduction from accrued leave credits. Employees other than casual employees who
+are required to work over the period will be eligible for time off in lieu at a subsequent
+date, subject to operational requirements.
+
+5.11.3. Purchased leave
+(1)
+
+An ongoing employee based in Australia may purchase up to four weeks of additional
+leave in any one year period (pro-rata amounts apply to part-time employees).
+
+(2)
+
+An ongoing employee on a long-term overseas posting may purchase up to two weeks
+of additional leave in any one year period (pro-rata amounts apply to part-time
+employees).
+
+(3)
+
+Purchased leave is credited to the employee for immediate use. The leave is paid for
+progressively each pay day over a period of 12 months, or a shorter period if
+requested by the employee. Payments for the purchased leave commence
+immediately following the leave being credited.
+
+(4)
+
+Periods of purchased leave count for service.
+
+(5)
+
+Purchased leave may be refused where an employee has an excess annual leave
+entitlement in accordance with clause 5.11.1.2.
+
+5.11.4. Personal / Carer’s leave
+(1)
+
+An employee may take personal/carer’s leave if the leave is taken:
+(a)
+
+because the employee is not fit for work because of a personal illness, or
+personal injury, effecting the employee; or
+
+(b)
+
+because of an emergency effecting the employee; or
+
+(c)
+
+to provide care or support to a member of the employee’s immediate family, or
+a member of the employee’s household, who requires care or support because
+of:
+(i)
+
+a personal illness, or personal injury, affecting the member; or
+
+(ii) an unexpected emergency affecting the member; or
+(d)
+
+for the purpose of moving house (ordinarily one day per calendar year); or
+
+(e)
+
+for the purpose of attending a funeral.
+
+Leave must not be taken for the reasons in (b), (d) or (e) above to the extent that it
+results in less than 10 days of an employee’s personal/carers’ leave credits, per year of
+service, being available for use for personal injury or illness and caring as provided
+under the Fair Work Act 2009.
+(2)
+
+Ongoing full-time employees are entitled to 20 days’ personal/carer’s leave for each
+year of service which will accrue daily and accumulate from year to year. Part-time
+employees accrue personal/carer’s leave on a pro rata basis.
+
+Austrade Enterprise Agreement 2019–2022
+
+20
+
+(3)
+
+Non-ongoing full-time employees, other than irregular or intermittent employees, are
+entitled to accrue 20 days’ paid personal/carer’s leave for each year of service. Parttime non-ongoing employees accrue personal/carer’s leave on a pro rata basis.
+Unused credits will be cumulative.
+
+(4)
+
+Employees have access to personal/carer’s leave entitlements as they accrue.
+
+(5)
+
+Employees who are absent for greater than three consecutive work days on
+personal/carer’s leave will be required to provide supporting evidence for the period
+of leave.
+
+(6)
+
+Employees who have exhausted their personal/carer’s leave entitlement may use
+unpaid personal/carer’s leave.
+
+(7)
+
+Personal/carer’s leave counts for service for all purposes.
+
+(8)
+
+Employees who have exhausted their personal/carer’s leave are entitled to two days’
+unpaid carer’s leave for each occasion where a member of the employee’s immediate
+family or household requires care because of illness, injury or unexpected emergency.
+This leave will count as service for all purposes.
+
+(9)
+
+Accrued personal/carer’s leave will not be paid out on termination of employment.
+
+(10) Casual employees are entitled to two days’ unpaid carer’s leave for each occasion
+when an employee’s immediate family or household requires care or support because
+of a personal illness, injury, or an unexpected emergency.
+5.11.5. Compassionate leave
+(1)
+
+An employee is entitled to a period of two days’ paid leave for each occasion when a
+member of the employee’s immediate family or household has a personal illness or
+injury that poses a serious threat to their life, or dies, in accordance with section 104
+of the FW Act.
+
+(2)
+
+If the leave is due to illness or injury that poses a serious threat to the immediate
+family member or household member of the employee, it can be taken at any time
+while the illness or injury persists.
+
+(3)
+
+The leave can be taken in a single unbroken period of two days or two separate
+periods of one day.
+
+(4)
+
+Austrade may require the employee to provide evidence of the illness, injury or death
+in support of the request for leave.
+
+(5)
+
+Casual employees are entitled to two days’ unpaid compassionate leave per occasion.
+
+5.11.6. Miscellaneous leave
+(1)
+
+The CEO may approve miscellaneous leave for employees, other than casual
+employees, either with or without pay. The CEO may also prescribe the circumstances
+under which leave without pay may count as service.
+
+Austrade Enterprise Agreement 2019–2022
+
+21
+
+5.11.7. Family and domestic violence
+(1)
+
+Austrade is committed to supporting employees who are affected by family and
+domestic violence.
+
+(2)
+
+Leave is available to employees who are affected by family and domestic violence.
+Employees can apply for either paid or unpaid miscellaneous leave or personal/carer’s
+leave to cover absences for the purpose of, but not limited to:
+•
+
+illness or injury resulting from family and domestic violence;
+
+•
+
+providing care or support to a family or household member who is ill or injured
+as a result of family and domestic violence;
+
+•
+
+providing care or support to a family or household member who is affected by
+an unexpected emergency as a result of family and domestic violence;
+
+•
+
+attending appropriate medical and/or counselling appointments;
+
+•
+
+obtaining legal advice;
+
+•
+
+attending court hearings;
+
+•
+
+attending police appointments;
+
+•
+
+attending to urgent issues arising through property damage that is a
+consequence of family violence;
+
+•
+
+accessing alternative accommodation;
+
+•
+
+attending to personal affairs such as arranging new bank accounts or loans;
+
+•
+
+arranging alternative childcare or schooling for children.
+
+(3)
+
+Documentary evidence may be requested for absences related to family and domestic
+violence. The employee and their supervisor will discuss and agree on appropriate
+options. This may include statements from the police, courts or a legal representative,
+or statutory declarations.
+
+(4)
+
+Where an employee experiencing family and domestic violence does not feel
+comfortable discussing their absence with their supervisor, they may contact Human
+Resources who can authorise the absence. A person acting on behalf of an employee
+may also contact the employee’s supervisor or Human Resources to advise them of an
+absence under this clause.
+
+5.11.8. Cultural and ceremonial leave
+(1)
+
+The CEO may approve up to three days’ paid leave each calendar year for days of
+cultural significance for Aboriginal and Torres Strait Islander employees.
+
+5.11.9. Community service leave
+(1)
+
+Employees will be entitled to paid leave to count as service for eligible community
+services activities as defined by the FW Act. This includes jury duty and emergency
+services activities, including training, emergency service responses, reasonable travel
+and recovery time, and ceremonial duties.
+Austrade Enterprise Agreement 2019–2022
+
+22
+
+5.11.10. Leave for ADF Reserve and Continuous Full Time Service or Cadet Force obligations
+(1)
+
+An employee may be granted leave (with or without pay) to enable the employee to
+fulfil Australian Defence Force (ADF) Reserve and Continuous Full Time Service (CFTS)
+or Cadet Force obligations.
+
+(2)
+
+An employee is entitled to ADF Reserve leave with pay, for up to four weeks during
+each financial year for the purpose of fulfilling service in the ADF Reserve. These
+purposes include training and operational duty as required.
+(a) During the employee's first year of ADF Reserve service, a further two weeks’
+paid leave may be granted to facilitate participation in additional ADF Reserve
+training, including induction requirements.
+(b) With the exception of the additional two weeks in the first year of service, leave
+can be accumulated and taken over a period of two years, to enable the
+employee to undertake training as a member of the ADF Reserve.
+(c) Employees are not required to pay their tax free ADF Reserve salary to the
+Agency in any circumstances.
+
+(3)
+
+Defence Reserve leave counts as service for all purposes, except for unpaid leave to
+undertake Continuous Full Time Service (CFTS). Unpaid leave for the purpose of CFTS
+counts for all purposes except annual leave.
+
+(4)
+
+Eligible employees may also apply for annual leave, long service leave, leave without
+pay, top-up pay or they may use flextime or make up time for the purpose of fulfilling
+ADF Reserve, CFTS or Cadet Force obligations.
+
+(5)
+
+Employees are to notify supervisors at the earliest opportunity once the dates for ADF
+Reserve, CFTS or Cadet Force activities are known and/or changed.
+
+5.11.11. Maternity leave
+(1)
+
+Eligible employees are entitled to maternity leave in accordance with the provisions of
+the Maternity Leave (Commonwealth Employees) Act 1973 (the ML Act).
+
+(2)
+
+Where an employees is eligible for 12 weeks’ paid leave under the ML Act, they will be
+entitled to a further two weeks’ paid leave commencing immediately after the 12
+weeks.
+
+(3)
+
+Employees who are eligible for paid maternity or parental leave may elect to have the
+payment for that leave spread over a maximum of 28 weeks at a rate no less than half
+normal salary. This is an administrative arrangement for the payment of an
+employee’s paid maternity leave under the ML Act and this Agreement. Where
+payment is spread over a longer period, a maximum of 14 weeks will count as service.
+
+(4)
+
+The maximum period of combined parental and maternity leave accessible is two years
+of paid and unpaid leave.
+
+Austrade Enterprise Agreement 2019–2022
+
+23
+
+5.11.12. Parental leave
+5.11.12.1. Unpaid parental leave
+(1)
+
+Parental and adoption leave are provided for in accordance with the provisions of the
+FW Act. In addition, where an employee assumes a permanent foster care
+arrangement for a child, the employee is also eligible for parental leave after 12
+months of service. An employee who is eligible for unpaid parental leave under the FW
+Act is entitled to leave of absence without pay for a maximum of two years to care for
+a newborn, or newly adopted/ fostered child.
+
+5.11.12.2. Paid parental leave
+(1)
+
+An employee with a minimum qualifying service of 12 months service is eligible for
+paid adoption leave and foster parents’ leave. The entitlement to payment is for the
+first 14 weeks of adoption/foster parents’ leave which can be converted to half pay.
+Where payment is spread over a longer period, a maximum of 14 weeks will count as
+service. The provisions for paid adoption/foster parents’ leave mirrors the same
+provisions as paid maternity leave.
+
+(2)
+
+An employee whose spouse or partner is giving birth to, or adopting, or permanently
+fostering a child may access two weeks’ paid parental leave at the time of birth,
+adoption, or permanent foster care. Paid parental leave for supporting partners may
+also be converted to half pay upon request; however only the first two weeks will
+count as service.
+
+5.11.12.3. Returning to work after parental leave
+(1)
+
+An employee returning from parental leave may request to return to work on a parttime basis.
+
+(2)
+
+On ending maternity or parental leave, employees have the return to work guarantee
+and the right to request flexible working arrangements that are provided by the FW
+Act.
+
+(3)
+
+An employee who has taken parental leave in excess of four weeks is required to give
+their manager at least four weeks’ notice of the date the employee proposes to return
+to work.
+
+5.11.13. Long Service Leave
+(1)
+
+Employees who have accrued an entitlement under the Long Service (Commonwealth
+Employees) Act 1976 may access long service leave for a minimum period of seven
+calendar days at full pay, or 14 calendar days at half pay.
+
+(2)
+
+Long service leave will not be granted in patterns where a period of any other leave
+type, or public holiday, breaks the period of long service leave (for example, long
+service leave/annual leave/long service leave), unless otherwise required by
+legislation. Long service leave may be granted in combination with other leave in
+patterns where this does not occur (for example, annual leave/long service
+leave/annual leave/return to work).
+
+Austrade Enterprise Agreement 2019–2022
+
+24
+
+5.11.14. Portability of leave and recognition of prior service
+(1)
+
+Where an employee is engaged as either an ongoing or non-ongoing APS employee
+immediately following a period of ongoing employment in the Parliamentary Service or
+the ACT Government Service, the employee’s unused accrued annual leave and
+personal/carer’s leave (however described) will be recognised.
+
+(2)
+
+Where an employee moves to Austrade from another Commonwealth agency
+(including on a temporary basis), where they were an ongoing APS employee, the
+employee’s unused accrued annual leave and personal/carer’s leave (however
+described) will transfer to Austrade, provided there is no break in continuity of service.
+
+5.11.15. Public holidays
+(1)
+
+Employees will be entitled to the following public holidays:
+•
+
+New Year's Day (1 January);
+
+•
+
+Australia Day (26 January);
+
+•
+
+Good Friday;
+
+•
+
+Easter Monday;
+
+•
+
+Anzac Day (25 April);
+
+•
+
+The Queen's Birthday holiday (on the day on which it is celebrated in a State or
+Territory or a region of a State or Territory);
+
+•
+
+Christmas Day (25 December);
+
+•
+
+Boxing Day (26 December);
+
+•
+
+Any other day, or part-day, declared or prescribed by, or under a law of a State
+or Territory to be observed generally within the State or Territory, or a region
+of the State or Territory, as a public holiday, other than a day or part-day, or a
+kind of day or part-day, that is excluded by the Fair Work Regulations from
+counting as a public holiday.
+
+(2)
+
+If an employee performs work on Easter Saturday at the request of Austrade, the
+employee will be paid at the public holiday salary rate (applicable to their
+classification) for the hours of work performed on that day, even if that day is not
+otherwise a public holiday for the purposes of this Agreement.
+
+(3)
+
+If under a State or Territory law, a day or part day is substituted for one of the public
+holidays listed above, then the substituted day or part day is the public holiday.
+
+(4)
+
+The CEO and an employee may agree on the substitution of a day or part day that
+would otherwise be a public holiday, having regard to operational requirements.
+
+(5)
+
+An employee, who is absent on a day or part-day that is a public holiday in the place
+where the employee is based for work purposes, is entitled to be paid for the part or
+full day absence as if that day or part-day was not a public holiday, except where that
+person would not normally have worked on that day.
+
+Austrade Enterprise Agreement 2019–2022
+
+25
+
+(6)
+
+Where a public holiday falls during a period when an employee is absent on leave
+(other than annual leave or paid personal/carer’s leave) there is no entitlement to
+receive payment as a public holiday. Payment for that day would be in accordance
+with the entitlement for that form of leave (e.g. if on long service leave on half pay,
+payment is on half pay).
+
+6. SECTION 6: WORKING FLEXIBLY
+6.1.
+
+Flexible Working Arrangements
+
+(1)
+
+An employee, where eligible, may request a change in their working arrangements in
+accordance with section 65 of the FW Act.
+
+6.2.
+
+Flextime or Time Off in Lieu
+
+(1)
+
+APS1–APS6 employees, other than casual employees, are entitled to access flextime.
+The settlement period for flextime is four weeks.
+
+(2)
+
+EL1 and EL2 employees do not have access to flextime but are able to work flexible
+work hours. Managers of EL1 and EL2 employees may provide time off in lieu (TOIL) to
+recognise additional hours worked. While TOIL will not be one hour for one hour, it
+should be fair and reasonable in relation to the additional hours worked. Agreed
+flexible arrangements may provide for TOIL without deduction from leave credits in
+recognition of extra time worked required to complete job requirements.
+
+(3)
+
+All employees are required to submit flexible work requests to their manager in
+writing. Any decisions on flexible work requests will also be provided in writing to
+employees.
+
+6.3.
+
+Part-time employment
+
+(1)
+
+Managers may approve reasonable requests from employees for part-time work
+arrangements, subject to operational requirements.
+
+(2)
+
+Managers may initiate the introduction or extension of part-time employment.
+Employees will not be required to convert from full-time to part-time hours, or from
+part-time to full-time hours, without their agreement.
+
+(3)
+
+The manager and the employee may agree to vary a part-time work agreement,
+including a reversion to full-time hours, before the end of any period of an agreed
+part-time working arrangement.
+
+(4)
+
+Employees returning from maternity, parental and adoption leave may request to
+return to work on a part-time basis.
+
+(5)
+
+All requests and decisions for part-time work arrangements will be notified and agreed
+in writing.
+
+6.4. Working from home
+(1)
+
+Employees may request to work from home on a short or long term basis. In
+considering requests the manager will have regard to operational requirements and
+Austrade Enterprise Agreement 2019–2022
+
+26
+
+the hours of work provisions of this Agreement as well as security and work, health
+and safety considerations.
+(2)
+
+Requests for ad hoc working from home will be considered by managers on a case by
+case basis.
+
+7. SECTION 7: CO-OPERATIVE WORKING ARRANGEMENTS
+7.1.
+
+General consultation
+
+(1)
+
+Following the commencement of this Agreement, a Workplace Relations Committee
+(WRC) will be established to monitor the implementation and operation of this
+Agreement.
+
+(2)
+
+Austrade will allow a reasonable period for the WRC to consider issues.
+
+(3)
+
+Austrade will continue to undertake consultation with employees through both formal
+and informal forums, including the WRC.
+
+7.2.
+
+Consultation relating to major change
+
+(1)
+
+This consultation terms applies if Austrade:
+
+(2)
+
+(a)
+
+has made a definite decision to introduce a major change to production,
+program, organisation, structure or technology in relation to its enterprise that is
+likely to have a significant effect on the employees; or
+
+(b)
+
+proposes to introduce a change to the regular roster or ordinary hours of work of
+employees; and
+
+(c)
+
+Appendix C does not apply to the change.
+
+For a major change referred to in 7.2 (1)(a):
+(a)
+
+Austrade must notify the relevant employees of the decision to introduce the
+major change; and
+
+(b)
+
+Subclauses 7.2(3) to 7.2(9) apply.
+
+(3)
+
+The relevant employees may appoint a representative for the purposes of the
+procedures in this term.
+
+(4)
+
+If:
+(a)
+
+a relevant employee appoints, or relevant employees appoint, a representative
+for the purposes of consultation; and
+
+(b)
+
+the employee or employees advise the employer of the identity of the
+representative;
+
+Austrade must recognise the representative.
+(5)
+
+As soon as practicable after making its decision, Austrade must:
+(a)
+
+discuss with the relevant employees:
+(i)
+
+the introduction of the change; and
+
+Austrade Enterprise Agreement 2019–2022
+
+27
+
+(ii)
+
+the effect the change is likely to have on the employees; and
+
+(iii)
+
+measures the employer is taking to avert or mitigate the adverse effect of
+the change on the employees; and
+
+(b)
+
+for the purposes of the discussion—provide, in writing, to the relevant
+employees:
+(i)
+
+all relevant information about the change including the nature of the
+change proposed; and
+
+(ii)
+
+information about the expected effects of the change on the employees;
+and
+
+(iii)
+
+any other matters likely to affect the employees.
+
+(6)
+
+However, Austrade is not required to disclose confidential or commercially sensitive
+information to the relevant employees.
+
+(7)
+
+Austrade must give prompt and genuine consideration to matters raised about the
+major change by the relevant employees.
+
+(8)
+
+If a term in this Agreement provides for a major change to production, program,
+organisation, structure or technology in relation to the enterprise of Austrade, the
+requirements set out in subclause 7.2(2)(a) and subclauses 7.2(3) and 7.2(5) are taken
+not to apply.
+
+(9)
+
+In this term, a major change is likely to have a significant effect on employees if it
+results in:
+(a)
+
+the termination of the employment of employees; or
+
+(b)
+
+major change to the composition, operation or size of Austrade’s workforce or to
+the skills required of employees; or
+
+(c)
+
+the elimination or diminution of job opportunities (including opportunities for
+promotion or tenure); or
+
+(d)
+
+the alteration of hours of work; or
+
+(e)
+
+the need to retrain employees; or
+
+(f)
+
+the need to relocate employees to another workplace; or
+
+(g)
+
+the restructuring of jobs.
+
+Change to regular roster or ordinary hours of work
+(10) For a change referred to in subclause 7.2(1)(b):
+(a)
+
+the employer must notify the relevant employees of the proposed change; and
+
+(b)
+
+subclauses 7.2(11) to 7.2(15) apply.
+
+(11) The relevant employees may appoint a representative for the purposes of the
+procedures in this term.
+(12) If:
+(a)
+
+a relevant employee appoints, or relevant employees appoint, a representative
+for the purposes of consultation; and
+Austrade Enterprise Agreement 2019–2022
+
+28
+
+(b)
+
+the employee or employees advise the employer of the identity of the
+representative;
+
+the employer must recognise the representative.
+(13) As soon as practicable after proposing to introduce the change, the employer must:
+(a)
+
+discuss with the relevant employees the introduction of the change; and
+
+(b)
+
+for the purposes of the discussion—provide to the relevant employees:
+
+(c)
+
+(i)
+
+all relevant information about the change, including the nature of the
+change; and
+
+(ii)
+
+information about what the employer reasonably believes will be the effects
+of the change on the employees; and
+
+(iii)
+
+information about any other matters that the employer reasonably believes
+are likely to affect the employees; and
+
+invite the relevant employees to give their views about the impact of the change
+(including any impact in relation to their family or caring responsibilities).
+
+(14) However, the employer is not required to disclose confidential or commercially
+sensitive information to the relevant employees.
+(15) The employer must give prompt and genuine consideration to matters raised about
+the change by the relevant employees.
+(16) In this term, ‘relevant employees’ means the employees who may be affected by
+change referred to in subclause 7.2(1).
+7.3.
+
+Representation
+
+(1)
+
+In any matter arising under this Agreement, an employee may have an employee
+representative assist or represent them, and all relevant persons will deal with any
+such representative in good faith.
+
+7.4.
+
+Dispute resolution
+
+(1)
+
+If a dispute relates to:
+(a)
+
+a matter arising under the Agreement;
+
+(b)
+
+the National Employment Standards;
+
+this term sets out procedures to settle the dispute.
+(2)
+
+An employee who is a party to the dispute may appoint a representative for the
+purposes of the procedures in this term.
+
+(3)
+
+In the first instance, the parties to the dispute must try to resolve the dispute at the
+workplace level, by discussions between the employee or employees and relevant
+supervisors and/or management.
+
+(4)
+
+If discussions at the workplace level do not resolve the dispute, a party to the dispute
+may refer the matter to the Fair Work Commission.
+
+Austrade Enterprise Agreement 2019–2022
+
+29
+
+(5)
+
+The Fair Work Commission may deal with the dispute in 2 stages:
+(a)
+
+the Fair Work Commission will first attempt to resolve the dispute as it considers
+appropriate, including by mediation, conciliation, expressing an opinion or
+making a recommendation; and
+
+(b)
+
+if the Fair Work Commission is unable to resolve the dispute at the first stage,
+the Fair Work Commission may then:
+(i)
+
+arbitrate the dispute; and
+
+(ii) make a determination that is binding on the parties.
+Note If the Fair Work Commission arbitrates the dispute, it may also use the powers that are available
+to it under the Act.
+A decision that the Fair Work Commission makes when arbitrating a dispute is a decision for the purpose
+of Div 3 of Part 5.1 of the Act. Therefore, an appeal may be made against the decision.
+
+(6)
+
+While the parties are trying to resolve the dispute using the procedures in this term:
+(a)
+
+an employee must continue to perform work as they would normally, unless
+there is a reasonable concern of imminent risk to their health or safety; and
+
+(b)
+
+an employee must comply with a direction given by the employer to perform
+other available work at the same workplace, or at another workplace, unless:
+(i)
+
+the work is not safe; or
+
+(ii) applicable work health and safety legislation would not permit the work to
+be performed; or
+(iii) the work is not appropriate for the employee to perform; or
+(iv) there are other reasonable grounds for the employee to refuse to comply
+with the direction.
+(7)
+
+The parties to the dispute agree to be bound by a decision made by the Fair Work
+Commission in accordance with this term.
+
+Austrade Enterprise Agreement 2019–2022
+
+30
+
+8. SECTION 8: INTERPRETATIONS AND DEFINITIONS
+Agreement
+
+Means the Austrade Enterprise Agreement 2019–2022
+
+APS
+
+Means the Australian Public Service
+
+APS Award
+
+Means the Australian Public Service Enterprise Award 2015
+
+Austrade
+
+Means the body established under the Australian Trade and Investment
+Commission Act 1985
+
+Casual Employee
+
+Means a non-SES employee engaged by the CEO of Austrade under section 22(1)
+or 72 of the PS Act for duties that are irregular or intermittent.
+
+CEO
+
+Means the Chief Executive Officer of Austrade, being the Agency Head for the
+purposes of the PS Act or the person for the time being directed to perform the
+duties of the office of the CEO, including a person authorised by the CEO for the
+purposes of the provision in which the reference occurs.
+
+Child
+
+Means an adopted child, a step child, a foster child, an ex-nuptial child or
+otherwise as defined in the Family Law Act 1975 and may include an adult child.
+
+Employee
+
+Means a non-SES employee engaged by the CEO of Austrade under section 22(1)
+or 72 of the PS Act including:
+
+• as an ongoing employee; or
+• as a non-ongoing employee engaged for a specified term or for the duration
+of a specified task, unless otherwise specified in this Agreement; or
+• as a non-ongoing employee engaged for duties that are irregular or
+intermittent; or
+• as an ongoing employee on probation, unless otherwise specified in this
+Agreement.
+FW Act
+
+Means the Fair Work Act 2009.
+
+Household member
+
+Means any person who lives with the employee, they do not need to be a
+relative.
+
+Immediate family
+member
+
+Means a spouse, de facto partner, child, parent, grandparent, grandchild or
+sibling of the employee or the employee’s spouse or de facto partner. This
+definition includes step relations.
+
+NES
+
+Means the National Employment Standards within the Fair Work Act 2009.
+
+De facto partner
+
+Means a person who lives with the employee in a relationship as a couple on a
+genuine domestic basis but is not legally married to the employee. Former de
+facto partners are included.
+
+PS Act
+
+Means the Public Service Act 1999
+
+SES
+
+Means an APS employee who is classified as a Senior Executive Service
+employee under the PS Classification Rules.
+
+Spouse
+
+Includes former spouse, de facto spouse and former de facto spouse.
+
+Staff
+
+Means an employee or employees (see above).
+
+Austrade Enterprise Agreement 2019–2022
+
+31
+
+Appendix A: AUSTRADE PAY SCALES
+Existing APL
+Classification
+
+New Austrade
+structure
+
+APS
+Classifications
+
+Increment
+
+APL101
+
+#APS1–2
+broadband
+
+APS1
+
+1
+
+2% on
+commencement
+of Agreement
+
+2% on
+1 year
+anniversary
+
+2% on
+2 year
+anniversary
+
+$50,205
+
+$51,209
+
+$52,233
+
+$53,278
+
+APS2
+APS2
+
+1
+
+$52,212
+
+$53,256
+
+$54,321
+
+$55,407
+
+2
+
+$54,300
+
+$55,386
+
+$56,494
+
+$57,624
+
+APS3
+
+1
+
+$56,473
+
+$57,602
+
+$58,754
+
+$59,929
+
+APS3
+
+2
+
+$58,731
+
+$59,906
+
+$61,104
+
+$62,326
+
+APL106
+
+APS3
+
+3
+
+$61,083
+
+$62,305
+
+$63,551
+
+$64,822
+
+APL107
+
+APS3
+
+4
+
+$63,526
+
+$64,797
+
+$66,093
+
+$67,415
+
+APL108
+
+APS4
+
+1
+
+$66,065
+
+$67,386
+
+$68,734
+
+$70,109
+
+APL109
+
+APS4
+
+2
+
+$68,874
+
+$70,251
+
+$71,656
+
+$73,089
+
+APL110
+
+APS4
+
+3
+
+$71,790
+
+$73,226
+
+$74,691
+
+$76,185
+
+APS5
+
+1
+
+$74,662
+
+$76,155
+
+$77,678
+
+$79,232
+
+APS5
+
+2
+
+$77,649
+
+$79,202
+
+$80,786
+
+$82,402
+
+APL203
+
+APS5
+
+3
+
+$80,890
+
+$82,508
+
+$84,158
+
+$85,841
+
+APL204
+
+APS6
+
+1
+
+$84,269
+
+$85,954
+
+$87,673
+
+$89,426
+
+APL205
+
+APS6
+
+2
+
+$87,784
+
+$89,540
+
+$91,331
+
+$93,158
+
+APS6
+
+3
+
+$91,490
+
+$93,320
+
+$95,186
+
+$97,090
+
+EL1
+
+1
+
+$97,436
+
+$99,385
+
+$101,373
+
+$103,401
+
+APL302
+
+EL1
+
+2
+
+$101,333
+
+$103,360
+
+$105,427
+
+$107,536
+
+APL303
+
+EL1
+
+3
+
+$105,387
+
+$107,495
+
+$109,645
+
+$111,838
+
+APL102
+APL103
+APL104
+APL105
+
+APL201
+APL202
+
+#APS3–4
+broadband
+
+#APS5–6
+broadband
+
+APL206
+APL301
+
+EL1
+
+APL304
+
+PreAgreement
+salary
+
+EL1
+
+4
+
+$109,603
+
+$111,795
+
+$114,031
+
+$116,312
+
+EL2
+
+1
+
+$113,986
+
+$116,266
+
+$118,591
+
+$120,963
+
+APL402
+
+EL2
+
+2
+
+$118,434
+
+$120,803
+
+$123,219
+
+$125,683
+
+APL403
+
+EL2
+
+3
+
+$123,053
+
+$125,514
+
+$128,024
+
+$130,585
+
+APL404
+
+EL2
+
+4
+
+$127,851
+
+$130,408
+
+$133,016
+
+$135,676
+
+APL405
+
+EL2
+
+5
+
+$132,837
+
+$135,494
+
+$138,204
+
+$140,968
+
+EL2
+
+6
+
+$138,150
+
+$140,913
+
+$143,731
+
+$146,606
+
+EL2
+
+7
+
+$143,331
+
+$146,198
+
+$149,122
+
+$152,104
+
+EL2
+
+8
+
+$148,707
+
+$151,681
+
+$154,715
+
+$157,809
+
+APL401
+
+APL501
+APL502
+
+EL2
+
+*EL2
+Specialist
+
+APL503
+
+*Access to the EL2 Specialist pay points is limited to EL2 employees who are deemed to have specialist experience,
+qualifications and/or skills. Access to these pay points must be approved by the CEO or their delegate.
+#Advancement through a broadband must be on the basis that the employee has satisfactory performance, sufficient work is
+available at the higher classification, and they have gained the necessary skills and proficiency to perform the more complex work.
+
+Grandfathered EL2 Rates (top APL5 pay point)
+Existing APL
+Classification
+
+New Austrade
+structure
+
+APS
+Classifications
+
+Increment
+
+APL504
+
+Grandfathered
+EL2 pay point
+
+EL2
+
+9
+
+PreAgreement
+salary
+$154,283
+
+2% on
+commencement
+of Agreement
+
+2% on 1
+year
+anniversary
+
+2% on 2
+year
+anniversary
+
+$157,369
+
+$160,516
+
+$163,726
+
+Austrade Enterprise Agreement 2019–2022
+
+32
+
+Appendix B: SUPPORTED SALARY PAYMENTS FOR EMPLOYEES WITH A
+DISABILITY
+1.
+
+Workers eligible for a supported wage
+
+1.1. These provisions define the conditions which will apply to employees who because of
+the effects of a disability are eligible for a supported wage under the terms of this
+Agreement. In the context of these provisions, the following definitions will apply:
+Supported wage system
+
+means the Commonwealth Government system to
+promote employment for people who cannot work at
+full wages because of a disability.
+
+Accredited assessor
+
+means a person accredited by the managing unit
+established by the Commonwealth under the Supported
+Wage System to perform assessments of an individual’s
+productive capacity within the Supported Wage System.
+
+Disability support pension means the Commonwealth pension scheme to provide
+income security for persons with a disability as provided
+for under the Social Security Act 1991, as amended from
+time to time, or any successor to that scheme.
+Assessment instrument
+
+2.
+
+means the form provided for under the Supported Wage
+System that records the assessment of the productive
+capacity of the person to be employed under the
+Supported Wage System.
+
+Eligibility criteria
+
+2.1. Employees covered by these provisions will be those who are unable to perform the
+range of duties to the competence level required within the class of work for which the
+employee is engaged under this Agreement, because of the effects of a disability on their
+productive capacity, and who meet the impairment criteria test for a Disability Support
+Pension.
+2.2. These provisions do not apply to any existing employee who has a claim against Austrade
+which is subject to the provisions of workers compensation legislation or any provision of
+this Agreement relating to the rehabilitation of employees who are injured in the course
+of their employment.
+
+Austrade Enterprise Agreement 2019–2022
+
+33
+
+2.3. These provisions also do not apply in respect of any facility, program, undertaking,
+service or the like which receives funding under the Disability Services Act 1986, and
+which fulfils the dual role of service provider and sheltered employer to people with
+disabilities who are in receipt of, or are eligible for, a Disability Support Pension, except
+with respect to an organisation which has received recognition under section 10 of the
+Disability Services Act 1986, or if a part only has received recognition, that part.
+3.
+
+Supported salary rates
+
+3.1. Employees to whom these provisions apply shall be paid the applicable percentage of
+the salary prescribed by this Agreement for the class of work which the person is
+performing according to the following schedule, provided that the minimum amount
+payable is not less than the minimum prescribed rate set by the relevant Government
+body.
+Assessed capacity
+(Clause 4)
+
+% of prescribed salary
+
+10%*
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+
+* Where a person’s assessed capacity is 10%, they will receive a high degree of assistance
+and support.
+
+4.
+
+Assessment of capacity
+
+4.1. For the purpose of establishing the percentage of the salary rate to be paid to an
+employee under this Agreement, the productive capacity of the employee will be
+assessed in accordance with the Supported Wage System and documented in an
+assessment instrument.
+5.
+
+Lodgement of assessment instrument
+
+5.1. All assessment instruments under the conditions of these provisions, including the
+appropriate percentage of the Agreement wage to be paid to the employee, shall be:
+(a)
+
+lodged by the employer with the relevant Government body; and
+
+(b)
+
+agreed and signed by the parties to the assessment.
+
+Austrade Enterprise Agreement 2019–2022
+
+34
+
+6.
+
+Review of assessment
+
+6.1. The assessment of the applicable percentage should be subject to annual review, or
+earlier on the basis of a reasonable request for such a review. The process of review shall
+be in accordance with the procedures for assessing capacity under the Supported Wage
+System.
+7.
+
+Other employment conditions
+
+7.1. Where an assessment has been made, the applicable percentage shall apply to the salary
+only. Employees covered by these provisions will be entitled to the same terms and
+conditions of employment as all other employees covered by this Agreement, paid on a
+pro rata basis.
+8.
+
+Workplace adjustment
+
+8.1. Where the CEO employs a person under these provisions, they shall take reasonable
+steps to make changes in the workplace to enhance the employee’s capacity to do the
+job. Changes may involve re-design of job duties, working time arrangements and work
+organisation in consultation with other workers in the area.
+9.
+
+Trial period
+
+9.1. In order for an adequate assessment of the employee’s capacity to be made, the CEO
+may employ a person under these provisions for a trial period not exceeding 12 weeks,
+except that in some cases additional work adjustment time (not exceeding four weeks)
+may be needed.
+9.2. During the trial period the assessment of capacity shall be undertaken and the proposed
+wage rate for a continuing employment relationship will be determined.
+9.3. The minimum amount payable to the employee during the trial period will be no less
+than $86 per week, increased in line with decisions by the relevant Government body.
+9.4. Where the CEO and employee wish to establish a continuing employment relationship
+following the completion of the trial period, a further contract of employment shall be
+entered into based on the outcome of the assessment under clause 4.
+
+Austrade Enterprise Agreement 2019–2022
+
+35
+
+Appendix C: REDEPLOYMENT AND RETRENCHMENT PROVISIONS
+1. Application
+1.1. These provisions apply in respect of an ongoing Austrade employee covered by the
+terms of this Agreement who has completed a period of probation, where applicable.
+1.2. An employee is an excess employee if:
+(a)
+
+the employee is included in a class of employee which comprises a greater
+number of employees than is necessary for the efficient and economical working
+of Austrade; or
+
+(b)
+
+the services of the employee cannot be effectively used because of technological
+or other changes in the work methods of Austrade or changes in the nature,
+extent or organisation of Austrade’s functions; or
+
+(c)
+
+the duties usually performed by the employee are to be performed at a different
+locality and the employee is not willing to transfer to that locality and the CEO
+has determined that these provisions (i.e. those in this Appendix C) apply to the
+employee.
+
+2. Management of excess staffing situations
+2.1. Austrade is committed to ensuring that staffing level reductions are managed where
+possible through redeployment to meaningful continuing functions, retraining where
+necessary and natural attrition. Retrenchment will be resorted to only after all other
+forms of action have been taken to reduce excess staffing levels in accordance with
+these provisions.
+3. Consultation process
+3.1. When the CEO is aware that an employee is likely to become excess, the CEO will advise
+the employee of the situation.
+3.2. The CEO will arrange for discussions to be held with the employee or, where the
+employee requests, with the employee’s representative, to consider measures that could
+be taken to resolve the situation, including redeployment opportunities for the
+employee at or below their substantive level.
+3.3. At the request of affected employees, representatives of those employees may be
+invited by the CEO to participate in discussions on measures to mitigate the possible
+retrenchments.
+3.4. The CEO may, before the conclusion of these discussions, invite employees who are not
+excess to express interest in retrenchment, where the retrenchment of those employees
+would permit the redeployment of employees who are in a redundancy situation and
+who would otherwise remain excess.
+
+Austrade Enterprise Agreement 2019–2022
+
+36
+
+3.5. Where an employee who is not excess wishes to be made redundant, the decision as to
+whether or not to make that employee redundant remains with the CEO.
+3.6. No earlier than one month after the initial notification of the likelihood that an employee
+is likely to become excess (unless a lesser period is agreed by the CEO and the
+employee), the CEO will identify employees who are excess to requirements and notify
+those employees in writing of their excess status.
+3.7. Employees who are subject to Austrade’s redeployment and retrenchment procedures
+will be eligible for reimbursement of the cost of professional financial advice and/or
+career counselling, up to $500, after being declared potentially excess and up to one
+month after separation from Austrade. Potentially excess staff may also access training
+for interview skills and writing job applications.
+4. Redeployment
+4.1. The CEO may redeploy at, or below level, an employee who would otherwise be excess
+to requirements to any vacancy which the employee is qualified to fill.
+4.2. An employee may only refuse redeployment, and still be considered an excess employee,
+where the vacancy to which the employee is to be redeployed is at a different locality.
+5. Notice periods
+5.1. An employee who is excess will be given formal notice of termination of employment
+under section 29 of the PS Act of five weeks.
+5.2. Where the CEO so directs, or the employee so requests, the employee’s employment
+may be terminated under section 29 of the PS Act at any time within the period of notice
+and the employee is thereupon entitled to receive payment in lieu of notice for the
+unexpired portion of the period (pro rata for part-time employees).
+6. Severance benefit
+6.1. An excess employee whose employment is terminated by the CEO under section 29 of
+the PS Act on the grounds that they are excess to the requirements of Austrade shall be
+entitled to be paid a sum equivalent to:
+•
+
+2 weeks’ salary for each completed year of continuous service; subject to the
+minimum entitlements in the NES (which provides for employees with between
+2 and 3 years’ service, and 3 and 4 years’ service, to receive 6 weeks’ and 7
+weeks’ severance payment respectively); and
+
+•
+
+a pro rata payment for completed months of continuous service, calculated in
+accordance with these provisions.
+
+Austrade Enterprise Agreement 2019–2022
+
+37
+
+6.2. For part-time employees, the severance benefit will be calculated on a pro-rata basis
+where an employee has worked part-time hours during the period of service and the
+employee has less than 24 years’ full-time service, subject to any minimum entitlement
+the employee has under NES.
+6.3. Except as noted in 6.4 below, the minimum sum payable under this Agreement shall be
+4 weeks’ salary and the maximum shall be 48 weeks’ salary.
+6.4. Grandfathering of severance benefits:
+6.4.1. An employee engaged by Austrade before 1 July 2006 shall retain the level of
+severance benefit as at 30 June 2006.
+6.4.2. An employee engaged by Austrade before 1 July 2006 and who had or would
+have had, on 30 June 2006, an entitlement to severance benefit of greater than
+48 weeks’ salary, shall retain that benefit, but shall not be entitled to any further
+severance benefit.
+6.4.3. If the severance benefit at 30 June 2006 would have been less than 48 weeks, the
+employee will be entitled to a further severance benefit in accordance with 6.1
+above, to a maximum of 48 weeks’ salary.
+6.5. Service for calculating the severance benefit means:
+•
+
+service in Austrade;
+
+•
+
+Government service as defined in section 10 of the Long Service Leave Act
+1976;
+
+•
+
+service with the Australian Defence Forces;
+
+•
+
+APS service immediately preceding deemed resignation under the repealed
+section 49 of the Public Service Act 1922, if the service has not previously been
+recognised for severance pay purposes.
+
+6.6. For earlier periods of service to count there must be no breaks between the periods of
+service, except where:
+•
+
+the break in service is less than 1 month and occurs where an offer of
+employment with the new employer was made and accepted by the employee
+before ceasing employment with the preceding employer; or
+
+•
+
+the earlier period of service was with the APS and ceased because the
+employee was deemed to have resigned from the APS on marriage under the
+repealed section 49 of the Public Service Act 1922.
+
+6.7. Any period of service which ceased:
+•
+
+by way of any of the grounds for termination specified in section 29 of the PS
+Act (including any additional grounds prescribed in the Public Service
+Regulations);or
+
+•
+
+on a ground equivalent to any of these grounds; or
+
+•
+
+on voluntary retirement at or above the minimum retiring age applicable to the
+employee; or
+
+Austrade Enterprise Agreement 2019–2022
+
+38
+
+•
+
+with the payment of a redundancy benefit or similar payment or an employer
+financed retirement benefit,
+
+will not count as service for severance pay purposes.
+6.8. Absences from work which do not count as service for long service leave purposes will
+not count as service for severance pay purposes.
+Payment in lieu of notice
+6.9. For the purpose of calculating any payment in lieu of notice or part payment thereof, the
+CEO shall use the salary that an employee would have received had they worked during
+the notice (or the unexpired portion of the notice period, as appropriate) had the
+employment not been terminated.
+Salary for severance payment calculation purposes
+6.10. For the purpose of calculating a severance benefit payment, salary will include:
+•
+
+the employee’s salary at their substantive classification level, adjusted where
+appropriate for periods of part time service; or
+
+•
+
+the salary of the higher classification level, where the employee has been
+working at the higher level for a continuous period of at least 12 months
+immediately preceding the date upon which they received notice of
+termination; and
+
+•
+
+other allowances in the nature of salary.
+
+7. Moving household
+7.1. If an employee who would otherwise have been declared excess is redeployed and such
+redeployment requires a movement of their household to a new locality, the employee is
+entitled to reasonable expenses, as determined by the CEO, associated with that move
+on the same basis which would apply if the employee were being promoted.
+8. Other action not prevented
+8.1. Nothing in these provisions shall prevent the termination of the employment of an
+employee on grounds of misconduct or inefficiency. Any employee whose employment is
+terminated for misconduct or inefficiency shall not be entitled to redundancy benefits,
+notwithstanding that the employee may have previously been declared excess to
+requirements.
+
+Austrade Enterprise Agreement 2019–2022
+
+39
+
+

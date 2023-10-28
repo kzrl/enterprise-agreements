@@ -1,0 +1,4865 @@
+Information about the approval of this Agreement:
+
+
+The DVA Enterprise Agreement 2019 – 2022 (AG2018/6134) was approved by the Fair Work
+Commission on 18 February 2019.
+
+
+
+The Agreement was approved with the following undertakings, which should be taken to
+be a term of the Agreement:
+An APS1 to APS6 part-time employee who is directed to work hours in excess of the hours
+specified in their part-time work agreement will be paid overtime in accordance with
+clauses 70 – 74 of the Agreement.
+An APS1 OAWG field employee will be paid no less than they would be paid under the
+Australian Public Service Enterprise Award 2015 where any part of their ordinary hours for a
+standard day falls between 6.00pm and 6.30am.
+
+
+
+The Agreement commenced on 25 February 2019.
+
+The Secretary signed a s24(1) Determination under the Public Service Act 1999 to bring
+forward the payment of the first salary increase to 16 January 2019, 12 weeks after the
+Agreement was approved by employees.
+
+i
+DVA Enterprise Agreement 2019-2022
+
+DVA ENTERPRISE AGREEMENT 2019 – 2022
+TABLE OF CONTENTS
+
+PART A
+
+TECHNICAL MATTERS ............................................................... 1
+
+TITLE......................................................................................................................................................................... 1
+COVERAGE .............................................................................................................................................................. 1
+DURATION ................................................................................................................................................................ 1
+DELEGATIONS ......................................................................................................................................................... 1
+GENERAL GUIDANCE AND INTERPRETATION ...................................................................................................... 1
+DEFINITIONS ............................................................................................................................................................ 1
+
+PART B
+
+CONSULTATION AND DISPUTE RESOLUTION ........................ 4
+
+NATIONAL STAFF CONSULTATIVE FORUM ........................................................................................................... 4
+CONSULTATION....................................................................................................................................................... 4
+DISPUTE RESOLUTION ........................................................................................................................................... 5
+
+PART C
+
+REMUNERATION ......................................................................... 7
+
+SALARY .................................................................................................................................................................... 7
+ALLOWANCES .......................................................................................................................................................... 9
+OVERTIME .............................................................................................................................................................. 11
+DOMESTIC TRAVEL ............................................................................................................................................... 13
+OVERSEAS TRAVEL .............................................................................................................................................. 13
+RELOCATION ASSISTANCE .................................................................................................................................. 13
+REMOTE LOCALITIES ASSISTANCE ..................................................................................................................... 13
+INDIVIDUAL FLEXIBILITY ARRANGEMENTS ........................................................................................................ 15
+SUPERANNUATION ............................................................................................................................................... 15
+ADDITIONAL MATTERS ......................................................................................................................................... 16
+
+PART D
+
+WORKING ARRANGEMENTS ................................................... 17
+
+HOURS OF DUTY ................................................................................................................................................... 17
+FLEXIBLE WORK ARRANGEMENTS ..................................................................................................................... 18
+HEALTH AND SAFETY ........................................................................................................................................... 19
+
+PART E
+
+LEAVE AND PUBLIC HOLIDAYS.............................................. 21
+
+ANNUAL LEAVE...................................................................................................................................................... 21
+PERSONAL/CARER’S LEAVE ................................................................................................................................ 22
+COMPASSIONATE / BEREAVEMENT LEAVE ........................................................................................................ 23
+CAREER INTERVAL LEAVE ................................................................................................................................... 23
+MISCELLANEOUS LEAVE ...................................................................................................................................... 23
+COMMUNITY SERVICE LEAVE .............................................................................................................................. 23
+DEFENCE RESERVISTS LEAVE ............................................................................................................................ 24
+DEFENCE SERVICE SICK LEAVE.......................................................................................................................... 24
+LONG SERVICE LEAVE ......................................................................................................................................... 25
+
+ii
+DVA Enterprise Agreement 2019-2022
+
+MATERNITY, MATERNAL, ADOPTION/FOSTERING, PARENTAL LEAVE ............................................................ 25
+ADOPTION/FOSTERING LEAVE ............................................................................................................................ 26
+DOMESTIC AND FAMILY VIOLENCE ..................................................................................................................... 27
+PUBLIC HOLIDAYS ................................................................................................................................................. 27
+ADDITIONAL HOLIDAY ........................................................................................................................................... 28
+CHRISTMAS SHUTDOWN ...................................................................................................................................... 29
+PORTABILITY OF LEAVE ....................................................................................................................................... 29
+RECOGNITION OF PRIOR SERVICE FOR PERSONAL/CARER’S LEAVE ............................................................ 29
+EXPENSES – CANCELLATION OF LEAVE OR RECALL TO DUTY ....................................................................... 29
+UNAUTHORISED ABSENCE .................................................................................................................................. 29
+
+PART F
+
+IMPROVING SKILLS AND PERFORMANCE ............................ 30
+
+PERFORMANCE FEEDBACK ................................................................................................................................. 30
+MANAGING UNDERPERFORMANCE .................................................................................................................... 30
+LEARNING AND DEVELOPMENT .......................................................................................................................... 31
+STUDY ASSISTANCE ............................................................................................................................................. 31
+
+PART G
+
+BROADBANDS AND ADVANCEMENT..................................... 32
+
+PART H
+
+REDEPLOYMENT, REDUNDANCY AND RESIGNATION ........ 33
+
+REDEPLOYMENT AND REDUNDANCY ................................................................................................................. 33
+RESIGNATION ........................................................................................................................................................ 37
+
+ATTACHMENT A – SALARY RATES .......................................................... 38
+ATTACHMENT B – SUPPORTED WAGE SYSTEM ................................... 41
+ATTACHMENT C – ALLOWANCES ........................................................... 43
+INDEX ........................................................................................................... 44
+
+iii
+DVA Enterprise Agreement 2019-2022
+
+PART A
+
+TECHNICAL MATTERS
+
+TITLE
+1
+
+This Agreement made under section 172 of the Fair Work Act 2009 (FW Act) shall be
+known as the DVA Enterprise Agreement 2019 – 2022.
+
+COVERAGE
+2
+
+In accordance with section 53 of the FW Act this Agreement covers:
+a)
+
+the Department of Veterans’ Affairs (DVA), on behalf of the Commonwealth, and
+
+b)
+
+all non-SES employees of DVA employed under the Public Service Act 1999 (Public
+Service Act).
+
+DURATION
+3
+
+This Agreement will commence on the date following the nominal expiry date of the
+DVA Enterprise Agreement 2015 - 2018, or seven days following the day on which the
+Fair Work Commission approves the Agreement, whichever is the latter, and nominally
+expires three years from commencement.
+
+DELEGATIONS
+4
+
+The Secretary may, in writing, delegate the whole or any part of the Secretary’s powers
+or functions under this Agreement, with or without limitation, other than the power to
+delegate.
+
+5
+
+The Secretary may give written directions to the delegate in relation to the exercise of
+that power or the performance of that power or function. The delegate must comply
+with any directions.
+
+GENERAL GUIDANCE AND INTERPRETATION
+6
+
+Further guidance and advice to assist employees and managers to properly apply the
+conditions of employment contained in this Agreement is contained in DVA policies
+and/or guidelines as varied from time to time.
+
+7
+
+These policies and guidelines do not form part of this Agreement and to the extent of
+any inconsistency, the terms of this Agreement prevail over the terms of any DVA
+policies or guidelines about matters in this Agreement.
+
+8
+
+This Agreement will be read and interpreted in conjunction with the National
+Employment Standards (NES). Where there is inconsistency between this Agreement
+and the NES, and the NES provides greater benefit, the NES provision will apply to the
+extent of the inconsistency.
+
+DEFINITIONS
+9
+
+In this Agreement, unless the contrary intention appears:
+
+“Advancement” means the movement of an ongoing employee from one work level to a
+higher work level within the same DVA broadband.
+“APS” means the Australian Public Service.
+“APS employee” means an employee employed under the Public Service Act.
+“Child” includes a child of an employee or of the employee’s partner, an adopted child, a
+step child, a foster child or an ex-nuptial child, who is less than 18 years old, or who is 18 and
+over and a dependant of the employee.
+“Competent” means meets or exceeds expected responsibilities and behaviours agreed
+upon in the performance agreement.
+1
+DVA Enterprise Agreement 2019-2022
+
+“Dependant” in relation to relocation and remote locality provisions under this Agreement,
+means the employee’s partner; or an employee’s child or parent, or of the partner of the
+employee, being a child or parent who ordinarily resides with the employee and who is wholly
+or substantially dependent upon the employee.
+“Documentary evidence” means documentary evidence that would satisfy a reasonable
+person to substantiate the reasons for leave. For personal illness or injury this means a medical
+certificate from a registered health practitioner, or, where it is not reasonable to expect the
+employee to give the employer a medical certificate – a statutory declaration made by the
+employee. In cases other than personal illness or injury, other supporting evidence may be
+accepted.
+“Double time” means the employee’s hourly rate of salary multiplied by 2.
+“Double time and one half” means the employee’s hourly rate of salary multiplied by 2.5.
+“Eligible employee” for the purpose of overtime, emergency duty and restriction is an
+employee who is allocated a classification, the maximum salary rate of which does not
+exceed the maximum salary rate of APS Level 6 (or equivalent). It also includes an employee
+who is allocated a classification and duties above APS Level 6 (or equivalent) in the
+Information & Communications Technology Solutions Branch who, in exceptional
+circumstances, is approved for overtime payments by the Chief Information Officer.
+“Employee” means a person who works in the Department of Veterans’ Affairs, whether
+full-time or part-time, and is employed under and within the meaning of the Public Service
+Act. The term encompasses ongoing employees (including those on probation) and nonongoing employees except where otherwise specified.
+“FBT” means Fringe Benefits Tax
+“Field employee” means an employee in the Office of Australian War Graves (OAWG)
+identified by the Director War Graves as undertaking the role of an OAWG field employee.
+“Foster child” means a child for whose long term care the employee has assumed primary
+responsibility and who is, or will be, under 16 years of age and is not (otherwise than because
+of the fostering) a child of the employee or the employee’s partner.
+“Headquarters” is the location at which the employee ordinarily performs duty.
+“Hourly rate of salary” means the full-time fortnightly salary (full-time annual salary divided by
+26.0833313) divided by the standard full-time fortnightly hours for the employee.
+“Immediate family” includes a partner or former partner of the employee, a child or adult
+child, parent, grandparent, grandchild or sibling of the employee (or of the partner of the
+employee); or for Aboriginal and Torres Strait employees, a person related to the employee
+through traditional kinship (refer definitions of “partner”, and “child”).
+“Locality” for travel and related purposes means a town or city other than the one where the
+employee usually works. It does not include another locality within the town or city where the
+employee usually works.
+“Manager” means the person in charge of the organisational unit (i.e. Division, Group, Section,
+work unit or other organisational component as determined by the Secretary) in which the
+employee works and who has the authority to take the action referred to in this Agreement.
+“NES” means the National Employment Standards under the Fair Work Act.
+Not Competent” means does not meet or partially meets expected responsibilities and
+behaviours agreed upon in the performance agreement.
+“Parliamentary Service” means employment under the Parliamentary Service Act 1999.
+“Partner” of an employee means, in relation to an employee who is a member of a couple
+living in a relationship on a genuine domestic basis (regardless of gender or marital status), the
+other member of the couple.
+2
+DVA Enterprise Agreement 2019-2022
+
+“Public interest” in relation to relocation means where an employee relocates from one
+locality to another as a result of:
+
+
+promotion;
+
+
+
+advancement;
+
+
+
+reassignment of duties, engagement, or redeployment as an excess
+employee, deemed to be in the interests of DVA; or
+
+
+
+temporary relocation in the interests of DVA, for a period of 13 weeks.
+
+“Reasonable business grounds” has the same meaning as in the NES. If the request is
+denied, the reasons will be provided to the employee.
+“Reassignment of duties” means movement to another set of duties at the employee’s
+substantive level.
+“Registered health practitioner” means a health practitioner registered or person licensed as
+a health practitioner (or as a health practitioner of a particular type), under a law of a State
+or Territory that provides for registration or licensing of health practitioners (or health
+practitioners of that type).
+“Relocation” means a change to the normal place of work for an employee, including moves
+between cities, not within a city.
+“Substantive level” means the APS classification level and corresponding salary at which the
+employee works when he/she is not on temporary assignment to a higher APS classification
+level.
+“Time and one half” means the employee’s hourly rate of salary multiplied by 1.5.
+“Work level” means an APS classification level.
+
+3
+DVA Enterprise Agreement 2019-2022
+
+PART B
+
+CONSULTATION AND DISPUTE RESOLUTION
+
+NATIONAL STAFF CONSULTATIVE FORUM
+10
+
+DVA will have a National Staff Consultative Forum (NSCF) comprising management
+and staff representatives that will consult on a regular basis on issues surrounding
+implementation of this Agreement.
+
+CONSULTATION
+11
+
+12
+
+This term applies if:
+a)
+
+DVA has made a definite decision to introduce a major change to production,
+program, organisation, structure or technology in DVA that is likely to have a
+significant effect on employees; or
+
+b)
+
+proposes to introduce a change to the regular roster or ordinary hours of work of
+employees.
+
+For the purposes of this term:
+a)
+
+“relevant employees” means the employees who may be affected by a change
+referred to in clause 11;
+
+b)
+
+the relevant employees may appoint a representative for the purposes of the
+procedures in this term;
+
+c)
+
+if the relevant employee appoints, or relevant employees appoint, a representative
+for the purposes of consultation, and the employee or employees advise DVA of
+the identity of the representative, DVA must recognise the representative; and
+
+d)
+
+the employer is not required to disclose confidential or commercially sensitive
+information to the relevant employees.
+
+Major change
+13
+
+14
+
+For a major change referred to in clause 11(a):
+a)
+
+the employer must notify the relevant employees of the decision to introduce the
+major change; and
+
+b)
+
+clauses 14 to 17 apply.
+
+As soon as practicable after making the decision, the employer must
+a)
+
+b)
+
+discuss with the relevant employees:
+(i)
+
+the introduction of the change; and
+
+(ii)
+
+the effect the change is likely to have on employees; and
+
+(iii)
+
+measures the Department is taking to avert or mitigate the adverse effects
+of the change on the employees; and
+
+for the purposes of the discussion - provide, in writing, to the relevant employees:
+(i)
+
+all relevant information about the change including the nature of the
+change proposed, and
+
+(ii)
+
+Information about the expected effects of the change on the employees;
+and
+
+(iii)
+
+any other matters likely to affect employees.
+
+15
+
+The employer must give prompt and genuine consideration to matters raised about
+the major change by the relevant employees.
+
+16
+
+If this Agreement provides for a major change to production, program, organisation,
+structure or technology in DVA, the requirements set out in clauses 12(b), 13(a) and 14
+are taken not to apply.
+
+4
+DVA Enterprise Agreement 2019-2022
+
+17
+
+In this term a major change is likely to have a significant effect on employees if it results
+in:
+a)
+
+The termination of employment of the employee; or
+
+b)
+
+major changes to the composition, operation or size of the DVA workforce or in the
+skills required of employees; or
+
+c)
+
+the elimination or diminution of job opportunities (including opportunities for
+promotion or tenure); or
+
+d)
+
+the alteration of hours of work; or
+
+e)
+
+the need to retrain employees; or
+
+f)
+
+the need to relocate employees to another workplace; or
+
+g)
+
+the restructuring of jobs.
+
+Change to regular roster or ordinary hours of work
+18
+
+19
+
+For a change referred to in clause 11(b):
+a)
+
+the employer must notify the employee of the proposed change; and
+
+b)
+
+clauses 19 to 20 apply.
+
+As soon as practicable after proposing to introduce the change, the employer must:
+a)
+
+discuss with the relevant employees the introduction of the change; and
+
+b)
+
+for the purposes of the discussion – provide to the relevant employees:
+
+c)
+20
+
+(i)
+
+all relevant information about the change, including the nature of the
+change; and
+
+(ii)
+
+information about what the employer reasonably believes will be the effects
+of the change on the employees; and
+
+(iii)
+
+information about any other matters that the employer reasonably believes
+are likely to affect the employees; and
+
+invite the relevant employees to give their views about the impact of the change
+(including any impact in relation to their family or caring responsibilities).
+
+The employer must give prompt and genuine consideration to matters raised about
+the change by the relevant employees.
+
+DISPUTE RESOLUTION
+21
+
+If a dispute relates to a matter arising under this Agreement, or the NES, in the first
+instance the parties to the dispute must try to resolve the dispute at the workplace
+level by discussions between the employee or employees concerned and relevant
+supervisors and/or management.
+
+22
+
+If discussions at the workplace level do not resolve the dispute a party to the dispute
+may refer the matter to the Fair Work Commission. The Fair Work Commission may
+deal with the dispute in 2 stages:
+a)
+
+the Fair Work Commission will first attempt to resolve the dispute as it considers
+appropriate, including by mediation, conciliation, expressing an opinion or making
+a recommendation; and
+
+b)
+
+if the Fair Work Commission is unable to resolve the dispute at the first stage, the Fair
+Work Commission may then:
+(iv)
+
+arbitrate the dispute; and
+
+(v)
+
+make a determination that is binding on the parties.
+Note: If the Fair Work Commission arbitrates the dispute, it may also use the powers that are
+available to it under the Act. A decision that the Fair Work Commission makes when arbitrating a
+dispute is a decision for the purpose of Div 3 of Part 5.1 of the Fair Work Act. Therefore, an appeal
+may be made against the decision.
+
+5
+DVA Enterprise Agreement 2019-2022
+
+23
+
+The employer or an employee who is a party to the dispute may appoint another
+person, organisation or association to accompany and/or represent them for the
+purposes of this term.
+
+24
+
+While the parties are trying to resolve the dispute using the procedures in this term:
+
+25
+
+a)
+
+an employee must continue to perform his or her work as he or she would normally
+unless he or she has a reasonable concern about an imminent risk to his or her
+health or safety; and
+
+b)
+
+an employee must comply with a direction given by the Secretary to perform other
+available work at the same workplace, or at another workplace, unless:
+(i)
+
+the work is not safe; or
+
+(ii)
+
+applicable occupational health and safety legislation would not permit the
+work to be performed; or
+
+(iii)
+
+the work is not appropriate for the employee to perform; or
+
+(iv)
+
+there are other reasonable grounds for the employee to refuse to comply
+with the direction.
+
+The parties to the dispute agree to be bound by a decision made by the Fair Work
+Commission in accordance with this term.
+
+6
+DVA Enterprise Agreement 2019-2022
+
+PART C
+
+REMUNERATION
+
+SALARY
+26
+
+Salary rates and classification structures for DVA employment groups during the life of
+this Agreement are set out at Attachment A.
+
+Pay increases
+27
+
+The following increases will apply to DVA salary rates:
+a)
+
+2% on and from the date of operation of this Agreement; and
+
+b)
+
+2% on and from the 12 month anniversary of the increase in clause 27 (a); and
+
+c)
+
+2% on and from the 12 month anniversary of the increase in clause 27 (b).
+
+Salary on engagement, promotion or transfer
+28
+
+On either engagement, reassignment of duties from another APS agency,
+advancement or promotion, an employee's salary will normally be payable at the
+minimum of the salary range of the relevant classification unless the Secretary
+determines otherwise.
+
+29
+
+The Secretary may authorise payment of salary on engagement, reassignment of
+duties or promotion at one of the higher salary points within the applicable salary
+range for that classification as at Attachment A where the employee's experience,
+qualifications and skills warrant such payment. Determination of salary is subject to the
+requirements of any qualification or other prerequisites described in this Agreement.
+
+30
+
+On engagement, service as a non-ongoing employee may, but will not necessarily,
+be taken into account in determining salary within the range.
+
+31
+
+On promotion, if a DVA employee has been on temporary assignment for a period
+totalling 12 months within the previous 2 years at or above the non-SES classification
+level to which they are promoted, the salary on promotion will be the second pay
+point in the relevant classification. Additional periods of temporary assignment may
+be taken into account in determining a higher pay point.
+
+32
+
+At the discretion of the Secretary, and taking into account the total remuneration
+available to an employee under this Agreement, if an ongoing employee moving on
+reassignment or promotion from another agency to DVA (including, for example,
+moves between the Parliamentary Service and the APS) whose salary in their previous
+agency (current salary) exceeds the salary that would otherwise apply under this
+Agreement, may be maintained on their current salary until such time as their salary is
+absorbed by DVA pay increases.
+
+Casual loading
+33
+
+A non-ongoing employee engaged to perform duties of an irregular or intermittent
+nature will be paid an additional 20% of their hourly rate of salary in lieu of payment
+for public holidays on which the employee is not rostered to work and paid leave
+(except Long Service Leave).
+
+Salary on reduction
+34
+
+Where an ongoing employee is reassigned on an ongoing basis to duties at a lower
+classification, the Secretary will determine the employee's rate of salary within the
+range for that classification. Service at both the current and lower classification will be
+taken into account in determining the reduced salary.
+
+7
+DVA Enterprise Agreement 2019-2022
+
+Temporary reduction in salary
+35
+
+Where a manager and an employee agree in writing to the employee temporarily
+performing work at a lower classification for a specified period of time, the Secretary
+may determine an agreed rate of salary up to the maximum of the salary range
+applicable to the lower APS classification for the agreed period.
+
+Salary advancement within a work level
+36
+
+Following the yearly performance review a manager may, subject to the requirements
+of this Agreement, authorise the advancement of an employee to the next highest
+salary rate within the employee’s substantive and temporary assignment work level.
+
+37
+
+Salary advancement is subject to the employee being assessed as competent against
+his/her performance agreement and any advancement pre-requisites described in
+this Agreement. Where a manager considers an employee exceeds their performance
+expectations during a performance cycle, the manager may undertake an additional
+performance review and approve salary advancement for the employee at that time
+provided the employee has performed that role for at least 6 months.
+
+Graduates
+38
+
+On engagement as an APS Level 3 (DVA Band 2), DVA Graduate (local designation),
+an employee will be required to undertake a Graduate Development Program
+determined by the Secretary. During the Program salary will be determined by the
+Secretary at no less than the applicable first salary point for an APS Level 3 under this
+Agreement.
+
+39
+
+On satisfactory completion of the Graduate Development Program, the employee will
+be advanced to the APS Level 4 classification, in accordance with the advancement
+provisions of this Agreement, and the Secretary will determine salary at no less than
+the applicable first salary point for an APS Level 4 under this Agreement.
+
+Cadets, trainees and apprentices
+40
+
+Remuneration and benefits for an employee engaged by DVA as a cadet or under a
+Cadetship program, or under a traineeship or apprenticeship scheme, will be
+determined by the Secretary consistent with any APS-wide initiatives. All applicable
+percentage increases to base rates of pay contained in this Agreement will apply to
+such employees.
+
+Supported wage rates
+41
+
+Employees who are affected by a disability are eligible for a supported wage in
+accordance with Attachment B.
+
+Salary packaging
+42
+
+Employees may choose to sacrifice part of their salary for a range of non-salary
+benefits. Further information is contained in the relevant DVA policy.
+
+43
+
+Any FBT and administrative costs incurred as a result of salary packaging arrangements
+shall be met by the employee as part of their salary package.
+
+44
+
+Where an employee is in a salary packaging arrangement, the employee’s salary for
+the purposes of superannuation, redundancy, termination or any other purposes will
+be determined as if the salary sacrifice arrangement had not been entered into.
+
+8
+DVA Enterprise Agreement 2019-2022
+
+Temporary assignment
+45
+
+An employee temporarily assigned to a higher work level than the employee’s
+substantive level will be paid at a classification determined by reference to the APS
+Work Level Standards.
+
+46
+
+The employee will be paid at the minimum point of the salary range applicable to that
+classification unless determined otherwise by the Secretary having regard to:
+a)
+
+the employee having obtained a particular salary through salary advancement at
+the higher classification
+
+b)
+
+performance, including during previous periods of temporary assignment and
+
+c)
+
+relevant experience and/or skills.
+
+47
+
+There is no minimum qualifying period for payment on temporary assignment to a
+classification at the APS6 level or below.
+
+48
+
+Payment for temporary assignment to Executive Level 1 or higher is subject to a
+minimum qualifying period of more than 4 weeks.
+
+49
+
+An employee will receive payment at the temporary assignment rate during paid
+leave and public holidays if the temporary assignment would have continued during
+the leave or public holidays.
+
+50
+
+The Secretary will determine the remuneration and conditions of employment to apply
+when a non-Senior Executive Service (SES) employee undertakes temporary
+assignments at the SES level.
+
+ALLOWANCES
+51
+
+Allowance amounts and conditions are detailed at Attachment C.
+
+52
+
+A reference in this section to a relevant subscription service means a subscription
+service approved by the Secretary for the purposes of providing suggested rates for
+various allowances.
+
+Departmental Liaison Officer allowance
+53
+
+An employee who performs the duties of Departmental Liaison Officer (DLO) and
+attends for duty at the office of the Minister for a whole day is entitled to be paid an
+allowance for that day.
+
+54
+
+This allowance is in lieu of any overtime or flextime provisions provided under this
+Agreement.
+
+Excess fares and excess travelling time
+55
+
+An employee at APS Level 6 (or equivalent) or below who undertakes a temporary
+assignment at a different location, and incurs excess fares and additional travelling
+time, will be entitled to compensation for the additional fares and time in a manner
+agreed with their manager.
+
+56
+
+A manager may approve reimbursement of excess fares and compensation for
+additional travelling time for excess or potentially excess employees who are:
+
+57
+
+a)
+
+relocated through reassignment of duties at level or on reduction on a trial basis or
+otherwise; and
+
+b)
+
+at APS Level 6 or equivalent or below prior to the reduction.
+
+Compensation under clause 56 is available for a maximum of 6 months and cannot
+be made in advance. If compensation is made during a trial period that results in
+permanent placement, the total period for compensation cannot exceed 6 months.
+9
+
+DVA Enterprise Agreement 2019-2022
+
+58
+
+Payment under this clause is not available where the employee is in receipt of travel
+allowance.
+
+First aid allowance
+59
+
+An employee will be paid first aid allowance where the Secretary determines that the
+employee:
+a)
+
+holds nationally recognised Statements of Attainment issued by a Registered
+Training Organisation (RTO) for the nationally endorsed first aid unit/s of
+competency; and
+
+b)
+
+has attended training on a regular basis to refresh their first aid knowledge and skills
+and to confirm their competence to provide first aid. (Refresher training in CPR must
+be undertaken annually and first aid qualifications must be renewed every three
+years); and
+
+c)
+
+has first aid responsibilities in the workplace.
+
+Fire warden allowance
+60
+
+An employee will be paid fire warden allowance where the Secretary determines that
+an employee who is not receiving first aid allowance has:
+a)
+
+successfully undertaken specified fire warden training;
+
+b)
+
+has continuing expertise commensurate with that training; and
+
+c)
+
+has fire warden responsibilities in the workplace.
+
+Motor vehicle allowance
+61
+
+Where the manager has authorised an employee to use a private car for official
+purposes the employee will be paid motor vehicle allowance (MVA). Further
+information is provided in the relevant DVA policies and instructions.
+
+62
+
+MVA will be paid at the lesser of either the relevant rate per kilometre determined by
+the Secretary with reference to the relevant subscription service or the cost to the
+Australian Government of providing car hire.
+
+63
+
+Where an employee can demonstrate that use of a private vehicle for official purposes
+involves greater expenses than are covered by the above, the Secretary may approve
+payment of an additional allowance.
+
+Restriction allowance
+64
+
+The Secretary may, with the agreement of an employee, include the employee on an
+approved restriction roster and restrict the employee between the hours of 6.00pm
+and 8.00am Monday to Friday, and on weekends and public holidays.
+
+65
+
+Employees on an approved restriction roster must remain contactable and at the
+required degree of readiness to perform extra duty to be eligible for payment of
+restriction allowance. A manager may arrange for restricted employees to be
+provided with either a mobile telephone, pager and/or rental assistance on their
+private telephone service.
+
+66
+
+Eligible employees will be paid restriction allowance of 8.5% of their hourly salary. An
+employee’s salary for the purposes of calculating restriction allowance includes
+payment for temporary assignment.
+
+67
+
+Eligible employees who have been restricted and are required to perform duty at a
+place of work will be paid overtime in accordance with the Emergency Duty provisions
+of this Agreement. Eligible employees who have been restricted and are required to
+10
+
+DVA Enterprise Agreement 2019-2022
+
+perform duty but not required to attend a place of work will be paid a minimum
+overtime payment of one hour.
+68
+
+Employees will not be entitled to restriction allowance and overtime payment for the
+same period of work.
+
+69
+
+Where more than one period of duty is required during a period of restriction, the
+separate overtime payments cannot exceed the amount that would have been paid
+had the employee remained on duty from the commencing time of duty on the first
+attendance to the ceasing time of duty on the last attendance.
+
+OVERTIME
+70
+
+Managers may require employees to work reasonable extra hours. Overtime is
+payable to eligible employees for work required to be performed:
+a)
+
+on weekends, public holidays and during the two day Christmas shutdown; and
+
+b)
+
+unless otherwise provided for in this Agreement, for employees other than OAWG
+field employees:
+
+c)
+
+(i)
+
+before 7.00am and after 6.00pm Monday to Friday; or
+
+(ii)
+
+between 7.00am and 6.00pm if the employee has worked at least 7 hours
+and 30 minutes ordinary time on that day; and
+
+for OAWG field employees:
+(i)
+
+before 5.00am and after 9.00pm Monday to Friday; or
+
+(ii)
+
+between 5.00am and 9.00pm if the employee has worked at least 8 hours
+ordinary time on that day.
+
+71
+
+Overtime does not count as time worked for flextime purposes. However, while
+employees are not eligible for overtime payments until any flex debit they have is
+eliminated, flex debits are reduced by the hours of overtime worked multiplied by the
+applicable overtime rate.
+
+72
+
+An employee’s salary for the purposes of calculating overtime will include payment for
+temporary assignment. Overtime rates are as follows:
+Monday to Saturday: Time and one half
+Sunday:
+
+Double time
+
+Public Holidays:
+
+(See clauses 73 and 74)
+
+Easter Saturday:
+
+Double time and one half (regardless of whether the day has
+been declared a public holiday)
+
+73
+
+On Public Holidays overtime is payable at single time and one half in addition to the
+normal hourly rate of salary during the period 7.00am to 6.00pm until 7 hours and 30
+minutes are worked. Overtime is then payable at double time and one half. Overtime
+is also payable at double time and one half before 7.00am and after 6.00pm on Public
+Holidays.
+
+74
+
+The following arrangements will also apply to OAWG field employees who work
+overtime on Anzac Day:
+a)
+
+when Anzac Day falls on a weekday - single time and one half in addition to normal
+hourly rate of salary during the period 5.00am to 9.00pm until 8 hours are worked.
+Overtime is then payable at double time and one half; and
+
+b)
+
+when Anzac Day falls on a weekend - double time and one half for any hours
+worked.
+
+Minimum payment
+75
+
+Where an employee reports for approved overtime that is not continuous with ordinary
+duty the employee will be paid for a minimum of three hours at the prescribed
+11
+
+DVA Enterprise Agreement 2019-2022
+
+overtime rate. This minimum payment will also be paid in the event the employee
+reports for approved overtime and is subsequently not required to perform that duty.
+
+Emergency duty
+76
+
+77
+
+This clause applies if:
+a)
+
+an employee is directed to attend for duty; and
+
+b)
+
+the employee would not ordinarily have been on duty at that time; and
+
+c)
+
+the employee was not given notice of the direction before ceasing ordinary duty;
+and
+
+For the time on duty, the employee is to be paid:
+a)
+
+a minimum of 2 hours ; and
+
+b)
+
+at the rate of double time.
+
+78
+
+The time on duty is taken to include reasonable time necessarily spent travelling to and
+from duty
+
+79
+
+Employees are entitled to a break of at least eight consecutive hours, plus reasonable
+travelling time, between the time they finish duty (which includes emergency duty
+worked that is continuous with ordinary duty) and the time they are next required to
+resume or continue work, without loss of pay. Where this break is not possible due to
+business needs, the employee will be paid at double ordinary time rates for any period
+of work until an eight-hour break occurs.
+
+Rest relief after overtime
+80
+
+An employee who works overtime will be entitled to an eight hour break plus
+reasonable travelling time before recommencing work, without incurring any loss of
+pay or deduction from flextime.
+
+81
+
+An eligible employee who is directed to return to duty without the eight-hour break will
+be paid double time (i.e. single time in addition to the normal hourly rate of salary) for
+duty performed until an eight-hour break can be taken. An employee not eligible for
+overtime who is not able to have an eight hour break should be granted time off in
+lieu equal to the period of duty performed until an eight hour break can be taken.
+
+Time off in lieu (TOIL) of overtime
+82
+
+Employees eligible for overtime payment have the option to receive TOIL instead of
+overtime payments, calculated at the applicable overtime rate. In cases where TOIL
+has been granted but operational requirements have prevented the employee from
+taking time off within 4 weeks or other agreed period, payment of overtime will then
+be made.
+
+Overtime meal allowance
+83
+
+84
+
+An overtime meal allowance is payable to employees who are required to work
+authorised overtime away from home:
+a)
+
+for a continuous period of at least 2 hours on a Monday to Friday, that extends to
+the completion of, or beyond, a meal period; or
+
+b)
+
+for a continuous period of at least 3 hours on a Saturday, Sunday or Public Holiday
+that commences prior to and ceases at the completion of, or beyond, a meal
+period; and
+
+c)
+
+if a meal break of at least 30 minutes is actually taken, except where overtime is
+continuous with normal duty.
+
+For the purposes of overtime meal allowance, a meal period is:
+12
+
+DVA Enterprise Agreement 2019-2022
+
+Monday to Friday:
+
+7.00am to 9.00am
+6.00pm to 7.00pm and
+midnight to 1.00am.
+
+Saturdays, Sundays &
+
+7.00am to 9.00am; 12.00pm to 2.00pm;
+
+Public Holidays:
+
+6.00pm to 7.00pm; and midnight to 1.00am
+
+85
+
+An employee working overtime from home is not entitled to be paid meal allowance.
+Overtime is not payable during a meal break.
+
+86
+
+The overtime meal allowance rate will be determined by the Secretary with reference
+to the relevant subscription service.
+
+DOMESTIC TRAVEL
+Travel allowance
+87
+
+An employee absent overnight from their usual place of work will be paid an
+allowance for meals and incidentals determined by reference to the relevant
+subscription service.
+
+88
+
+An employee will receive an accommodation payment of $50 for each overnight stay
+if they choose to stay in non-commercial accommodation. Employees who have
+travelled away from their usual place of work and resided in the one locality for a
+period of 21 days may be provided with assistance as set out under the Temporary
+Relocation provisions in this Agreement.
+
+89
+
+Further details are provided in the relevant DVA policy.
+
+OVERSEAS TRAVEL
+90
+
+The class of travel and other conditions applicable to travel on official business
+overseas will in accordance with government travel policy and as determined by the
+Secretary.
+
+RELOCATION ASSISTANCE
+91
+
+Employees relocated in the public interest, as defined in this Agreement, other than
+those relocated on engagement, are entitled to Disturbance Allowance (except
+where relocated temporarily) and Food Allowance as provided at Attachment C.
+
+92
+
+The Secretary may also provide other reasonable financial assistance to eligible
+employees to compensate for reasonable costs incurred as a result of the relocation.
+
+93
+
+Further details are provided in the relevant DVA policy.
+
+REMOTE LOCALITIES ASSISTANCE
+94
+
+Remote localities assistance is available to an ongoing employee whose headquarters
+is in a remote locality as defined by the Australian Standard Geographical
+Classification (ASGC) Remoteness Structure. As at the date of operation of this
+Agreement the only DVA locality defined as remote under the ASGC is Adelaide River.
+
+95
+
+DVA ongoing employees who have continued to be headquartered in Darwin or
+Townsville since before the operation of the 2015-2018 DVA Enterprise Agreement are
+entitled to remote localities assistance under this Agreement under grandfathered
+arrangements.
+
+96
+
+Further details are provided in the relevant DVA policy.
+13
+
+DVA Enterprise Agreement 2019-2022
+
+District allowance
+97
+
+An eligible employee will be paid fortnightly district allowance at the annual rate
+specified in Attachment C.
+
+98
+
+The employee will continue to receive district allowance whilst on annual leave,
+provided they were in receipt of district allowance on the day immediately prior to
+commencement of the period of annual leave.
+
+99
+
+An employee eligible for remote locality assistance will receive payment at the 'with
+dependants rate' if the employee has any dependants:
+a)
+
+who reside(s) with the employee; and
+
+b)
+
+whose income, if any, is less than 60% of the base DVA adult APS Level 1 salary
+(income means gross income earned through salary and wages or, for dependants
+who are self-employed, taxable income).
+
+Air conditioning subsidy – Adelaide River
+100
+
+Employees entitled to district allowance whose headquarters are at Adelaide River
+are eligible for an air conditioning subsidy.
+
+101
+
+Further details are provided in the relevant DVA policy.
+
+Leave fare assistance
+102
+
+Leave fare assistance (LFA) is provided to assist employees and their dependants to
+leave the remote locality and fly to the nearest Australian capital city for the purposes
+of taking leave for recreation.
+
+103
+
+Entitlement to LFA accrues either yearly or two yearly, as specified in Attachment C,
+on commencement and thereafter on the anniversary of commencement in the
+locality but does not accrue to children under 2 years of age unless approved by the
+Secretary in special circumstances. Employees may hold entitlement to no more than
+2 LFA payments in credit at any time. LFA entitlements lapse when an employee no
+longer works at a remote locality.
+
+104
+
+Where the employee and their dependants choose to travel by motor vehicle, the
+employee will be paid the appropriate motor vehicle allowance for the kilometres
+between the remote locality and the nearest capital city and may seek
+reimbursement of reasonable additional costs. Total payment will not exceed the LFA
+that would otherwise be payable.
+
+Travel for medical, specialist medical or emergency dental treatment
+105
+
+The Secretary may approve economy air travel, in accordance with government
+travel policy, or reimbursement up to the cost of economy air travel, to another
+location for an employee who is eligible for district allowance, or their dependant(s)
+residing at the same locality, and an attendant if necessary, for the purpose of
+obtaining necessary medical, specialist medical or emergency dental treatment.
+
+Reimbursement of fares for emergency or compassionate travel
+106
+
+If a member of the immediate family of an employee who is eligible for district
+allowance, or their dependant(s) residing at the same locality, becomes critically ill or
+dies, the Secretary may approve reimbursement of receipted costs of return economy
+fares reasonably incurred for travel within Australia.
+
+14
+DVA Enterprise Agreement 2019-2022
+
+Child reunion fares
+107
+
+Where the child of an employee who is eligible for district allowance attends a primary
+or secondary school away from the employee's location, the Secretary may approve
+reunion travel for the child to visit the employee at the remote locality or the nearest
+capital city.
+
+INDIVIDUAL FLEXIBILITY ARRANGEMENTS
+108
+
+The Secretary and an employee covered by this Agreement may agree to make an
+individual flexibility arrangement to vary the effect of the terms of the Agreement if:
+a)
+
+109
+
+110
+
+the arrangement deals with one or more of the following matters:
+(i)
+
+arrangements about when work is performed;
+
+(ii)
+
+overtime rates;
+
+(iii)
+
+penalty rates
+
+(iv)
+
+allowances
+
+(v)
+
+remuneration; and/or
+
+(vi)
+
+leave; and
+
+b)
+
+the arrangement meets the genuine needs of DVA and the employee in relation to
+one or more of the matters mentioned in clause 108(a); and
+
+c)
+
+the arrangement is genuinely agreed to by the Secretary and the employee.
+
+The Secretary must ensure that the terms of the individual flexibility arrangement:
+a)
+
+are about permitted matters under section 172 of the FW Act; and
+
+b)
+
+are not unlawful terms under section 194 of the FW Act; and
+
+c)
+
+result in the employee being better off overall than the employee would be if no
+arrangement was made.
+
+The Secretary must ensure that the individual flexibility arrangement:
+a)
+
+is in writing; and
+
+b)
+
+includes the name of the employer and the employee; and
+
+c)
+
+is signed by the Secretary and the employee and if the employee is under the 18
+years of age, signed by the parent or guardian of the employee; and
+
+d)
+
+includes details of:
+
+e)
+
+(i)
+
+the terms of the Enterprise Agreement that will be varied by the
+arrangement; and
+
+(ii)
+
+how the arrangement will vary the effect of the terms;
+
+(iii)
+
+how the employee will be better off overall in relation to the terms and
+conditions of his or her employment as a result of the arrangement; and
+
+states the day on which the arrangement commences and, where applicable,
+when the arrangement ceases.
+
+111
+
+The Secretary must give the employee a copy of the individual flexibility arrangement
+within 14 days after it is agreed to.
+
+112
+
+The Secretary or employee may terminate the individual flexibility arrangement:
+a)
+
+by giving no more than 28 days written notice to the other party to the
+arrangement; or
+
+b)
+
+if the Secretary and the employee agree in writing – at any time.
+
+SUPERANNUATION
+113
+
+DVA will make compulsory employer contributions as required by the applicable
+legislation and fund requirements.
+15
+
+DVA Enterprise Agreement 2019-2022
+
+114
+
+Where employer contributions are to an accumulation superannuation fund the
+employer contribution will be 15.4% of the fortnightly superannuation contribution
+salary. This will not be reduced by any other contributions made through salary
+sacrifice arrangements. This clause does not apply where a superannuation fund
+cannot accept employer superannuation contributions (e.g. unable to accept
+contributions for people aged over 75).
+
+115
+
+Employer superannuation contributions will not be paid on behalf of employees during
+periods of unpaid leave that do not count as service, (with the exception of maternity
+leave without pay, parental leave without pay and adoption/fostering leave without
+pay) unless otherwise required under legislation or fund requirements.
+
+116
+
+DVA will make employer superannuation contributions for those employees exercising
+superannuation choice as if those employees were members of the Public Sector
+Superannuation Accumulation Plan.
+
+ADDITIONAL MATTERS
+117
+
+Where considered appropriate, the Secretary may authorise payment of an
+allowance or reimbursement of expenses incurred by an employee in the course of
+employment. Further information is provided in the relevant DVA policy.
+
+16
+DVA Enterprise Agreement 2019-2022
+
+PART D
+
+WORKING ARRANGEMENTS
+
+HOURS OF DUTY
+Recording attendance
+118
+
+Employees will each day record their actual time of arrival and departure and any
+breaks. Further information is provided in the relevant DVA policy.
+
+Standard ordinary hours of duty
+119
+
+From the date of operation of this Agreement the standard ordinary hours of duty for
+full-time DVA employees, other than OAWG field employees, are 7 hours 30 minutes
+per day, 37.5 hours per week Monday to Friday to be worked between 8.30am and
+12.30pm and 1.30pm and 5.00pm.
+
+120
+
+OAWG field employees will work a standard day of 7 hours and 54 minutes per day
+between 5.00am and 9.00pm in order to achieve a rostered day off (RDO) every
+month. OAWG field employees may bank up to a maximum of 4 RDOs. Approved
+morning and afternoon tea breaks will not count towards the standard hours per day.
+
+121
+
+For part-time employees, standard ordinary hours of duty are those in their part-time
+work agreement.
+
+Span of hours
+122
+
+The span of hours between which employees may work their normal pattern of working
+hours under clause 127 is:
+a)
+
+for employees other than OAWG field employees - 7.00am to 7.00pm Monday to
+Friday;
+
+b)
+
+for OAWG field employees - 5.00am to 9.00pm Monday to Friday.
+
+123
+
+It is expected that these spans will meet most of DVA’s operational needs.
+
+124
+
+However, where there is an identified business need, some DVA work groups may
+establish working patterns beyond these spans to meet customer service requirements.
+
+125
+
+An employee may request and be granted approval by their manager to work an
+alternative span of hours or outside their normal span for personal reasons. In
+considering such requests the main consideration will be operational requirements.
+Hours worked on this basis will be treated as ordinary hours and will not attract overtime
+rates.
+
+126
+
+DVA may recruit employees with prescribed hours of duty to meet specific business
+needs.
+
+Working patterns
+127
+
+The normal pattern of hours that an employee may work between the approved span
+is subject to agreement of the employee’s manager who will first consider operational
+requirements and then the needs of the employee and other employees in the work
+area, and any other relevant matter.
+
+128
+
+All employees should have a break of at least 30 minutes after working 5 consecutive
+hours.
+
+129
+
+Employees eligible for overtime payments must not work for more than 10 hours
+ordinary time a day or 5 consecutive hours without a meal break of at least 30 minutes.
+Time spent travelling away from normal headquarters on official business does not
+contribute towards the accumulation of 10 hours ordinary time for the purposes of this
+17
+
+DVA Enterprise Agreement 2019-2022
+
+clause, but is recorded as flextime if it occurs between the span of hours or an agreed
+alternative span.
+
+Flextime
+130
+
+Flextime will be available to all employees at the APS Level 6 (or equivalent)
+classification or below, except OAWG field employees. Flextime is a scheme of flexible
+working hours arrangements that enables variation of working hours, patterns and
+arrangements, to provide maximum organisational flexibility with benefits to clients,
+employees and DVA. Further information is available in the DVA Working Hours and
+Flextime Policy. Under the scheme, an employee may:
+a)
+
+accumulate a flex credit where they work hours in excess of the standard day or a
+flex debit where they work less than the standard working day;
+
+b)
+
+carry over a maximum of 38 hours flex credit or 10 hours flex debit into the next
+settlement period;
+
+c)
+
+count travel time during official travel away from normal headquarters and
+between the normal span of hours Monday to Friday, or agreed alternative span,
+as hours worked in a settlement period; and
+
+d)
+
+access flex credit subject to agreement of their manager with agreement not being
+unreasonably withheld.
+
+Executive Levels
+131
+
+The working arrangements (including working patterns) for employees at the Executive
+Level 1 and 2 classifications (or equivalent) are subject to agreement by their
+manager. Executive Level employees will not be required to work additional hours for
+extended periods. Managers and Executive Level employees should work together to
+manage workload requirements, working hours and work/life balance.
+
+132
+
+Further information is available in the DVA Executive level Flexible Working Hours
+Guidelines.
+
+FLEXIBLE WORK ARRANGEMENTS
+133
+
+All DVA employees have the right to request flexible working arrangements. DVA will
+make all reasonable attempts to accommodate such requests. Requests will only be
+refused on reasonable business grounds.
+
+Part-time work
+134
+
+An employee may, by agreement in writing with the employee’s manager, work less
+than the ordinary hours of 150 hours over a four-week period for a specified period
+including under a job-sharing arrangement. The employee will revert to full-time work
+at the completion of this period unless otherwise agreed.
+
+135
+
+The manager and the employee may agree to vary the part-time work agreement,
+including a reversion to full time hours, before the end of the agreement. Employees
+returning from maternity, adoption, fostering or unpaid parental leave will have access
+to part-time work within DVA for the period up to the child’s second birthday or, in the
+case of adoption or fostering, the second anniversary of the placement of the child.
+Under the NES, if an employee is the parent, or has responsibility for the care, of a child
+who is of school age or younger, they may request to work part-time to assist in the
+care of the child. These requests may only be refused on reasonable business grounds.
+
+136
+
+An employee who is engaged, promoted or agrees to reassignment at level to
+perform management initiated part-time duties will need to apply for full-time
+vacancies if they wish to return to full-time employment.
+
+137
+
+Part-time employees must work at least three hours on any agreed workday.
+18
+
+DVA Enterprise Agreement 2019-2022
+
+138
+
+A part-time employee’s remuneration and other benefits including leave will be
+calculated on a pro-rata basis, apart from those payments of an expense nature
+where the employee will receive the same amount as a full-time employee.
+
+Home based work
+139
+
+Employees may apply to the Secretary for permission to undertake home based work
+(HBW). Where approved, DVA is responsible for the provision of any necessary
+equipment and associated supplies such as personal computers, ergonomic
+equipment, phone lines and stationary supplies. Applications will be considered on a
+case by case basis against likely operational requirements. Further information is
+available in the relevant DVA policy.
+
+Lactation breaks
+140
+
+Nursing mothers will be permitted to take lactation breaks each day (the duration of
+each break being approximately 30 minutes, although this can be discussed between
+employees and their Managers). Further guidance is provided in the relevant DVA
+policy.
+
+Child and dependant care
+141
+
+Where employees are required by DVA to be away from home outside normal working
+hours, managers may, in exceptional circumstances, reimburse some or all of the costs
+of additional family care arrangements provided by appropriate care providers. These
+arrangements would apply for short-term emergencies.
+
+142
+
+Where an employee has a timely application for leave (annual, purchased or long
+service leave) refused or cancelled, DVA will reimburse child care costs of up to $113
+per week for leave that coincides with gazetted school holidays or non-gazetted
+school holidays confirmed in writing by the school.
+
+HEALTH AND SAFETY
+OAWG health checks
+143
+
+Due to the nature of the work performed by OAWG field employees, DVA will provide
+annual health checks for these employees, including hearing and skin cancer checks.
+Further guidance is provided in the OAWG OH&S Strategy as amended from time to
+time.
+
+Flu vaccinations
+144
+
+DVA will arrange provision of an influenza vaccination to interested employees
+between 1 March and 31 May each calendar year at no cost to employees.
+
+145
+
+Employees who privately arrange and receive vaccinations between 1 March and
+31 May in a calendar year will, upon provision of receipts, be reimbursed for the cost
+of the influenza vaccine only.
+
+Healthy lifestyle subsidy
+146
+
+DVA will provide a reimbursable subsidy, as detailed at Attachment C, each calendar
+year to assist with meeting costs incurred in undertaking health and fitness activities
+provided those costs are minor FBT exempt benefits.
+
+147
+
+Reimbursement is subject to the employee submitting evidence of expenditure that is
+related to the employee and is not payable for that part of the cost of a program or
+activity that has been reimbursed by a health insurance fund or other organisation.
+19
+
+DVA Enterprise Agreement 2019-2022
+
+Employee Assistance Program
+148
+
+DVA will provide access to confidential professional counselling via the Employee
+Assistance Program to support employees and help them resolve personal or work
+related issues.
+
+Telephony health checks
+149
+
+DVA will provide access to annual hearing and eyesight tests for employees
+undertaking duties that require telephony scheduling.
+
+20
+DVA Enterprise Agreement 2019-2022
+
+PART E
+
+LEAVE AND PUBLIC HOLIDAYS
+
+150
+
+Employees are required to seek prior approval before taking leave except where
+unable to do so because of unexpected illness or injury.
+
+151
+
+Paid leave counts as service for all purposes. Unpaid leave does not count as service
+for any purpose and reduces the accrual of paid leave except where otherwise
+determined under legislation or otherwise specified in this Agreement or relevant DVA
+policy.
+
+152
+
+Unauthorised absence reduces accrual for all leave and does not count as service for
+any purpose.
+
+153
+
+An employee who has applied for or taken annual or long service leave may apply to
+cancel or recredit leave where they produce documentary evidence entitling them
+to other leave such as personal/carer’s leave under clause 164 a) or c),
+compassionate/bereavement leave, and community service leave. When other
+leave is granted, an equivalent amount of annual and/or long service leave will be recredited.
+
+154
+
+Further guidance on leave is provided in the relevant DVA policy.
+
+ANNUAL LEAVE
+155
+
+Employees will accrue 4 weeks (150 hours) of paid annual leave), pro-rated for parttime employees, for each full year of service in DVA. Annual leave accrues
+progressively.
+
+156
+
+The taking of annual leave is subject to the availability of credits and approval by the
+manager, in advance. The manager may grant annual leave at either full or half pay.
+Half pay annual leave will be deducted from leave credits at half the full pay rate.
+Part day absences will not be granted on half pay. Employees are encouraged to
+record part-day absences as flex leave or Time Off In Lieu rather than annual leave.
+
+Cashout
+157
+
+158
+
+A manager and employee may agree in writing, on each occasion, for the employee
+to cash out up to 2 weeks of their annual leave provided the employee:
+a)
+
+has taken at least three weeks of annual leave or long service leave at full pay or
+six weeks at half pay in the preceding 12 month period; and
+
+b)
+
+would have an annual leave balance of at least four weeks after the cashout; and
+
+c)
+
+has not cashed out any annual leave in the preceding 12 month period.
+
+Payment will be at the actual rate of salary on the date of cashout, including
+allowances payable during annual leave, and will be subject to usual taxation rates.
+
+Excess annual leave
+159
+
+If an employee exceeds the maximum annual leave balance of 10 weeks at
+1 October in any year (or 30 November if agreed with the manager) the employee will
+be directed to take that excess leave until the employee no longer exceeds the
+maximum.
+
+160
+
+Further information is provided in the relevant DVA policy.
+
+Purchased leave
+161
+
+Employees may elect to purchase up to 4 weeks additional leave over a 12 month or
+18 month period or up to 6 weeks additional leave over an 18 month period.
+
+21
+DVA Enterprise Agreement 2019-2022
+
+PERSONAL/CARER’S LEAVE
+162
+
+Employees will accrue 18 days of paid personal/carer’s leave, pro-rated for part-time
+employees, for each full year of service in DVA. Personal/carer’s leave accrues
+progressively, and accumulates without limit.
+
+163
+
+Taking of personal/carer’s leave is subject to approval by the manager and granting
+of paid personal/carer’s leave is subject to availability of credits. Employees must
+advise their manager as soon as practicable of their absence or their intention to be
+absent.
+
+164
+
+A manager may grant personal/carer’s leave in the following circumstances:
+a)
+
+in cases of personal illness or injury;
+
+b)
+
+to enable employees to attend health care appointments unless it would be
+detrimental to an employee in any respect when compared to the NES under the
+FW Act;
+
+c)
+
+to enable employees to care for a member of their immediate family or household
+because of:
+
+d)
+
+(i)
+
+illness or injury of the member or
+
+(ii)
+
+unexpected emergency affecting the member, including up to 1 week to
+allow employees to put longer term care arrangements in place for the
+member; and
+
+other emergency reasons considered appropriate unless it would be detrimental to
+an employee in any respect when compared to the NES under the FW Act.
+
+165
+
+The manager will grant an employee personal/carer’s leave if a medical practitioner
+reports that the employee has had contact with a person suffering from a notifiable
+disease and is unable to attend work.
+
+166
+
+An employee cannot use paid personal/carer’s leave while on paid maternity,
+adoption or fostering leave. Personal/carer’s leave may be granted for personal illness
+or injury during unpaid maternity, adoption or fostering leave, where satisfactory
+medical evidence is provided.
+
+167
+
+Where paid personal/carer’s leave has been exhausted, a manager may grant
+unpaid personal/carer’s leave for personal illness or injury subject to provision of
+documentary evidence for the entire period.
+
+168
+
+Where paid personal/carer’s leave has been exhausted, or where there is no
+entitlement to paid personal/carer’s leave, an employee is entitled to up to 2 days
+unpaid personal/carer’s leave on each occasion when a member of the employee’s
+immediate family or household requires care or support because of personal illness or
+injury or unexpected emergency. This can be taken as 2 unbroken days or as separate
+periods if agreed with the manager. Leave must be supported by documentary
+evidence. Such leave does not count as service unless provided for by legislation.
+
+Requirement for documentary evidence
+169
+
+The maximum leave for personal illness or injury that may be granted without
+documentary evidence, as defined in this Agreement, is 3 continuous days per
+occasion 7 days per calendar year. Other suitable supporting evidence may be
+accepted for situations other than illness or injury.
+
+170
+
+In certain circumstances, a manager may waive the requirement for documentary
+evidence for absences in excess of the maximum without documentation in a
+calendar year. Further guidance is provided in the relevant DVA policy.
+
+171
+
+A manager may require documentary evidence for periods of less than 3 days where
+there is a reasonable doubt that the absence is consistent with an appropriate use of
+personal/carer’s leave. If this is requested, the employee will be required to provide
+documentary evidence supporting the need for absence.
+22
+
+DVA Enterprise Agreement 2019-2022
+
+172
+
+Where the manager has required an employee to provide suitable evidence to
+support absences from the workplace, and that evidence cannot be provided to
+support absences, the manager may deem the leave to be an unauthorised absence.
+
+Invalidity
+173
+
+An employee whose employment with the APS is terminated on the grounds of
+invalidity, and is subsequently re-appointed under Section 75 of the Superannuation
+Act 1976, is entitled to be credited with the personal/carer’s leave balance accrued
+at the date of termination.
+
+COMPASSIONATE / BEREAVEMENT LEAVE
+174
+
+Subject to providing appropriate documentary evidence, an employee is entitled to
+three days compassionate/bereavement leave:
+a)
+
+to spend time with a person in their immediate family or household who has a
+personal injury, or illness, which poses a serious threat to his or her life; or
+
+b)
+
+after the death of a member of the employee’s immediate family or household.
+
+175
+
+This entitlement is available on each occasion that the above requirements are met.
+
+176
+
+Compassionate/bereavement leave is paid leave for full or part-time employees and
+unpaid for casual employees.
+
+177
+
+The three days compassionate/bereavement leave may be taken as a single
+unbroken period of three days or three separate one day periods or any separate
+periods to which the employee and the manager agree.
+
+178
+
+An employee’s manager may waive the above requirement for documentary
+evidence where they are satisfied that the circumstances are such that it would be
+unreasonable for the employee to provide such documentation.
+
+CAREER INTERVAL LEAVE
+179
+
+Career Interval Leave provides ongoing employees with access to a self-funded
+extended absence from the workplace by allowing them to authorise DVA to allocate
+20% of their annual salary, for four years, to their Career Interval Leave fund.
+
+180
+
+Following the completion of the four-year period the employee will be granted one
+year’s leave of absence, not to count as service, and will receive payments drawn
+from their career interval leave fund during that absence.
+
+MISCELLANEOUS LEAVE
+181
+
+The Secretary may grant paid or unpaid miscellaneous leave for a variety of purposes.
+Further information is contained in the relevant DVA policy.
+
+182
+
+Paid leave cannot be accessed during approved unpaid miscellaneous leave unless
+provided for by legislation.
+
+COMMUNITY SERVICE LEAVE
+183
+
+An employee will be granted Community Service Leave for the following purposes:
+a)
+
+participation in a voluntary emergency management activity including for regular
+training, responses, reasonable travel and recovery time and ceremonial duties. Up
+to 5 days paid leave per occasion may be granted. Leave in excess of 5 days per
+occasion will be unpaid unless otherwise determined by the Secretary;
+
+b)
+
+jury service (including attendance for jury selection). An employee will continue to
+be paid by DVA for any period of jury service, but will be required to pay to DVA
+any amount of jury service pay excluding expense-related pay, received by the
+employee; or
+23
+
+DVA Enterprise Agreement 2019-2022
+
+c)
+
+other community service activity as prescribed under the FW Act. Such leave will
+be unpaid.
+
+DEFENCE RESERVISTS LEAVE
+184
+
+An employee may be granted leave with or without pay to enable the employee to
+fulfil Australian Defence Force (ADF) Reserve and Continuous Full- Time Service (CFTS)
+or Cadet Force obligations.
+
+185
+
+An employee is entitled to ADF Reserve leave with pay, for up to four weeks during
+each financial year for the purpose of fulfilling service in the ADF Reserve. These
+purposes include training and operational duty as required and the following
+provisions apply:
+a)
+
+during the employee’s first year of ADF Reserve service, a further two weeks paid
+leave may be granted to facilitate participation in additional ADF Reserve training
+including induction requirements.
+
+b)
+
+with the exception of the additional two weeks in the first year of service, leave can
+be accumulated and taken over a period of two years to enable the employee to
+undertake training as a member of the ADF Reserves.
+
+c)
+
+employees are not required to pay their tax free ADF Reserve salary to DVA in any
+circumstance.
+
+186
+
+An employee who is an officer or instructor of cadets in a Cadet Force may be granted
+paid leave of up to three weeks each financial year to perform duties as an officer or
+instructor of Cadets. For these purposes ‘Cadet Force’ means the Australian Navy,
+Army or Air Force Cadets.
+
+187
+
+Defence Reserve Leave counts as service for all purposes, except for unpaid leave to
+undertake CFTS. Unpaid leave for the purpose of CFTS counts as service for all
+purposes except accrual of annual leave.
+
+188
+
+Eligible employees may also apply for annual leave, long service leave, leave without
+pay, top-up pay or they may use flextime or makeup time for the purpose of fulfilling
+ADF Reserve, CFTS or Cadet Force obligations. The Secretary may also grant additional
+miscellaneous leave, with or without pay, for defence force requirements, including
+deployment.
+
+189
+
+All miscellaneous leave granted for Defence Reserve purposes counts as service for all
+purposes.
+
+190
+
+Where an employee is deployed and receives payment for that deployment DVA will
+pay the difference between:
+a)
+
+any payment received in relation to that deployment; and
+
+b)
+
+the salary they would have received had they been on duty in DVA for that period.
+
+DEFENCE SERVICE SICK LEAVE
+191
+
+The Secretary will grant Defence Service Sick Leave to employees who are unfit for
+duty because of an accepted injury or disease.
+
+192
+
+An accepted injury or disease means:
+
+193
+
+a)
+
+a war-caused or defence-caused injury or disease that has been accepted under
+the Veterans’ Entitlements Act 1986; or
+
+b)
+
+a service injury or service disease that has been accepted under the Military
+Rehabilitation and Compensation Act 2004; or
+
+c)
+
+a defence-related injury or defence-related disease that has been accepted
+under the Safety, Rehabilitation and Compensation (Defence-related Claims) Act
+1988.
+
+An employee who is or becomes eligible for Defence Service Sick Leave is entitled to:
+24
+
+DVA Enterprise Agreement 2019-2022
+
+a)
+
+b)
+194
+
+a one-off special credit of nine weeks Defence Service Sick Leave from the latter
+of:
+(i)
+
+the date of their commencement in the Australian Public Service (APS); or
+
+(ii)
+
+the date on which liability for their injury or disease is accepted under the
+relevant Act of Parliament; and
+
+each year thereafter, and subject to clause 194, an annual credit of three weeks
+Defence Service Sick Leave.
+
+An eligible employee can accrue Defence Service Sick Leave up to a maximum
+annual credit balance of nine weeks.
+Example: An employee commences employment with the DVA (first employment in
+the APS) and has an accepted service injury under the Military Rehabilitation and
+Compensation Act 2004. The employee received the special credit of nine weeks
+Defence Service Sick Leave upon their commencement with DVA. If in year 1, the
+employee used no Defence Service Sick Leave, on the first anniversary, they would
+receive 3 weeks annual credit of Defence Service Sick Leave. If in years 2 and 3 the
+same employee again used no Defence Service Sick Leave, they would receive two
+further periods of 3 weeks annual credit and will have reached their maximum annual
+credit balance of 9 weeks. This would take the employee to 18 weeks in total when
+the special credit is combined with the maximum annual credit balance.
+
+195
+
+An eligible employee must use all of their special credit before their annual credit.
+
+196
+
+Where an employee's Defence Service Sick Leave credits have been exhausted,
+personal leave provisions will apply.
+
+197
+
+Approval of Defence Service Sick Leave is subject to:
+a)
+
+the provision of a medical certificate stating the nature of the medical condition;
+and
+
+b)
+
+internal DVA verification that the medical condition constitutes an accepted injury
+or disease.
+
+198
+
+Defence Service Sick Leave counts as service for all purposes.
+
+199
+
+Leave that counts as service for personal/carers’ leave purposes will count as service
+for the accrual of Defence Service Sick Leave.
+
+LONG SERVICE LEAVE
+200
+
+Long service leave is provided in accordance with the Long Service Leave
+(Commonwealth Employees) Act 1976 and will only be granted in minimum periods of
+7 consecutive calendar days at full pay or 14 days at half pay.
+
+201
+
+Periods of long service leave cannot be broken with other periods of leave except as
+otherwise provided for by legislation.
+
+MATERNITY, MATERNAL, ADOPTION/FOSTERING, PARENTAL LEAVE
+202
+
+An eligible employee may elect in advance to spread payment for all of their paid
+maternity leave and maternal leave or adoption/fostering leave entitlement (up to 15
+weeks) over a period of up to 30 weeks at a rate of no less than half normal salary.
+Only the first 15 weeks of the leave will count as service.
+
+Maternity and maternal leave
+203
+
+Eligible pregnant employees have entitlements to paid and unpaid maternity leave in
+accordance with the Maternity Leave (Commonwealth Employees) Act 1973 (the
+ML Act). This Agreement provides pregnant employees with an additional three weeks
+of paid maternal leave to be taken continuous with any entitlement to paid maternity
+leave provided by the ML Act.
+25
+
+DVA Enterprise Agreement 2019-2022
+
+ADOPTION/FOSTERING LEAVE
+204
+
+The Secretary will grant, upon application, unpaid adoption/fostering leave of up to
+52 weeks to employees immediately following the placement of a child with the
+employee for adoption or fostering, including court appointed permanent caring
+responsibilities.
+
+205
+
+The first 15 weeks adoption/fostering leave will be with pay provided that immediately
+prior to the date or expected date of placement of the child the employee has, or will
+have, completed at least 12 months qualifying service as defined in the ML Act and
+be the primary carer to the child. Where an employee completes the qualifying 12
+months service within the 15 weeks immediately after placement of a child, the
+remainder of that 15 week period will be with pay.
+
+206
+
+Unpaid adoption/ fostering leave does not count as service except for the period that
+occurs between the commencement of leave and the employee qualifying for paid
+adoption/fostering leave.
+
+207
+
+Where both adoptive/foster parents are DVA employees, the maximum amount of
+adoption/foster leave that can be granted between the two employees is 15 weeks
+with full pay (or 30 weeks half pay) and 52 weeks in total.
+
+208
+
+To be eligible for Adoption/Fostering Leave:
+a)
+
+the employee must have, or will have, responsibility for the care of the child;
+
+b)
+
+the leave must commence on the date of placement of the child and cease no
+later than 12 months from the date of placement of the child;
+
+c)
+
+the child to be placed must be under the age of 16 as at the date of placement;
+
+d)
+
+the child must not have lived continuously with the employee for a period of 6
+months or more as at the date of placement, or the expected date of placement,
+and is not a child or step child of the employee or the employee’s spouse or partner;
+and
+
+e)
+
+the employee must submit with their application for leave documentary evidence
+of either the approval for adoption or the permanent fostering arrangement by a
+person or organisation with statutory responsibility for the placement of the child
+and, in the case of fostering, that the child is not expected to return to their family.
+
+209
+
+Where a fostered child is subsequently adopted by the employee, and the employee
+has been granted paid leave for fostering of that child, the employee is not eligible for
+additional leave under the adoption leave provisions of this Agreement.
+
+210
+
+Placement in relation to the adoption or fostering of a child means the day the
+employee takes custody of the child or the day the employee starts travel that is
+reasonably necessary to take custody of the child.
+
+Supporting Partner Leave
+211
+
+During the 12 month period following the birth, adoption or fostering of a child an
+employee whose partner has given birth or is the primary care-giver for an adopted or
+fostered child may access up to two weeks paid leave for parenting purposes.
+
+Parental leave
+212
+
+An employee who has applied for or taken 12 months paid and/or unpaid maternity,
+fostering or adoption leave may also request up to an additional 12 months of unpaid
+parental leave to occur immediately following the end of their first 12 months’ leave
+and ending on the second anniversary of the birth or placement of the child. Requests
+will only be refused on reasonable business grounds and written reasons for refusal will
+be provided to the employee. Paid leave granted during the 12 month additional
+parental leave period does not extend this 12 month period.
+26
+
+DVA Enterprise Agreement 2019-2022
+
+DOMESTIC AND FAMILY VIOLENCE
+213
+
+The department is committed to supporting employees affected by family and
+domestic violence. The department will take a flexible and supportive approach to
+assisting affected employees, as appropriate, in the individual circumstances.
+Employees are encouraged to discuss which avenues of support are available to them
+with their manager or with People Services.
+
+214
+
+Leave is available to employees who are affected by family and domestic violence.
+Employees can apply for either paid or unpaid miscellaneous leave or
+personal/carer’s leave to cover absences for the purpose of, but not limited to:
+
+
+illness or injury resulting from family and domestic violence;
+
+
+
+providing care or support to a family or household member who is ill or injured as a
+result of family and domestic violence;
+
+
+
+providing care or support to a family or household member who is affected by an
+unexpected emergency as a result of family and domestic violence;
+
+
+
+obtain legal advice;
+
+
+
+attend to Protection Order matters and Domestic Violence Order matters,
+however termed;
+
+
+
+attend to issues arising through urgent property damage that is a consequence of
+family violence;
+
+
+
+attend appropriate medical and/or counselling appointments;
+
+
+
+access alternative accommodation;
+
+
+
+access alternative childcare or schooling for children.
+
+215
+
+These entitlements are in addition to any entitlement applying under the National
+Employment Standards.
+
+216
+
+Managers are to keep all information concerning the leave application strictly
+confidential. This includes, after sighting any supporting documentation, returning that
+documentation to the employee.
+
+217
+
+Access to flexible working arrangements as per clause 133 may also be granted.
+
+218
+
+Further information is available in the department’s domestic and family violence
+policy.
+
+PUBLIC HOLIDAYS
+219
+
+220
+
+Employees are entitled to the following public holidays:
+a)
+
+New Year's Day (1 January);
+
+b)
+
+Australia Day (26 January);
+
+c)
+
+Good Friday;
+
+d)
+
+Easter Monday;
+
+e)
+
+Anzac Day 25 April;
+
+f)
+
+The Queen's birthday holiday (on the day on which it is celebrated in a State or
+Territory or a region of a State or Territory);
+
+g)
+
+Christmas Day (25 December);
+
+h)
+
+Boxing Day (26 December);
+
+i)
+
+Any other day, or part-day, declared or prescribed by or under a law of a State or
+Territory to be observed generally within the State or Territory, or a region of the
+State or Territory, as a public holiday, other than a day or part-day, or a kind of day
+or part-day, that is excluded by the Fair Work Regulations from counting as a public
+holiday.
+If under a law of a State or Territory, a day or part day is substituted for one of the public
+holidays in clause 219, then the substituted day or part day is the public holiday.
+27
+
+DVA Enterprise Agreement 2019-2022
+
+221
+
+The Secretary and an employee may agree on the substitution of a day or part day
+that would otherwise be a public holiday, having regard to operational requirements.
+
+222
+
+Where substitution is made for a holiday falling on a Saturday or Sunday, no public
+holiday rates will be paid for duty performed on the Saturday or Sunday.
+
+223
+
+Where an employee cannot work on a day for which a substituted holiday has been
+granted, that employee will work additional hours equivalent to their normal hours on
+that missed day, at times to be agreed with the Secretary, without entitlement to
+overtime payment.
+
+224
+
+Where an employee works on both Christmas Day and a substitute holiday, one of the
+days will attract payment at the public holiday rate and the other day will be paid at
+the non-holiday Saturday or Sunday rate as appropriate.
+
+225
+
+An employee, who is absent on a day or part-day that is a public holiday in the place
+where the employee is based for work purposes, is entitled to be paid for the day or
+part day absence as if that day or part day was not a public holiday, except where
+that person would not normally have worked on that day.
+
+226
+
+Where a public holiday falls during a period when an employee is absent on a
+prevailing type of leave (such as leave without pay, long service leave, maternity
+leave etc.) there is no entitlement to receive payment as a public holiday. Payment
+for that day will be in accordance with the entitlement for that form of leave (e.g. if
+on long service leave at half pay, payment is at half pay). Note that, in accordance
+with the NES, an employee is not taken to be on annual leave or personal/carer's leave
+on a public holiday. Where an employee is in receipt of reduced pay (e.g. long service
+leave half pay and leave without pay) on both sides of a public holiday, payment for
+the public holiday will be at the higher rate of reduced pay.
+
+227
+
+If under a law of a State or Territory every Sunday is declared or prescribed by or under
+that law to be a public holiday, there is no entitlement to receive payment as a public
+holiday if the employee would have worked, or does perform work, on that day. In
+these circumstances, payment will only be made at the public holiday rate of pay if
+employee performs work on that day, and the Sunday would otherwise be a public
+holiday under clause 219 a) to h).
+
+228
+
+If under a law of a State or Territory Easter Tuesday is declared or prescribed by or
+under that law to be a public holiday, there is no entitlement to receive payment as a
+public holiday if the employee would have worked, or does perform work, on that day.
+
+ADDITIONAL HOLIDAY
+229
+
+230
+
+An additional holiday within the Christmas/New Year period will be determined
+according to the following table:
+Christmas Day
+
+Additional Day
+
+Sunday
+
+Wednesday 28 December
+
+Monday
+
+Wednesday 27 December
+
+Tuesday
+
+Monday 31 December
+
+Wednesday
+
+Friday 27 December
+
+Thursday
+
+Monday 29 December
+
+Friday
+
+Tuesday 29 December
+
+Saturday
+
+Wednesday 29 December
+
+Employee entitlements for this additional holiday will be those that would apply as if
+this day was a public holiday.
+
+28
+DVA Enterprise Agreement 2019-2022
+
+CHRISTMAS SHUTDOWN
+231
+
+DVA work places will remain closed between Christmas and New Year. Employees will
+be provided with paid time off for the working days between Christmas and New Year
+with no deduction from leave credits.
+
+232
+
+Where employees are directed to work on one or both of these days, they will be paid
+overtime in accordance with the provisions of this Agreement as if these days were
+public holidays.
+
+233
+
+Part-time employees who would not usually work on one or both of these days will be
+granted time off in lieu equal to 20% of their weekly part-time hours for each of these
+2 days on which they would not usually work.
+
+234
+
+Casual employees will not be paid for days on which they are not normally rostered to
+work.
+
+PORTABILITY OF LEAVE
+235
+
+Where an employee moves to DVA from another agency through either promotion or
+reassignment of duties under the Public Service Act, or is engaged as an ongoing or
+non-ongoing APS employee following a period of ongoing employment in the
+Parliamentary Service or the ACT Government Service, the employee’s unused
+accrued annual leave and personal/carers leave (however described) will be
+recognised by DVA provided there is no break in continuity of service. This includes
+recognition of full-time days on a day for day basis, regardless of the length of the day.
+
+RECOGNITION OF PRIOR SERVICE FOR PERSONAL/CARER’S LEAVE
+236
+
+On engagement as an APS employee in DVA, periods of prior employment as either
+an ongoing or non-ongoing APS employee with DVA or as a member of the Australian
+Defence Force will be recognised by DVA as service for personal/carer’s leave,
+provided any break in recognised continuous service does not exceed 2 months.
+
+237
+
+For each year of recognised prior service under clause 236, personal/carer’s leave will
+accrue at the rate of 3 weeks, less any personal/carer’s leave taken. A deduction of
+1 week per year of recognised service will be made when records of leave taken are
+unavailable.
+
+EXPENSES – CANCELLATION OF LEAVE OR RECALL TO DUTY
+238
+
+The Secretary may approve reimbursement of incidental and travel expenses
+reasonably incurred by an employee whose leave is cancelled without reasonable
+notice or who is recalled to duty.
+
+UNAUTHORISED ABSENCE
+239
+
+An employee absent from duty without approval will have all pay and allowances
+provided under this Agreement ceased until he or she resumes duty and/or is granted
+leave. Such absences will not count as service for any purpose including accrual of
+leave.
+
+29
+DVA Enterprise Agreement 2019-2022
+
+PART F
+
+IMPROVING SKILLS AND PERFORMANCE
+
+PERFORMANCE FEEDBACK
+240
+
+The department is committed to a performance management system that operates
+transparently and consistently, supports employees, provides regular objective
+feedback and focuses on learning and development opportunities.
+
+241
+
+All employees will participate in the department’s performance management
+framework.
+
+242
+
+The purpose of the performance management process is to:
+
+243
+
+244
+
+a)
+
+develop a culture of high performance in the department;
+
+b)
+
+align individual performance requirements with business requirements;
+
+c)
+
+ensure that employees have a clear understanding of their role, and the
+performance standards expected of them; and
+
+d)
+
+identify and plan for learning and development needs.
+
+The principles of the performance management process are:
+a)
+
+Joint responsibility – employees and supervisors will participate in all aspects of the
+performance management process, including initiating reviews, and seeking and
+providing feedback as required.
+
+b)
+
+No surprises – the performance process will ensure that employees are aware of
+their performance progress. Managers should identify and address performance
+concerns at the earliest opportunity.
+
+c)
+
+Fair – the performance process will provide employees with an opportunity to
+respond to performance feedback, consistent with natural justice principles.
+
+d)
+
+Holistic – work outcomes and performance measures will be realistic, within the
+employee’s control and consistent with their work level.
+
+The performance assessment process will be used to determine a performance rating
+as displayed in the following table:
+Rating
+
+Key message
+
+Outcome
+
+Competent
+
+Meets or exceeds the
+
+Salary advancement (where
+
+expected responsibilities and
+
+not at the top of the range).
+
+behaviours agreed upon on
+in the performance
+agreement.
+Not competent
+
+Does not meet or partially
+
+No salary advancement.
+
+meets expected
+
+A Performance Improvement
+
+responsibilities and
+
+Plan will be required.
+
+behaviours agreed upon in
+the performance
+agreement.
+
+245
+
+Further information is provided in the Performance Feedback Scheme.
+
+MANAGING UNDERPERFORMANCE
+246
+
+Underperformance or poor performance is a failure to perform the duties of the
+position or to perform them to the standard required. Underperformance is usually
+managed in two stages, an informal process and a formal process.
+
+247
+
+Where, despite workplace counselling designed to improve performance through
+feedback and other measures, an employee’s performance continues to fall below
+30
+
+DVA Enterprise Agreement 2019-2022
+
+the expected standard, a two month period of formal performance counselling and
+assessment will commence which will involve:
+a)
+
+a formal written warning specifying:
+(i)
+
+the required standard of duties the employee has been assigned;
+
+(ii)
+
+that performance will need to improve;
+
+(iii)
+
+how the employee’s performance will be assessed; and
+
+(iv)
+
+the possible consequences if the employee has not attained and sustained
+the required standards by the end of the 2 month assessment period;
+
+b)
+
+further assessment of performance; and
+
+c)
+
+a final assessment at the end of the two month period.
+
+248
+
+If, at the end of the two month assessment period the employee’s performance fails
+to meet the expected standard, the employee may have their employment
+terminated or alternatively may have their classification reduced or be reassigned.
+
+249
+
+These provisions do not apply to non-ongoing employees or employees while they are
+on a period of probation.
+
+250
+
+Further information is provided in the Managing Underperformance policy.
+
+LEARNING AND DEVELOPMENT
+251
+
+Subject to operational requirements and available resources, employees should have
+access to at least 5 days of structured development activities per year consistent with
+the 70-20-10 principle that adult learning takes place on the job (70%), through
+relationships with other people (20%) and through formal situations such as courses or
+workshops (10 %).
+
+Professional registration reimbursement – APS Levels 1-5
+252
+
+Where an APS Level 1 to APS Level 5 employee is required by DVA to maintain
+registration with a professional body as a prerequisite to performing their role, the
+employee will be entitled to receive reimbursement of:
+a)
+
+the cost of this registration; and/or
+
+b)
+
+costs of items specifically related to improving or maintaining their professional skills,
+qualifications or registration, such as professional membership fees, professional
+development expenses or journals (as agreed in an employee’s Learning and
+Development plan) up to the amount specified in Attachment C to this Agreement.
+Where the actual registration costs exceed this amount, the employee may seek
+approval for reimbursement of a higher amount. Reimbursement is subject to the
+employee providing suitable documentary evidence of the expense incurred.
+
+Medical Officers - Professional development
+253
+
+Medical Officers may claim up to the amount specified in Attachment C to this
+Agreement for expenditure on activities to assist in attaining and maintaining relevant
+and agreed skills and knowledge. Medical Officers may also be approved to engage
+in private practice.
+
+254
+
+Further details are contained in Medical Officers – Professional Development Policy.
+
+STUDY ASSISTANCE
+255
+
+The Secretary may approve access, for ongoing employees, to financial assistance
+and/or study leave, to support the successful completion of tertiary studies that are
+relevant to the operational needs of DVA. Further information is available in the Study
+Assistance Policy. Specific proposals for studies assistance must be reflected in the
+employee’s performance agreement.
+31
+
+DVA Enterprise Agreement 2019-2022
+
+PART G
+
+BROADBANDS AND ADVANCEMENT
+
+256
+
+DVA has two broadbands, DVA Band 1 (APS Level 1 to APS Level 2) and DVA Band 2
+(APS Level 3 to APS Level 5). Movement of an ongoing DVA employee between one
+work level and a higher level within the same broadband, through the following
+provisions, is an advancement.
+
+257
+
+Only ongoing DVA employees whose substantive level is below the higher work level
+but within the broadband are eligible for advancement.
+
+258
+
+Advancement of eligible employees from one work level within a broadband to a
+higher work level within the same broadband is subject to:
+
+259
+
+a)
+
+the availability of sufficient ongoing work at the higher work level; and
+
+b)
+
+where there is more than one eligible applicant for an internally advertised
+advancement opportunity, a competitive assessment of those applicants against
+the skills, knowledge and personal attributes required for the available work at the
+higher work level; and
+
+c)
+
+where there is only one eligible applicant for an internally advertised advancement
+opportunity, that employee has been assessed as performing their current duties at
+a standard that meets or exceeds expectations and having the skill requirements
+for the available work at the higher work level.
+
+Further details are provided in the relevant DVA policy.
+
+32
+DVA Enterprise Agreement 2019-2022
+
+PART H
+
+REDEPLOYMENT, REDUNDANCY AND RESIGNATION
+
+REDEPLOYMENT AND REDUNDANCY
+260
+
+These provisions do not apply to employees on probation or to non-ongoing
+employees.
+
+261
+
+The Secretary will advise any employee, in writing, if he or she is likely to become excess
+and will take reasonable action to assess the redeployment prospects of the
+potentially excess employee.
+
+262
+
+Discussions will be held with the potentially excess employee to consider:
+a)
+
+redeployment opportunities for the employee concerned, taking into account the
+Secretary's assessment; and
+
+b)
+
+whether the potentially excess employee is interested in voluntary redundancy.
+
+263
+
+During these discussions, the employee may choose to be accompanied by a support
+person.
+
+264
+
+Prior to the conclusion of these discussions, employees who are not potentially excess
+may be invited by the Secretary to express interest in voluntary redundancy, where
+those redundancies would facilitate the redeployment of excess or potentially excess
+employees.
+
+265
+
+Excess and potentially excess employees will be considered in isolation for all DVA
+vacancies at their substantive level, and prior to those vacancies being advertised.
+Excess employees will be considered before potentially excess employees. Where
+more than one excess or potentially excess employee is considered for a vacancy, the
+selection decision will be based on a comparative assessment of those employees.
+
+266
+
+Potentially excess and excess employees being assessed for redeployment to a
+vacancy need only demonstrate that they will be able to satisfactorily perform the
+duties, with training and development, within a reasonable time frame (ordinarily
+within 3 to 6 months).
+
+Determining excess status
+267
+
+268
+
+An employee may be declared excess if:
+a)
+
+there is a greater number of employees at the employee’s regular level than is
+necessary for the efficient and economical working of DVA; or
+
+b)
+
+their services cannot be effectively used because of technological or other
+changes in work methods, or other organisational changes in DVA; or
+
+c)
+
+the employee is not willing to move to or perform duties at another locality where
+their usual duties are reassigned, and the Secretary determines that these provisions
+will apply to that employee.
+
+The Secretary may advise the employee in writing that they are excess to
+requirements:
+a)
+
+after the completion of discussions in clause 262 or
+
+b)
+
+if the employee or the employee’s representative decline to attend discussions –
+no less than 4 weeks after the Secretary has told the employee that the employee
+is likely to become an excess employee in accordance with clause 261.
+
+Employee support and career transition
+269
+
+DVA will provide integrated employee support and career transition services including
+financial and/or career counselling usually to a combined maximum of $850 (unless
+exceptional circumstances warrant an additional amount) to assist potentially excess
+and excess employees make decisions on retirement and associated issues such as
+33
+
+DVA Enterprise Agreement 2019-2022
+
+superannuation. Access to this amount is available once only. A potentially excess
+employee cannot receive funding for this purpose at a later date as an excess
+employee if they have already accessed this support.
+
+Voluntary redundancy
+270
+
+Where the Secretary invites an excess employee to consider an offer of voluntary
+redundancy, the employee will have 4 weeks within which to accept the offer. If the
+employee accepts the offer the Secretary will issue a Notice of Termination at or after
+the end of that period and not before, unless the Secretary and the employee agree
+to the Notice of Termination being given earlier.
+
+271
+
+Only one formal offer of voluntary redundancy will be made to an excess employee.
+
+272
+
+Where an employee has not already received the following information, within the 4
+week consideration period the employee must be given information on the
+employee’s:
+a)
+
+estimated redundancy pay, pay in lieu of notice, annual and long service leave
+credits;
+
+b)
+
+accumulated superannuation contributions and superannuation options;
+
+c)
+
+taxation rules applying to the various payments; and
+
+d)
+
+financial/career counselling reimbursement up to a combined maximum of $850
+unless exceptional circumstances warrant an additional amount, and if not already
+accessed previously in this process.
+
+Redundancy benefit
+273
+
+An employee who accepts an offer of voluntary redundancy and whose employment
+is terminated under section 29 of the Public Service Act on the grounds that he/she is
+excess to requirements is entitled to be paid:
+a)
+
+a sum equal to 2 weeks’ salary for each continuous completed year of service
+deemed to be continuous and as defined in clause 276 of this Agreement
+
+b)
+
+plus a pro-rata payment for completed months of service since the last completed
+year of service,
+
+subject to any minimum amount the employee is entitled to under the NES.
+274
+
+The minimum sum payable is 4 weeks’ salary and the maximum is 48 weeks’ salary.
+
+275
+
+The redundancy benefit is calculated on a pro-rata basis for any period where the
+employee has worked part-time hours during their period of service and has less than
+24 years full-time service subject to any minimum amount the employee is entitled to
+under the NES.
+
+276
+
+Subject to the following clauses, service for redundancy pay purposes means:
+a)
+
+service in DVA;
+
+b)
+
+Government service as defined in section 10 of the Long Service Leave
+(Commonwealth Employees) Act 1976, excepting ACT Government Service (unless
+transitional eligibility applies);
+
+c)
+
+service with the Australian Government (other than service with a Joint
+Commonwealth-State body corporate in which the Australian Government does
+not have a controlling interest) that is recognised for long service leave purposes;
+
+d)
+
+service with the Australian Defence Forces;
+
+e)
+
+continuous APS service immediately preceding deemed resignation under
+repealed section 49 of the Public Service Act 1922, if the service has not been
+previously recognised for redundancy pay purposes; and
+
+f)
+
+service in another organisation where:
+
+34
+DVA Enterprise Agreement 2019-2022
+
+277
+
+278
+
+the employee was reassigned from the APS to that organisation with a
+transfer of function; or
+
+(ii)
+
+the employee engaged by that organisation on work within a function is
+engaged as a result of the reassignment of that function to the APS and
+such service is recognised for long service leave purposes.
+
+For earlier periods of service to count there must be no breaks between the periods of
+service, except where:
+a)
+
+the break in service is less than 1 month and occurs where an offer of employment
+with the new employer was made and accepted by the employee before ceasing
+employment with the preceding employer; or
+
+b)
+
+the earlier period of service was with the APS and ceased because the employee
+was deemed to have resigned from the APS on marriage under repealed section
+49 of the Public Service Act.
+
+Service for redundancy pay purposes does not include any period of prior service that
+ceased:
+a)
+
+279
+
+(i)
+
+through termination on the following grounds:
+(i)
+
+the employee lacks, or has lost, an essential qualification for performing their
+duties;
+
+(ii)
+
+non-performance, or unsatisfactory performance of duties;
+
+(iii)
+
+inability to perform duties because of physical or mental incapacity;
+
+(iv)
+
+failure to satisfactorily complete an entry level training course;
+
+(v)
+
+failure to meet a condition imposed under section 22(6) of the Public Service
+Act; or
+
+(vi)
+
+a breach of the Code of Conduct; or
+
+b)
+
+on a ground equivalent to a ground listed in subclause (a) above under the
+repealed Public Service Act 1922; or
+
+c)
+
+through voluntary retirement at or above the minimum retiring age applicable to
+the employee; or
+
+d)
+
+with the payment of a redundancy (severance) benefit or similar payment or an
+employer-financed retirement benefit (e.g. superannuation).
+
+Absences from duty that do not count as service for long service leave purposes will
+not count as service for redundancy pay purposes.
+
+Rate of payment - redundancy benefit
+280
+
+For the purpose of calculating any payment under clause 273 of this Agreement, salary
+will include:
+a)
+
+the employee’s salary; or
+
+b)
+
+the salary of the higher work level, where the employee has been performing work
+at a higher level for a continuous period of at least 12 months immediately
+preceding the date on which he or she is given a Notice of Termination; and
+
+c)
+
+other allowances in the nature of salary that are paid during periods of annual
+leave and on a regular basis, excluding allowances that are a reimbursement for
+expenses incurred or a payment for disabilities associated with the performance of
+duty.
+
+Involuntary redundancy
+Retention period
+281
+
+The Secretary will not involuntarily terminate the employment of an excess employee
+under section 29 of the Public Service Act 1999, unless they otherwise agree, until the
+following retention periods have elapsed:
+35
+
+DVA Enterprise Agreement 2019-2022
+
+a)
+
+13 months service where, on the day the retention period commences, the
+employee identified as excess has at least 20 years of service with the
+Commonwealth, or is aged 45 years or over; or
+
+b)
+
+7 months service if the employee identified as excess has less than 20 years of
+service with the Commonwealth, and is under 45 years of age on the day the
+retention period commences.
+
+282
+
+If an employee is entitled to a redundancy payment under the NES, the retention
+period at clause 281 will be reduced by that redundancy pay entitlement on
+termination, calculated as at the expiry of the retention period as adjusted by this
+clause.
+
+283
+
+The retention period will commence on the earlier of the following:
+a)
+
+the day the employee is advised in writing by the Secretary that he or she is an
+excess employee; or
+
+b)
+
+4 weeks after the day on which the Secretary invites the employee to elect to have
+their employment voluntarily terminated under clause 270 of this Agreement.
+
+284
+
+During the retention period the Secretary will continue to take reasonable steps to find
+alternative employment for the employee, including movements at level. The
+employee will also take reasonable steps to find alternative employment and actively
+participate in learning and development activities, trial placements or other
+arrangements agreed to, to assist in obtaining a permanent placement.
+
+285
+
+After taking the above steps, the Secretary may, after giving 4 weeks’ notice to the
+employee, reduce their classification as a means of securing alternative employment.
+
+286
+
+If this occurs prior to the end of the retention period the employee will continue to be
+paid at their previous salary level for the balance of the retention period. For these
+purposes previous salary level includes the salary of a higher work level, where the
+employee has been performing work at a higher level for a continuous period of at
+least 12 months immediately preceding the date on which he or she was reduced in
+classification level, provided the employee would have continued to act but for the
+excess employee situation. Their previous level will also include allowances or loadings
+in the nature of salary that are paid during periods of leave and on a regular basis.
+
+287
+
+The retention or notice periods relating to the reduction in classification of an excess
+employee or notice of involuntary termination will be extended by any periods of
+certificated personal/carer’s leave due to the illness of the employee during these
+periods.
+
+288
+
+The excess employee may be provided with assistance in meeting reasonable travel
+and incidental expenses incurred in seeking alternative employment where these
+expenses are not met by the prospective employer.
+
+289
+
+Where the Secretary believes there is insufficient productive work available for an
+excess employee during the retention period, the Secretary may, with the agreement
+of the employee, terminate their employment under section 29 of the Public Service
+Act and pay a lump sum comprising:
+
+290
+
+a)
+
+the balance of the retention period (as shortened for the NES under sub-clause 282)
+and this payment will be taken to include the payment in lieu of notice of
+termination of employment, plus
+
+b)
+
+the employee’s NES entitlement to redundancy pay.
+
+An excess employee will not have their employment terminated involuntarily:
+a)
+
+before they have been invited to consider an offer of voluntary termination of
+employment, or
+
+b)
+
+if they have agreed to have their employment voluntarily terminated but the
+Secretary refuses to approve it; and/or
+36
+
+DVA Enterprise Agreement 2019-2022
+
+c)
+
+if there is another employee performing similar work at the same level and in the
+same location who has previously agreed to have their employment terminated,
+been refused, still wishes to accept voluntary termination of employment and the
+Secretary agrees.
+
+Notice periods
+291
+
+Where an employee’s employment is terminated due to voluntary or involuntary
+redundancy, the employee will receive 4 weeks’ notice of termination (or 5 weeks for
+employees over 45 years of age with at least 5 years of continuous service as defined
+in clause 276).
+
+292
+
+In the case of involuntary redundancy, wherever possible the notice period will be
+concurrent with the retention period.
+
+293
+
+Where an employee has their employment terminated before the expiration of the
+notice period, payment in lieu for the unexpired period will be made. The payment
+must not be less than the amount the employee would have received if they had
+continued to work in accordance with their usual arrangements until the end of the
+notice period.
+
+RESIGNATION
+294
+
+Ongoing employees may resign their employment, or non-ongoing employees may
+terminate their employment contract before the end of the period of engagement,
+by giving the Secretary at least 14 days’ notice.
+
+295
+
+At the instigation of the Secretary the resignation may take effect at an earlier date
+within the notice period. In such cases the employee will be paid compensation in lieu
+of the notice period that is not worked.
+
+296
+
+Where an employee resigns on a public holiday, they will be deemed to have resigned
+on the last working day prior to the public holiday.
+
+37
+DVA Enterprise Agreement 2019-2022
+
+ATTACHMENT A – SALARY RATES
+Administrative and Executive Levels
+Table 1
+A
+APS Classification
+
+B
+
+C
+
+D
+
+E
+
+F
+
+Salary on
+commencement
+of EA
+
+Salary
+12 months after
+commencement
+of EA
+
+Salary
+24 months after
+commencement
+of EA
+
+DVA Broadband
+
+Current Salary
+
+DVA Band 1
+
+$46,450
+$47,675
+$48,899
+$50,467
+$52,034
+$54,018
+$55,088
+$56,158
+$57,623
+$59,086
+
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+
+$47,379
+$48,629
+$49,877
+$51,476
+$53,075
+$55,098
+$56,190
+$57,281
+$58,775
+$60,268
+
+$48,327
+$49,601
+$50,875
+$52,506
+$54,136
+$56,200
+$57,314
+$58,427
+$59,951
+$61,473
+
+$49,293
+$50,593
+$51,892
+$53,556
+$55,219
+$57,324
+$58,460
+$59,595
+$61,150
+$62,703
+
+DVA Band 2
+
+$60,976
+$61,984
+$62,802
+$64,152
+$65,502
+$68,859
+$69,760
+$70,660
+$72,052
+$73,443
+$76,766
+$77,306
+$77,848
+$78,925
+$80,001
+
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+
+$62,196
+$63,224
+$64,058
+$65,435
+$66,812
+$70,236
+$71,155
+$72,073
+$73,493
+$74,912
+$78,301
+$78,852
+$79,405
+$80,504
+$81,601
+
+$63,439
+$64,488
+$65,339
+$66,744
+$68,148
+$71,641
+$72,578
+$73,515
+$74,963
+$76,410
+$79,867
+$80,429
+$80,993
+$82,114
+$83,233
+
+$64,708
+$65,778
+$66,646
+$68,079
+$69,511
+$73,074
+$74,030
+$74,985
+$76,462
+$77,938
+$81,465
+$82,038
+$82,613
+$83,756
+$84,898
+
+APS Level 6
+
+$84,374
+$86,915
+$89,455
+$92,631
+$95,809
+
+1
+2
+3
+4
+5
+
+$86,061
+$88,653
+$91,244
+$94,484
+$97,725
+
+$87,783
+$90,426
+$93,069
+$96,373
+$99,680
+
+$89,538
+$92,235
+$94,930
+$98,301
+$101,673
+
+Executive Level 1
+
+$106,140
+$108,692
+$111,244
+$113,898
+$116,555
+
+1
+2
+3
+4
+5
+
+$108,263
+$110,866
+$113,469
+$116,176
+$118,886
+
+$110,428
+$113,083
+$115,738
+$118,499
+$121,264
+
+$112,637
+$115,345
+$118,053
+$120,869
+$123,689
+
+Executive Level 2
+
+$128,005
+$131,541
+$135,078
+$139,577
+$144,076
+
+1
+2
+3
+4
+5
+
+$130,565
+$134,172
+$137,780
+$142,369
+$146,958
+
+$133,176
+$136,855
+$140,535
+$145,216
+$149,897
+
+$135,840
+$139,592
+$143,346
+$148,120
+$152,895
+
+APS Level 1
+
+APS Level 2
+
+APS Level 3
+
+APS Level 4
+
+APS Level 5
+
+Notes
+1. There is a work barrier at the top of each APS classification level within DVA broadbands.
+2. Employees and trainees under 21 years of age employed at the APS Level 1classification will be paid a
+percentage of the minimum APS 1 salary as follows:
+Under 18 years
+60%
+At 18 years
+70%
+At 19 years
+81%
+At 20 years
+91%
+
+38
+DVA Enterprise Agreement 2019-2022
+
+Medical Officers
+TABLE 2
+A
+
+B
+
+C
+
+D
+
+E
+
+APS Classification
+
+Current
+Salary
+
+Salary
+on
+commencement
+of EA
+
+Salary
+12 months after
+commencement
+of EA
+
+Salary
+24 months after
+commencement
+of EA
+
+Medical Officer Class 1
+
+$96,578
+
+1
+
+$98,510
+
+$100,480
+
+$102,489
+
+$104,597
+
+2
+
+$106,689
+
+$108,823
+
+$110,999
+
+$112,554
+
+3
+
+$114,805
+
+$117,101
+
+$119,443
+
+$119,134
+
+4
+
+$121,517
+
+$123,947
+
+$126,426
+
+$125,713
+
+5
+
+$128,227
+
+$130,792
+
+$133,408
+
+$135,727
+
+1
+
+$138,442
+
+$141,210
+
+$144,035
+
+$138,087
+
+2
+
+$140,849
+
+$143,666
+
+$146,539
+
+$139,857
+
+3
+
+$142,654
+
+$145,507
+
+$148,417
+
+$141,628
+
+4
+
+$144,461
+
+$147,350
+
+$150,297
+
+$142,807
+
+5
+
+$145,663
+
+$148,576
+
+$151,548
+
+$151,655
+
+1
+
+$154,688
+
+$157,782
+
+$160,937
+
+$153,385
+
+2
+
+$156,453
+
+$159,582
+
+$162,773
+
+$155,116
+
+3
+
+$158,218
+
+$161,383
+
+$164,610
+
+$156,846
+
+4
+
+$159,983
+
+$163,183
+
+$166,446
+
+$158,575
+
+5
+
+$161,747
+
+$164,981
+
+$168,281
+
+$165,378
+
+1
+
+$168,686
+
+$172,059
+
+$175,500
+
+$171,817
+
+2
+
+$175,253
+
+$178,758
+
+$182,334
+
+$175,140
+
+3
+
+$178,643
+
+$182,216
+
+$185,860
+
+$178,465
+
+4
+
+$182,034
+
+$185,675
+
+$189,388
+
+$181,790
+
+5
+
+$185,426
+
+$189,134
+
+$192,917
+
+Medical Officer Class 2
+
+Medical Officer Class 3
+
+Medical Officer Class 4
+
+39
+DVA Enterprise Agreement 2019-2022
+
+Grandfathered Transitional Salary Rates
+TABLE 3
+A
+
+B
+
+C
+
+APS Classification
+
+Previous
+DVA Designation
+
+Current Salary
+
+APS Level 5
+
+Public Affairs Officer 1
+#
+
+APS Level 6
+
+Public Affairs Officer 2
+
+Executive Level 1
+
+Public Affairs Officer 3
+
+Executive Level 2
+
+Senior Public Affairs
+Officer
+
+APS Level 6
+Legal 1
+Executive level 1
+
+Executive Level 2
+
+Legal 2
+
+D
+Salary
+on
+commencement
+of EA
+
+E
+Salary
+12 months after
+commencement
+of EA
+
+F
+Salary 24
+months after
+commencement
+of EA
+
+$76,766
+
+$78,301
+
+$79,867
+
+$81,465
+
+$80,001
+
+$81,601
+
+$83,233
+
+$84,898
+
+$90,494
+
+$92,304
+
+$94,150
+
+$96,033
+
+$98,714
+
+$100,688
+
+$102,702
+
+$104,756
+
+$122,010
+
+$124,450
+
+$126,939
+
+$129,478
+
+$129,734
+
+$132,329
+
+$134,975
+
+$137,675
+
+$137,556
+
+$140,307
+
+$143,113
+
+$145,976
+
+$146,528
+
+$149,459
+
+$152,448
+
+$155,497
+
+$87,183
+
+$88,927
+
+$90,705
+
+$92,519
+
+*$91,977
+
+*$93,816
+
+*$95,693
+
+*$97,607
+
+$108,442
+
+$110,611
+
+$112,823
+
+$115,080
+
+$113,689
+
+$115,963
+
+$118,282
+
+$120,648
+
+$129,734
+
+$132,329
+
+$134,975
+
+$137,675
+
+$139,733
+
+$142,528
+
+$145,378
+
+$148,286
+
+$147,754
+
+$150,709
+
+$153,723
+
+$156,798
+
+Notes
+1.
+On commencement of this Agreement, these grandfathered transitional salary rates apply only to an employee
+who:
+(a) immediately before the commencement of the DVA Enterprise Agreement 2015-2018, held a DVA
+designation listed above in Column B and the corresponding APS classification and salary rate, and remains in
+that role and at that substantive level and at a corresponding salary rate; or
+(b) immediately prior to the commencement of the DVA Enterprise Agreement 2015-2018, was on a period of
+continuous temporary assignment at one of the above DVA designations and corresponding salary rates that has
+continued without break after the commencement of this Agreement; or
+(c) immediately following a period of continuous temporary assignment referred to in (b) is promoted to that job.
+2.
+Employees to whom these transitional salary rates continue to apply under Note 1 may progress to the next
+higher salary point within the above designation in accordance with the salary advancement provisions of this
+Agreement.
+3.
+Where an employee receiving a grandfathered transitional salary is reassigned, at the employee’s initiative, on
+an ongoing basis to a role for which a transitional salary is not applicable, the employee will cease to be entitled
+to the grandfathered transitional salary and will be entitled to remuneration at the appropriate salary for the new
+role as reflected in Table 1 of Attachment A.
+4.
+Where an employee receiving a grandfathered transitional salary is temporarily reassigned and the salary of the
+temporary assignment is less than the employee’s substantive salary, the employee will continue to receive, at a
+minimum, their substantive salary.
+#
+Employees on this salary point on commencement of the Agreement, or who progress to this point during the life
+of the Agreement, will translate to that identical salary point for their APS classification in Table 1 and these
+transitional rates will no longer apply.
+*
+An employee may not progress beyond this point within the Legal 1 band unless the duties allocated to
+the employee are classified at Executive Level 1 and the employee has performed duties at that level
+for a minimum period of 3 months.
+
+40
+DVA Enterprise Agreement 2019-2022
+
+ATTACHMENT B – SUPPORTED WAGE SYSTEM
+1
+
+Employees who are affected by a disability are eligible for a supported wage.
+Eligibility
+
+2
+
+Eligible employees are those who are unable to perform the range of duties to the
+competence level required within the classification for which the employee is
+engaged, because of the effects of a disability on their productive capacity and
+who meet the impairment criteria for receipt of a disability support pension.
+
+3
+
+This provision does not apply to any existing employee who has a claim against
+DVA which is subject to the provisions of workers compensation legislation or any
+provision of this Agreement relating to the rehabilitation of employees who are
+injured in the course of their employment.
+Supported wage rates
+
+4
+
+Employees to whom this provision applies shall be paid the applicable percentage
+of the relevant base salary as outlined at Attachment A according to Table 1,
+provided that the minimum amount payable is not less than the minimum weekly
+amount as prescribed by the Fair Work Commission from time to time.
+Table 1: Supported wage rates
+
+5
+
+Assessed capability
+
+% of base salary available under this Agreement
+
+10%
+
+10%
+
+20%
+
+20%
+
+30%
+
+30%
+
+40%
+
+40%
+
+50%
+
+50%
+
+60%
+
+60%
+
+70%
+
+70%
+
+80%
+
+80%
+
+90%
+
+90%
+
+Where an employee’s assessed capacity is 10 per cent the employee must receive
+a high degree of assistance and support.
+Assessment of capacity
+
+6
+
+For the purposes of establishing the percentage of the relevant base salary, the
+productive capacity of the employee will be assessed by an approved assessor,
+having consulted the employer and the employee, and if the employee so desires,
+a representative of the employee’s choosing.
+
+7
+
+Assessment made under this schedule must be documented in a Supported Wage
+System (SWS) wage assessment agreement, and retained by the employer as a
+time and wages record as required by the relevant legislation.
+Lodgement of SWS wage assessment agreement
+
+8
+
+All SWS wage assessment agreements under the conditions of this schedule,
+including the appropriate percentage of the relevant minimum wage to be paid
+to the employee, must be lodged by DVA with the Fair Work Commission.
+
+9
+
+All SWS wage assessment agreements must be agreed and signed by the
+employee and employer parties to the assessment. Where a union which has an
+interest in the award is not a party to the assessment, the assessment will be referred
+by the Fair Work Commission to the union by certified mail and the agreement will
+take effect unless an objection is notified to the Fair Work Commission within 10
+working days.
+41
+
+DVA Enterprise Agreement 2019-2022
+
+Review of assessment
+10
+
+The assessment of the applicable percentage should be subject to annual review
+or more frequent review on the basis of a reasonable request for such a review. The
+process of review must be in accordance with the procedures for assessing
+capacity under the SWS.
+Other terms and conditions of employment
+
+11
+
+Where an assessment has been made, the applicable percentage will apply to the
+relevant wage rate only. Employees covered by a SWS wage assessment
+agreement will be entitled to the same terms and conditions of employment as all
+other employees covered by this Agreement paid on a pro rata basis.
+Workplace adjustment
+
+12
+
+An employer wishing to employ a person under the provisions of this schedule must
+take reasonable steps to make changes in the workplace to enhance the
+employee’s capacity to do the job. Changes may involve re-design of job duties,
+working time arrangements and work organisation in consultation with other
+workers in the area.
+Trial period
+
+13
+
+In order for an adequate assessment of the employee’s capacity to be made, DVA
+may employ a person covered by the SWS provisions for a trial period not
+exceeding 12 weeks, except that in some cases additional work adjustment time
+(not exceeding four weeks) may be needed.
+
+14
+
+During that trial period the assessment of capacity will be undertaken and the
+percentage of the relevant minimum wage for a continuing employment
+relationship will be determined.
+
+15
+
+The minimum amount payable to the employee during the trial period must be no
+less than the minimum weekly amount as prescribed by the Fair Work Commission
+from time to time.
+
+16
+
+Work trials should include induction or training as appropriate to the job being
+trialled.
+
+17
+
+Where DVA and the employee wish to establish a continuing employment
+relationship following the completion of the trial period, a further contract of
+employment will be entered into in accordance with disability employment
+affirmative measures based on the outcome of assessment under paragraphs 6
+and 7 of this Attachment.
+
+42
+DVA Enterprise Agreement 2019-2022
+
+Payable during
+Personal Leave
+
+Payment in lieu of
+notice of termination of
+employment
+
+Payable during Annual
+Leave
+
+2.0%
+
+Annual
+
+Paid fortnightly
+
+2.0%
+2.0%
+
+Fortnightly
+Fortnightly
+
+*
+Y
+
+N
+N
+
+*
+Y
+
+*
+Y
+
+*
+Y
+
+Y
+
+N
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+$299
+
+Nil
+
+Calendar year
+
+Reimbursement
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+Motor Vehicle Allowance
+
+as per subscription
+
+as per subscription
+
+N/A
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+Overtime Meal Allowance
+Professional Registration Reimbursement
+
+as per subscription
+up to $508
+
+as per subscription
+CPI **
+
+N/A
+Financial year
+
+APS 1-5
+
+N
+N
+
+N
+N
+
+N
+N
+
+N
+N
+
+N
+N
+
+N
+N
+
+N
+N
+
+N
+N
+
+N
+N
+
+Financial year
+
+Reimbursement
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+>3 months
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+Permanent move
+Meals and Incidentals
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+*
+
+Y
+
+Y
+
+N
+
+Y
+
+Y
+
+Y
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+Rate wef
+commencement of
+agreement
+
+Increases
+(Per Annum)
+
+Departmental Liaison Officer Allowance
+
+$19,040
+
+First Aid Allowance
+Fire Warden Allowance
+
+$27.35
+$13.80
+
+Healthy Lifestyle Subsidy
+
+Allowances
+
+Medical Officer - Professional Development
+
+up to $4,595
+
+CPI **
+
+$1,303
+Disturbance Allowance
+
+$1,159
+
+CPI **
+
+$1,303
+as per subscription
+
+as per subscription
+
+Townsville
+
+Dependent
+No Dependents
+
+$2,041
+$1,029
+
+Darwin
+
+Dependent
+No Dependents
+
+$4,920
+
+Adelaide River
+
+Dependent
+No Dependents
+
+Per relocation
+
+Leave Fare Assistance
+
+Per relocation.
+Subject to
+cooking facilities
+at temp location
+Per relocation
+N/A
+
+3 weeks - 3 months
+
+#
+#
+CPI **
+
+Annual
+
+$2,691
+$6,568
+$3,723
+lowest priced, fully
+flexible, return airfare
+on 1 January
+
+N
+Y
+
+Per dependent
+
+$579
+
+Travel Allowance
+District Allowance
+
+*
+Y
+
+Flat rate
+CPI **
+
+$465
+
+Food Allowance
+
+Reduced pro-rata
+during period of halfpay leave (if paid
+during leave)
+Included in income
+maintenance for
+excess employees
+
+Payable during Long
+Service Leave
+
+Y
+Y
+
+Detail
+
+Counts as salary to
+calculate overtime
+
+Y
+Y
+
+Frequency
+(e.g. annual)
+
+Counts for
+superannuation
+
+Redundancy
+Severance payments
+
+ATTACHMENT C – ALLOWANCES
+
+#
+#
+
+1 December
+
+Annual
+
+Adelaide River
+
+Annual
+
+Darwin #
+
+Two yearly
+
+Townsville #
+
+* Subject to certain conditions
+# Grandfathered
+** These allowances will be increased 12 months and 24 months after commencement of this Agreement in line with CPI as advised by the Reserve Bank of Australia for the preceding 12 months.
+Note: Salary-based allowances will be increased by 2% - 12 months and 24 months after commencement of this Agreement.
+
+43
+DVA Enterprise Agreement 2019-2022
+
+INDEX
+
+A
+
+excess employee, 33
+excess fares, 9
+
+advancement, 32
+
+excess travelling time, 9
+
+agreement duration, 1
+airconditioning subsidy, 14
+
+F
+
+allowance - Departmental Liaison Officer, 9
+allowance - district, 14
+
+flextime, 18
+
+allowance - fire warden, 10
+
+flu vaccinations, 19
+
+allowance - first aid, 10
+
+G
+
+allowance - motor vehicle, 10
+allowance – overtime meal, 12
+
+graduates, 8
+
+allowance – restriction, 10
+
+H
+
+allowance – travelling, 13
+allowances table, 43
+
+healthy lifestyle subsidy, 19
+
+annual leave – cash out, 21
+
+home based work, 19
+
+annual leave - excess, 21
+
+hours of duty, 17
+
+B
+bereavement leave, 23
+
+C
+
+I
+individual flexibility arrangements, 15
+involuntary redundancy, 35
+
+L
+
+cancellation of leave, 29
+career interval leave, 23
+
+learning and development, 31
+
+casual loading, 7
+
+leave portability, 29
+
+child and dependant care, 19
+
+M
+
+child reunion fares, 15
+Christmas shut-down, 29
+community service leave, 23
+compassionate leave, 23
+
+medical officers professional development, 31
+miscellaneous leave, 23
+
+consultation, 4
+
+O
+D
+
+defence reservists leave, 24
+defence service sick leave, 24
+definitions, 1
+
+OAWG health checks, 19
+other work related payments, 16
+overseas travel, 13
+overtime, 11
+
+delegations, 1
+
+P
+
+dispute resolution, 5
+documentary evidence, 2
+documentary evidence, 22
+
+E
+EL Hours, 18
+Employee Assistance Program, 20
+
+part-time employment, 18
+pay increases, 7
+performance feedback, 30
+personal leave, 22
+prior service, 29
+professional registration, 31
+
+44
+DVA Enterprise Agreement 2019-2022
+
+public holidays, 27
+
+salary on temporary assignment, 7
+
+purchased leave, 21
+
+salary packaging, 8
+study assistance, 31
+
+R
+
+superannuation, 15
+supported wage rates, 8
+
+recall to duty, 29
+recording attendance, 17
+
+T
+
+relocation assistance, 13
+remote localities, 13
+
+temporary assignment, 9
+
+remote localities leave fares, 14
+
+trainees, 8
+
+retention period, 35
+
+transitional salary rates, 40
+
+U
+
+S
+salary - temporary reduction, 8
+
+unauthorised absence, 29
+
+salary advancement, 8
+
+underperformance, 30
+
+salary on engagement, reassignment,
+promotion, 7
+salary on reduction, 7
+
+V
+voluntary redundancy, 34
+
+45
+DVA Enterprise Agreement 2019-2022
+
+FORMAL ACCEPTANCE OF THIS AGREEMENT
+
+46
+DVA Enterprise Agreement 2019-2022
+
+

@@ -1,0 +1,1681 @@
+PM&C Enterprise
+Agreement 2021–2024
+
+Signatories
+This agreement is made under Section 172 of the Fair Work Act 2009.
+Employer
+Signed for and on behalf of the Commonwealth of Australia
+
+………………………………………………..
+Philip Gaetjens
+Secretary of the Department of the Prime Minister and Cabinet
+One National Circuit Barton ACT 2600
+
+Bargaining representative: Community and Public Sector Union
+Signed for and on behalf of the Community and Public Sector Union
+
+……………………….……………………….
+Beth Vincent-Pietsch
+Deputy Secretary
+Community and Public Sector Union
+40 Brisbane Avenue Barton ACT 2600
+
+Employee bargaining representative
+
+……………………….……………………….
+Thomas Hogan
+Adviser
+One National Circuit, Barton ACT 2600
+
+PM&C Enterprise Agreement 2021–2024
+
+1
+
+Table of Contents
+Definitions and Acronyms .............................................................................................................................................. 4
+Section 1 – Scope and Operation .................................................................................................................................... 6
+Title and coverage ............................................................................................................................................................... 6
+Commencement and duration of this Agreement .............................................................................................................. 6
+Consultation ........................................................................................................................................................................ 6
+Employee representation ................................................................................................................................................... 6
+Dispute resolution ............................................................................................................................................................... 6
+Individual Flexibility Arrangements..................................................................................................................................... 6
+Commonwealth legislation ................................................................................................................................................. 6
+Human Resource Delegations and policies ......................................................................................................................... 7
+Section 2 – Performance and development..................................................................................................................... 8
+Performance ....................................................................................................................................................................... 8
+Professional development .................................................................................................................................................. 8
+Section 3 – Flexibility and hours of work ......................................................................................................................... 9
+Flexible work ....................................................................................................................................................................... 9
+Hours of work.................................................................................................................................................................... 10
+Flex-time and recording attendance (APS 1–6 Level employees) ..................................................................................... 10
+TOIL (Executive Level employees) ..................................................................................................................................... 10
+Overtime ........................................................................................................................................................................... 11
+Recognition of travel time................................................................................................................................................. 11
+Section 4 – Remuneration and classifications................................................................................................................ 13
+Salary and annual adjustments ......................................................................................................................................... 13
+Salary on engagement, promotion or movement ............................................................................................................ 13
+Zone of Discretion ............................................................................................................................................................. 14
+Salary sacrifice................................................................................................................................................................... 14
+Superannuation................................................................................................................................................................. 14
+Graduates.......................................................................................................................................................................... 14
+Trainees ............................................................................................................................................................................. 14
+Supported wage system .................................................................................................................................................... 14
+Section 5 – Allowances and reimbursements ................................................................................................................ 15
+Higher duties allowance .................................................................................................................................................... 15
+Workplace responsibility allowances ................................................................................................................................ 15
+DLO and CLO allowance .................................................................................................................................................... 15
+On call allowance .............................................................................................................................................................. 15
+Travel expenses ................................................................................................................................................................. 15
+
+PM&C Enterprise Agreement 2021–2024
+
+2
+
+Relocation assistance ........................................................................................................................................................ 16
+Reimbursements ............................................................................................................................................................... 16
+Section 6 – Leave.......................................................................................................................................................... 17
+Notice and approval of leave ............................................................................................................................................ 17
+Leave counting and not counting for service .................................................................................................................... 17
+Recall to duty or cancellation of leave .............................................................................................................................. 17
+Annual leave...................................................................................................................................................................... 17
+Purchased leave ................................................................................................................................................................ 17
+Christmas closedown ........................................................................................................................................................ 18
+Public holidays .................................................................................................................................................................. 18
+Personal/Carer's leave ...................................................................................................................................................... 18
+Compassionate leave ........................................................................................................................................................ 19
+Leave for employees affected by family, domestic and/or intimate partner violence ..................................................... 19
+Parental leave ................................................................................................................................................................... 19
+Long service leave ............................................................................................................................................................. 21
+Cultural and ceremonial leave .......................................................................................................................................... 21
+Community service leave .................................................................................................................................................. 21
+Defence related leave ....................................................................................................................................................... 21
+Miscellaneous leave .......................................................................................................................................................... 22
+Leave portability and recognition of prior service ............................................................................................................ 22
+Section 7 – Conditions of Engagement and Separation .................................................................................................. 23
+Probation .......................................................................................................................................................................... 23
+Entry level programs ......................................................................................................................................................... 23
+Casual employees ............................................................................................................................................................. 23
+Shift workers ..................................................................................................................................................................... 23
+Resignation........................................................................................................................................................................ 23
+Payment upon death of an employee............................................................................................................................... 23
+Section 8 – Management of excess employees ............................................................................................................. 24
+Meaning of excess employee ............................................................................................................................................ 24
+Redeployment ................................................................................................................................................................... 24
+Voluntary Redundancy ...................................................................................................................................................... 25
+Involuntary Redundancy ................................................................................................................................................... 27
+Attachment A - Consultation term ................................................................................................................................ 28
+Attachment B - Term for dealing with disputes ............................................................................................................. 30
+Attachment C – Flexibility term (Individual Flexibility Arrangements) ........................................................................... 31
+Attachment D – Supported Wage System ..................................................................................................................... 32
+
+PM&C Enterprise Agreement 2021–2024
+
+3
+
+Definitions and Acronyms
+Agreement
+
+Department of the Prime Minister and Cabinet Enterprise Agreement 2021-24.
+
+APS
+
+Australian Public Service.
+
+APS employee
+
+An employee engaged under the PS Act.
+
+CLO
+
+Cabinet Liaison Officer.
+
+Compressed hours
+
+Where an employee’s ordinary hours are compressed into fewer working days over an
+agreed period. Under this arrangement, ordinary hours must continue to be worked within
+the span of hours.
+
+De facto partner
+
+The de facto partner of an employee means:
+• a person who, although not legally married to the employee, lives with the employee
+in a relationship as a couple on a genuine domestic basis (whether the employee and
+the person are of the same sex or different sexes) and
+• includes a former de facto partner of the employee.
+
+Delegate
+
+An employee or other person to whom the Secretary delegates a power or function under
+this Agreement.
+
+Dependant
+
+The dependant of an employee means:
+• an employee’s spouse (or former spouse) or
+• an employee’s partner who stands in a bona fide domestic relationship with the
+employee or
+• a child or parent of the employee, or of the spouse/partner (or former
+spouse/partner) of the employee being a child or parent or other person who
+ordinarily resides with the employee and who is wholly or substantially dependent
+upon the employee.
+
+DLO
+
+Departmental Liaison Officer.
+
+Employee
+
+An individual employed under the PS Act and paid by PM&C through the payroll system,
+whose employment is covered by this Agreement.
+
+FW Act
+
+Fair Work Act 2009.
+
+Family
+
+Family or immediate family means:
+• a spouse (or former spouse) or de facto partner of the employee
+• a child (including an adopted child, step child, foster child or an ex-nuptial child) of
+the employee
+• parent, grandparent, grandchild or sibling of the employee
+• a child (including an adopted child, step child, foster child or an ex-nuptial child) of
+the employee’s spouse (or former spouse) or de facto partner
+• a parent, grandparent, grandchild or sibling of a spouse (or former spouse) or de
+facto partner of the employee
+• a member of the employee’s household or
+• traditional kinship where there is a relationship or obligation, under customs and
+traditions of the community or group to which the employee belongs.
+
+PM&C Enterprise Agreement 2021–2024
+
+4
+
+HDA
+
+Higher Duties Allowance.
+
+LSL Act
+
+Long Service Leave (Commonwealth Employees) Act 1976.
+
+Manager
+
+Immediate manager, or next level manager where appropriate.
+
+ML Act
+
+Maternity Leave (Commonwealth Employees) Act 1973.
+
+NES
+
+National Employment Standards, as set out in the FW Act.
+
+Non-ongoing
+
+Refers to the engagement of employees for either a specified term or for the duration of a
+specified task; or for duties that are irregular or intermittent as provided in sections
+22(2)(b) and (c) of the PS Act.
+
+Ongoing
+
+Refers to the ongoing engagement of employees as provided in section 22(2)(a) of the
+PS Act.
+
+PM&C
+
+The Department of the Prime Minister and Cabinet.
+
+PS Act
+
+Public Service Act 1999.
+
+SES employee
+
+Senior Executive Service employee and equivalent.
+
+Shift Worker
+
+Employees who are rostered to perform ordinary hours of work outside the span of hours,
+and/or on Saturdays, Sundays or public holidays for an ongoing or fixed period.
+
+Span of hours
+
+Normally 7 am to 7 pm Monday to Friday, unless varied by formal agreement between the
+employee and Delegate.
+
+Substantive
+classification
+
+The classification level an APS employee was engaged at, or last promoted to.
+
+SWS
+
+Supported Wage System.
+
+TOIL
+
+Time off in lieu.
+
+VR
+
+Voluntary redundancy.
+
+WPI
+
+Wage Price Index. The WPI broadly measures changes in the wages paid by Australian
+employers to employees. The WPI is compiled and published quarterly by the Australian
+Bureau of Statistics. The applicable WPI for remuneration adjustments under this
+Agreement is the WPI – Private Sector.
+
+WPI – Private
+Sector Adjustment
+
+The Wage Price Index – Private Sector is the percentage adjustment in line with the year to
+date percentage change in the WPI for the Private Sector from the most recently released
+June quarter.
+The Australian Public Service Commission (APSC) publishes advice each year on the
+applicable WPI Private Sector figure that is released by the Australian Bureau of Statistics,
+applying to remuneration adjustments payable from 1 September to 31 August the
+following year.
+
+ZoD
+
+Zone of discretion.
+
+PM&C Enterprise Agreement 2021–2024
+
+5
+
+Section 1 – Scope and Operation
+Title and coverage
+1.
+
+This Agreement is the Department of the Prime Minister and Cabinet Enterprise Agreement 2021-2024.
+
+2.
+
+This Agreement is made under s172 of the FW Act. It covers and applies to the Secretary of PM&C (on
+behalf of the Commonwealth) and APS employees in PM&C, except for substantive SES employees and
+SES-equivalents.
+
+Commencement and duration of this Agreement
+3.
+
+This Agreement will commence on 2 August 2021 or seven days after approval by the Fair Work
+Commission, whichever is the later, and will nominally expire three years from the commencement date.
+
+Consultation
+4.
+
+The consultation term on major change or changes to ordinary hours of work or rostered arrangements
+for this Agreement is set out in Attachment A.
+
+5.
+
+PM&C is committed to consulting with employees and their representatives on any matters, and the
+development or review of any policies, related to the operation of this Agreement.
+
+6.
+
+PM&C will establish a Consultative Committee as a key mechanism for employee consultation on any
+matters and policies related to the operation of this Agreement. Other mechanisms may include all staff
+meetings and direct discussions with employees. The Consultative Committee will operate according to its
+Terms of Reference.
+
+Employee representation
+7.
+
+Employees have the right to be represented by a representative of their choice in matters relating to their
+employment and/or the operation of this Agreement.
+
+8.
+
+The role of all employee representatives is respected and facilitated.
+
+9.
+
+Employees are free to choose to join, or not to join, a union. Irrespective of that choice, employees will
+not be disadvantaged or discriminated against in respect of their employment.
+
+10. Employees who choose to be members of a union have the right to have their industrial interests
+represented by that union.
+Dispute resolution
+11. The term for dealing with disputes for this Agreement is set out in Attachment B.
+Individual Flexibility Arrangements
+12. The Delegate and an employee may agree to make an Individual Flexibility Arrangement to vary the effect
+of certain terms of this Agreement, where the arrangement meets the genuine needs of, and is agreed by,
+both the Delegate and the employee. An Individual Flexibility Arrangement must comply with the
+flexibility term set out in Attachment C.
+Commonwealth legislation
+13. This Agreement does not affect employee entitlements contained in Commonwealth legislation.
+Commonwealth employment laws continue to apply according to their terms.
+14. This Agreement will be read in conjunction with the NES. Where there is inconsistency between this
+Agreement and the NES, and the NES provides greater benefit, the NES provision will apply to the extent
+of the inconsistency.
+
+PM&C Enterprise Agreement 2021–2024
+
+6
+
+Human Resource Delegations and policies
+15. The Secretary may delegate an employee or other person to perform any of the Secretary’s powers or
+functions under this Agreement.
+16. PM&C policies and procedures support the operation of this Agreement but do not form part of this
+Agreement. To the extent of any inconsistency, this Agreement prevails.
+
+PM&C Enterprise Agreement 2021–2024
+
+7
+
+Section 2 – Performance and development
+Performance
+17. PM&C is an outcomes driven organisation where employees and managers are encouraged to engage in
+regular conversations about expectations and feedback, to enable PM&C to deliver on its purpose and
+facilitate ongoing professional development.
+18. All employees are required to participate in the Performance Framework. The Performance Framework
+adopts a strengths-based approach and the principles of equity, transparency and procedural fairness.
+19. If employees are not performing consistently at the required standard, in the first instance they will be
+supported to improve and maintain their performance. Where relevant, the employee’s fitness for duty
+will be assessed and taken into account.
+Professional development
+20. Employees and managers are jointly responsible for identifying professional development needs and
+opportunities. Investment in professional development must align with PM&C priorities, individual and
+team development needs.
+Professional memberships
+21. Employees will have professional memberships and/or accreditation fees paid where the Delegate
+determines they are an essential requirement of their role, or it aligns with PM&C priorities.
+Studies assistance
+22. Employees may, subject to Delegate approval, access the following to undertake accredited study relevant
+to PM&C and APS priorities:
+• up to $7,000 per financial year for approved course fees, normally on a reimbursement basis,
+and/or
+• paid study leave of up to six hours per week during study periods.
+23. Aboriginal and Torres Strait Islander employees may also:
+• access up to an additional six hours paid study leave per week during study periods, and/or
+• have their fees covered for study to obtain pre-requisite qualifications for entry into a tertiary
+institution to pursue a tertiary qualification.
+
+PM&C Enterprise Agreement 2021–2024
+
+8
+
+Section 3 – Flexibility and hours of work
+Flexible work
+24. PM&C supports and recognises the benefits of offering flexibility in how, when and where work is
+performed.
+25. Flexible work options may include (but are not limited to) varied attendance patterns, part-time work, job
+sharing, compressed hours and working remotely or from home. Flex-time and TOIL are mechanisms that
+can be used to facilitate flexible work, where appropriate.
+26. All employees may seek, discuss and agree flexible work options with their manager and, where required,
+must seek Delegate approval.
+27. Managers and Delegates will consider all requests for flexible work, taking into account operational
+requirements and the employee’s personal circumstances, and provide a response within 21 days. Where
+a request is declined, the reasons will be provided to the employee in writing.
+28. Employees returning from parental leave with care of a school age child or younger will have requests for
+flexible work (including part-time work) approved unless the arrangements cannot be accommodated
+under any operational circumstances.
+29. All flexible work agreements must be reviewed at least annually or more regularly if business or personal
+needs change.
+30. Short-term absences, including full days, may be facilitated through flexible work rather than leave.
+31. Employees with approval to work remotely or from home will be supplied with equipment and materials
+required to perform their role.
+32. The flexible work provisions provided under this Agreement do not reduce an employee’s entitlement to
+formally request flexible work arrangements under the NES.
+Part-time work
+33. The Delegate will consider requests for part-time work (and job-share) in the context of operational
+requirements and the employee's individual circumstances, including whether the employee has caring
+responsibilities.
+34. The daily pattern of hours for employees with a part-time work agreement will be a minimum of three
+continuous hours, unless otherwise agreed by the employee and Delegate.
+35. Salary and allowances are calculated on a pro rata basis for employees with a part-time work agreement,
+except for expense-related allowances or reimbursements.
+36. Payment of salary during leave for an employee with a part-time work agreement will be for their ordinary
+hours, except for long service leave which is calculated in accordance with the LSL Act.
+37. Where APS 1–6 Level employees with a part-time work agreement are directed by the Delegate to work
+beyond their ordinary hours (within the span of hours) they will accrue flex-time or may elect to be paid
+for these at their normal hourly rate.
+38. If there is a need for regular or ongoing variations to an employee’s part-time working pattern, a revised
+part-time work agreement is required.
+39. Employees with a part-time work agreement may revert to full-time at the end of the agreed period
+(noting agreements must be reviewed at least annually), or earlier if full-time work is available and the
+Delegate agrees.
+
+PM&C Enterprise Agreement 2021–2024
+
+9
+
+Hours of work
+Ordinary hours
+40. Ordinary hours of work are 7 hours and 36 minutes per day (38 hours per week) for full time employees,
+or for employees with a part-time work agreement the hours set out in the agreement.
+41. Managers and employees are mutually responsible for discussing a regular pattern of hours and workload
+requirements, to achieve organisational priorities and support individual and team wellbeing.
+42. Employees may vary their work pattern across the 7am to 7pm span of hours Monday to Friday, as agreed
+with their manager.
+43. The 7am to 7pm Monday to Friday span of hours may be formally varied to an alternative
+12-hour period by agreement between the employee and Delegate. Work performed within the
+alternative span of hours will not attract overtime or TOIL.
+44. Where agreement cannot be reached on a regular pattern of hours, or an employee’s attendance is
+unsatisfactory, the Delegate may require the employee to work standard hours. This does not reduce an
+employee’s entitlement to request flexible work under the NES.
+45. Standard hours are 7 hours 36 minutes per day for full-time employees, worked from
+8.30am–12.30pm and 1.30pm–5.06pm Monday to Friday; or for employees with a part-time work
+agreement the hours set out in the agreement.
+46. Employees who are going to be absent or later than usual must advise their manager as soon as
+practicable, ideally within two hours of their usual starting time.
+47. Where the Delegate determines an employee’s absence from work is unauthorised, the absence will be
+unpaid and will not count as service for any purpose, unless otherwise required by law.
+Additional Hours
+48. Employees are not expected to work for more than ten hours on a day, or five consecutive hours without
+taking a break of at least 30 minutes, unless there are exceptional circumstances.
+49. Where employees are required to work for more than ten hours with limited notice, the Delegate will
+approve the reasonable cost or reimbursement of a meal. The preferred method of payment is
+Government credit card.
+Flex-time and recording attendance (APS 1–6 Level employees)
+50. APS 1–6 Level employees must record their attendance in PM&C’s timekeeping system for manager
+approval.
+51. APS 1–6 Level employees who work more or less than their ordinary hours within the
+span of hours will incur a one-for-one flex credit or debit.
+52. Accrued flex credits should be taken as soon as practicable, subject to operational requirements and by
+agreement between the employee and manager.
+53. Where an employee’s flex credit exceeds 38 hours (pro-rata for part-time), or they have a flex debit of 7
+hours 36 minutes or more, they must agree a plan with their manager to return their balance within these
+parameters over the next four weeks.
+TOIL (Executive Level employees)
+54. Managers may grant Executive Level employees reasonable TOIL where they have:
+• worked significant additional hours for sustained or intense periods, involving high-levels of
+productive effort and contribution to PM&C priorities, or
+
+PM&C Enterprise Agreement 2021–2024
+
+10
+
+• been directed by the manager to work on weekends, public holidays, or to return to work without
+an eight-hour break.
+55. TOIL is not granted on an hour for hour basis.
+56. TOIL should be taken as soon as practicable, subject to operational requirements and by agreement
+between the employee and manager.
+Overtime
+57. APS 1-6 Level employees will be paid overtime where they are directed by the Delegate to undertake
+work:
+• outside the span of hours, or
+• on public holidays or during Christmas closedown, or
+• without an eight-hour break between work days.
+58. Executive Level employees are only eligible for overtime in exceptional circumstances, including where
+they have been directed to undertake work without an eight-hour break or during Christmas closedown,
+or as otherwise determined by the Delegate.
+59. Overtime is paid as follows:
+a. Monday to Saturday – time and a half for the first three hours and double time for each hour
+thereafter.
+b. Sunday – double time.
+c. Public Holidays – within ordinary hours, normal salary plus time and a half
+– outside ordinary hours, double time and a half.
+Except for an employee whose normal work location is South Australia and it is a
+public holiday solely because it is a Sunday under the Holidays Act 1910 (SA).
+60. The minimum overtime payment is one hour. After the first hour, if less than a whole hour is worked,
+payment will be calculated up to the next full hour. Where overtime is not continuous with an employee’s
+normal work pattern, overtime payment will include reasonable travel time to and from work (if travel is
+required).
+61. An employee who chooses to work additional hours on a weekend without direction from the Delegate, or
+has agreement to vary their span of hours to work on a weekend, will not be paid overtime for this work.
+Eight-hour break
+62. Employees are entitled to an eight-hour break, plus reasonable travel time to and from work (where
+required), between working days. Where the eight-hour break results in absence for part or all of their
+next working day, the employee will not be required to make up those hours and their salary will be
+unaffected.
+63. The Delegate may direct an employee to return to work without an eight-hour break, plus reasonable
+travel time, for urgent or high priority work. Where this occurs employees will be paid overtime until they
+are able to take an eight-hour break.
+Recognition of travel time
+64. Employees undertaking approved official travel outside of their ordinary hours (but not performing work)
+will have the time spent in transit recognised as follows:
+• APS 1-6 employees will accrue flex-time.
+• Executive Level employees may be granted TOIL (noting TOIL is not claimed on an hour for hour
+basis).
+
+PM&C Enterprise Agreement 2021–2024
+
+11
+
+65. Where flex or TOIL is claimed, the time normally spent travelling to and from work should be deducted
+from the time spent in transit.
+66. Overtime provisions only apply to employees undertaking official travel where they are directed by the
+Delegate to perform work during transit.
+
+PM&C Enterprise Agreement 2021–2024
+
+12
+
+Section 4 – Remuneration and classifications
+Salary and annual adjustments
+67. Employees will be paid fortnightly by electronic funds transfer into a financial institution account of their
+choice. The fortnightly rate of pay is calculated using the annual rate of pay, multiplied by 12, divided
+by 313.
+68. The salaries of eligible employees will be adjusted by the WPI – Private Sector Adjustment on:
+a. the commencement date of this Agreement
+b. 12 months from the date of commencement, and
+c. 24 months from the date of commencement.
+69. Salary rates prior to commencement of this Agreement are set out below.
+APS 1
+
+APS 2
+
+APS 3
+
+APS 4
+
+APS 5
+
+APS 6
+
+EL 1
+
+EL 2
+
+1st pay point
+
+$48,966
+
+$57,512
+
+$64,226
+
+$69,865
+
+$77,139
+
+$85,320
+
+$109,644
+
+$127,617
+
+2nd pay point
+
+$51,765
+
+$58,912
+
+$65,803
+
+$71,814
+
+$78,783
+
+$89,546
+
+$114,750
+
+$135,706
+
+3rd pay point
+
+$53,540
+
+$60,155
+
+$66,898
+
+$73,103
+
+$80,625
+
+$92,924
+
+$119,856
+
+$143,767
+
+Max pay point
+
+-
+
+$61,286
+
+-
+
+$74,718
+
+$82,468
+
+$95,880
+
+$124,963
+
+$151,885
+
+ZoD
+
+-
+
+-
+
+-
+
+-
+
+-
+
+$95,881 $105,030
+
+$124,964 -
+
+$151,886 -
+
+$133,647
+
+$160,847
+
+Annual pay point advancement
+70. Employees (excluding casuals and employees undertaking entry level programs) will advance to the next
+highest pay point for their substantive classification on 1 August each year if they have not reached the
+maximum pay point and:
+• they have been at their current substantive pay point for at least 3 months, and
+• they are performing at the expected standard for their substantive classification level, as
+determined by their manager through the Performance Framework.
+71. The Delegate may advance an employee two or more pay points on 1 August (at the time of annual salary
+advancement) where they have determined that the employee has demonstrated and sustained high
+performance.
+Salary on engagement, promotion or movement
+72. An employee’s salary on engagement or promotion will be at the first pay point for the relevant
+classification, unless a. b. or c. apply:
+a. The Delegate may approve a higher pay point (up to the maximum pay point for the relevant
+classification) based on relevant experience, qualifications or skills.
+b. Existing APS employees moving to PM&C (on a temporary or permanent basis) with a current
+base salary at or below the maximum PM&C pay point for their classification will have their
+salary:
+• matched where it aligns with a PM&C pay point, or
+• where it does not align, set at the next highest pay point of the PM&C pay scale.
+c. Existing APS employees moving to PM&C (on a temporary or permanent basis) with a current
+base salary exceeding the maximum PM&C pay point for the relevant classification will have their
+
+PM&C Enterprise Agreement 2021–2024
+
+13
+
+salary matched, and will not be eligible for salary increases until their salary is at or below the
+maximum pay point for their classification.
+Zone of Discretion
+73. The ZoD is a salary range above the maximum pay point for each of the APS 6–EL 2 classifications. In
+exceptional circumstances, the Delegate may set a salary for an existing or prospective APS 6–EL2
+employee within the ZoD.
+Salary sacrifice
+74. Employees may sacrifice their salary for a range of non-cash benefits through agreed providers.
+Superannuation
+75. PM&C will make compulsory employer superannuation contributions as required by applicable legislation
+and fund requirements. Contributions will be made to PM&C’s default fund unless the employee formally
+elects a complying Super Choice fund.
+76. The Delegate may choose to limit superannuation choice to complying superannuation funds that allow
+employee and/or employer contributions to be paid through fortnightly electronic funds transfer.
+77. Where employer contributions are paid to the Public Sector Superannuation accumulation plan (PSSap) or
+a complying Super Choice fund the employer contribution will be 15.4 per cent of the
+Fortnightly Contribution Salary.
+78. Employer superannuation contributions will not be paid during periods of unpaid leave that do not count
+as service, unless otherwise required by law.
+79. Employer contributions to superannuation will not be reduced by any other contributions to
+superannuation made by the employee through salary sacrifice arrangements.
+Graduates
+80. Graduates are engaged in the Graduate APS 3–5 broadband, normally at the first APS 3 pay point.
+81. The broadband spans from the first pay point for the APS 3 classification to the maximum pay point for
+the APS 5 classification. Graduates progress through the broadband where the Delegate determines the
+requirements of the Graduate Program have been met.
+Trainees
+82. Trainees undertake an approved training course and are paid a percentage of the first pay point of the
+APS 1 classification. The salary percentage will be determined by the Delegate, with regard to hours of
+work and time spent in training. The minimum salary percentage will be equivalent to the hours worked.
+83. On successful completion of training, trainees will move to the full rate of the APS 1 first pay point, or at
+the Australian Public Service Enterprise Award 2015 APS 1 rate if that rate is higher.
+Supported wage system
+84. Supported wage rates may apply to employees with a disability who are eligible for consideration under
+the SWS set out in Attachment D.
+
+PM&C Enterprise Agreement 2021–2024
+
+14
+
+Section 5 – Allowances and reimbursements
+Higher duties allowance
+85. Where the Delegate has assigned higher duties to an employee for three weeks or more (inclusive of
+public holidays), the employee will be paid HDA at the difference between the employee’s base salary and
+the first pay point of the higher classification. The Delegate may determine a higher pay point in
+exceptional circumstances.
+86. An employee assigned higher duties at the SES classification level for three weeks or more (inclusive of
+public holidays) will be paid HDA at a higher salary determined by the Delegate.
+87. HDA is payable during periods of paid leave where the HDA would have otherwise continued.
+Workplace responsibility allowances
+88. Employees appointed by the Delegate and performing the role of First Aid Officer, Fire Warden, Health
+and Safety Representative or Harassment Contact Officer will be paid a fortnightly allowance.
+89. An allowance rate of $32.35 will apply on commencement of this Agreement and be adjusted by
+WPI – Private Sector Adjustment 12 and 24 months from the date of commencement. Where employees
+hold two or more of these roles simultaneously, they will be paid a single allowance rate.
+DLO and CLO allowance
+90. Employees appointed by the Delegate and performing the role of DLO (for the Minister’s office) or CLO
+will receive an annual allowance, paid fortnightly.
+91. An allowance rate of $20,448 will be adjusted by WPI – Private Sector Adjustment on commencement of
+this Agreement and 12 and 24 months from the date of commencement.
+92. The allowance is payable during periods of paid leave.
+On call allowance
+93. Where an employee is directed by their manager to be contactable and available to work outside the span
+of hours, the Delegate may approve payment of an on call allowance.
+94. A weekly on call allowance rate of $398 will be adjusted by WPI – Private Sector Adjustment on
+commencement of this Agreement and 12 and 24 months from the date of commencement.
+95. Employees required to be on call for a period of less than one week will be paid on a pro-rata basis for
+each 24-hour period.
+96. Employees will only be required to be on call for a maximum of 14 days in any 28-day period (calendar
+days).
+97. If employees are on call and recalled to work (in the office or remotely):
+• APS 1-6 employees will be paid overtime and a minimum payment of one hour will apply.
+• Executive Level employees will normally be granted TOIL, or paid overtime if the Delegate
+determines there are exceptional circumstances.
+Travel expenses
+98. Where employees are required to travel for work, the reasonable costs of travelling, accommodation,
+meals and other incidental expenses will be covered by PM&C.
+99. The preferred method of payment is Government credit card. Where this is not practicable an allowance
+will be paid, normally in advance, at the rates set out by the Australian Taxation Office.
+
+PM&C Enterprise Agreement 2021–2024
+
+15
+
+100.The Delegate may approve payment of airline lounge membership fees for employees who need access
+for work purposes. Employees may also purchase a membership at PM&C's discounted corporate rate.
+Motor vehicle allowance
+101.Employees may use a private vehicle for official travel where it is likely to result in greater efficiency or
+less expense than other means of official travel and the Delegate approves. Motor vehicle allowance will
+be paid at rates set by the Australian Taxation Office.
+Relocation assistance
+102.Where current or prospective employees are relocating for a role with PM&C, the Delegate may approve
+financial relocation assistance.
+Reimbursements
+Carer’s costs
+103.Where an employee is required to travel away from their normal work location, or is directed by their
+manager to work outside their regular working pattern, the Delegate may approve reimbursement of
+reasonable, unavoidable, additional costs associated with the care of family members or dependants. The
+employee must advise their manager in advance that costs may be incurred, unless it is impractical to do
+so.
+Loss or damage to clothing and/or personal effects
+104.The Delegate may approve reimbursement for loss or damage to clothing and/or personal effects
+occurring in the course of an employee’s work.
+Financial retirement advice
+105.Employees aged 54 years or older may receive a one-off reimbursement of up to $500 (plus GST) towards
+the cost of financial retirement advice.
+
+PM&C Enterprise Agreement 2021–2024
+
+16
+
+Section 6 – Leave
+Notice and approval of leave
+106.Employees taking personal/carer’s leave, community service leave, compassionate leave or parental leave
+are required to give notice to the Delegate as soon as practicable.
+107.Delegate approval of all other leave types is required prior to taking the leave, unless it is impractical to do
+so. Delegate approval is subject to operational requirements, with consideration given to individual
+circumstances.
+Leave counting and not counting for service
+108.Unless otherwise stated in this Agreement or required by law, all leave with pay counts as service for all
+purposes, and all leave without pay does not count as service for any purpose.
+109.Periods of leave that do not count as service do not break an employee’s continuous service.
+Recall to duty or cancellation of leave
+110.Employees may have annual, purchased or miscellaneous leave cancelled, or be recalled to duty from
+these leave types, where the Delegate determines there are exceptional or emergency circumstances and
+it is reasonable to do so.
+111.The Delegate will approve reimbursement of any reasonable and/or unrecoverable costs incurred as a
+result of leave being cancelled or employees being recalled to work, in line with supporting evidence.
+Annual leave
+112.Employees receive four weeks paid annual leave for each year of service (pro-rata for part-time), accrued
+daily.
+113.Employees with a balance of eight weeks or less annual leave may take the annual leave at half pay.
+Excess annual leave
+114.An annual leave balance is excess if an employee has more than 40 days credit.
+115.Where employees have excess annual leave, they must agree a plan with their manager to take
+reasonable breaks from work and reduce the excess balance to 40 days or below.
+116.If agreement cannot be reached, the Delegate may direct an employee to take one or more periods of
+annual leave to reduce the balance to 40 days or below within the next 12 months. The direction will be in
+writing and provide at least 30 calendar days’ notice.
+Annual leave cash-out
+117.Employees may cash out some of their annual leave, provided they have taken at least five days annual
+leave in the preceding 12 months and will have a balance of at least four weeks remaining.
+118.Each cashing out of a particular amount of annual leave must be by separate agreement in writing
+between the Delegate and the employee.
+119.Payment will be the rate that would have been payable had the employee taken the annual leave.
+Purchased leave
+120.Employees, subject to Delegate approval, may purchase up to eight weeks additional leave (pro rata for
+part-time) for each 12-month period, where they do not have an excess annual leave balance. Purchased
+leave must be taken within 12 months of the initial date of purchase.
+
+PM&C Enterprise Agreement 2021–2024
+
+17
+
+Christmas closedown
+121.Christmas closedown is the period from the end of the last working day before Christmas day to the start
+of the first working day after New Year’s day.
+122.Employees are not required to take leave and are not normally required to work during Christmas
+closedown, and will continue to be paid for their ordinary hours during this period.
+123.In exceptional circumstances, employees may be directed by the Delegate to work during Christmas
+closedown. Where this occurs APS 1-6 employees will be paid overtime. Executive Level employees may
+be paid overtime in recognition of the exceptional circumstances or receive TOIL at a rate equivalent to
+the overtime multiplier.
+Public holidays
+124.Employees will not normally be required to work on public holidays provided by the FW Act for the
+relevant state/territory in their normal work location, and will be paid for their ordinary hours.
+125.Employees may refuse a request to work on a public holiday on reasonable grounds.
+126.If under a state or territory law, a day or part day is substituted for a public holiday, then the substituted
+day or part day is the public holiday.
+127.Managers and employees may agree to substitute a public holiday for a cultural or religious day of
+significance to the employee.
+128.Where a public holiday falls during a period of paid personal/carer’s leave or annual leave, employees are
+paid for their ordinary hours and no leave deductions will be made.
+129.Where a public holiday falls during long service leave or paid parental leave, payment will be in
+accordance with the entitlement for that form of leave (e.g. if leave is at half pay, payment is on half pay).
+There is no entitlement to receive payment as a public holiday.
+Personal/Carer's leave
+130.Ongoing employees are credited 18 days paid personal/carer’s leave in advance for each Year of Service
+(pro rata for part-time):
+• New ongoing APS employees receive their credit on their PM&C start date, then a further 18 days
+on each subsequent anniversary of that date.
+• Existing ongoing APS employees moving to PM&C receive a pro rata credit in advance for the period
+between their PM&C start date and their next APS Anniversary Date, then a further 18 days on
+each subsequent APS Anniversary Date.
+131.Non-ongoing employees accrue 18 days of paid personal/carer’s leave progressively for each Year of
+Service, credited daily (pro rata for part-time).
+132.Where employees have more than 30 days that do not count as service in a Year of Service, their accrual
+of personal/carer’s leave will be reduced proportionately.
+Year of Service means the period of 365 days (or 366 days in a leap year) starting on the employee’s APS
+Anniversary Date and concluding the day before the next APS Anniversary Date.
+APS Anniversary Date means the anniversary of the date the employee commenced in the APS.
+133.Employees are entitled to take personal/carer’s leave where they are:
+• ill or injured, or
+• required to provide care or support for members of the employee’s family or household because of
+a personal illness or injury of the member or an unexpected emergency affecting the member.
+
+PM&C Enterprise Agreement 2021–2024
+
+18
+
+134.Employees must provide a medical certificate or, where this is not practical a statutory declaration or
+other supporting evidence acceptable to the Delegate, in the following circumstances:
+• Personal/carer’s leave absence of three or more consecutive working days, unless the Delegate
+informs the employee that it is not required.
+• Following advice from the Delegate that they are required to provide evidence for future
+personal/carer’s leave absences.
+135.Where employees have exhausted their paid personal/carer’s leave they are entitled to two days unpaid
+carer’s leave each time a family member or household member needs care because of illness, injury or an
+unexpected emergency.
+136.In exceptional circumstances, the Delegate may grant additional half pay personal/carer’s leave to
+employees where they have used all of their personal/carer’s leave and provide supporting evidence.
+Compassionate leave
+137.Employees are entitled to three days paid compassionate leave on each occasion where a member of the
+employee’s family or household:
+• contracts or develops an illness or injury that poses a serious threat to their life, or
+• dies.
+Leave for employees affected by family, domestic and/or intimate partner violence
+138.PM&C is committed to providing maximum support to employees affected by or at risk of experiencing
+family, domestic and/or intimate partner violence.
+139.PM&C will take an approach appropriate to individual circumstances.
+140.Employees requiring time off work have access to a range of leave options including miscellaneous leave,
+personal/carer’s leave and/or flexible working arrangements which may include flex-time or TOIL.
+141.Matters of family, domestic and intimate partner violence will be treated confidentially, unless otherwise
+required by law, with the employee’s privacy and safety paramount.
+142.These provisions do not reduce an employee’s entitlement to family and domestic violence leave under
+the NES.
+Parental leave
+Eligibility for parental leave (paid and unpaid)
+143.Employees with at least 12 months continuous qualifying service (as defined in section 6 of the ML Act)
+may be eligible for the relevant paid parental leave type set out below.
+144.Employees who have not completed 12 months continuous qualifying service when their parental leave
+commences are eligible for unpaid parental leave.
+145.Employees who complete 12 months continuous qualifying service during the first 14 weeks (or seven
+weeks for supporting partner leave) of their unpaid parental leave are entitled to paid parental leave for
+the balance of the 14 weeks (or seven weeks for supporting partner leave).
+146.Non-ongoing employees engaged for a specified term or task may qualify for parental leave (paid or
+unpaid). Parental leave for non-ongoing employees will be granted up to the end date of their
+employment.
+General parental leave provisions
+147.All paid parental leave types will count as service for all purposes.
+
+PM&C Enterprise Agreement 2021–2024
+
+19
+
+148.Unpaid parental leave types will not count as service, except for employees without 12 months
+continuous qualifying service. In such cases, up to 14 weeks of unpaid maternity, adoption, foster,
+permanent care and primary carer’s leave, or seven weeks for supporting partner leave, will count for
+service.
+149.Payment for paid parental leave types can be spread over a longer period (up to double the full pay
+equivalent period). When paid over a longer period, only the full pay equivalent period will count as
+service.
+150.Parental leave can be used in conjunction with other forms of leave.
+151.A period of parental leave is not broken or extended by public holidays or Christmas closedown.
+Maternity leave
+152.Employees who are pregnant are eligible for 14 weeks paid maternity leave. This is made up of 12 weeks
+paid maternity leave (provided under the ML Act) and an additional two weeks paid leave for maternity
+purposes. The additional two weeks must immediately follow the first 12 weeks.
+153.Employees may also access up to 52 weeks unpaid maternity leave, reduced by any period of paid
+maternity leave and paid leave for maternity purposes. The 52-week period commences from the start of
+the maternity leave or the birth of the child, whichever is earlier.
+Adoption, Foster and Permanent Care Order Leave
+154.Employees with primary caring responsibilities are eligible for 14 weeks paid leave, where they:
+• are the adoptive parent of a newly-adopted child, or
+• enter into a long-term formal fostering arrangement to be the primary carer of a foster child, or
+• are granted custody and guardianship of a child, as a result of a permanent care order.
+155.To be eligible the child must be under 16 years of age at the date of placement.
+156.Employees may also access up to 12 months unpaid leave, reduced by any period of paid adoption, foster
+or permanent care order leave taken.
+157.The leave will commence from the date of placement of the child.
+158.Eligibility for this leave extends to traditional adoption arrangements for Aboriginal and Torres Strait
+Islander employees.
+159.Employees may take two days unpaid pre-adoption leave to attend interviews or examinations required to
+obtain approval to adopt a child, where their paid leave credits are insufficient.
+Primary carer’s leave
+160.Employees who have primary carer responsibilities and are ineligible for paid maternity, adoption, foster
+or permanent care order leave, are eligible for 14 weeks paid primary carer’s leave immediately following
+the birth of a child.
+161.Employees may also access up to 12 months’ unpaid leave, reduced by any period of paid leave taken.
+Supporting partner leave
+162.Employees who do not have primary carer responsibilities are eligible for seven weeks paid supporting
+partner leave, to be taken within 12 months of the birth or placement of their dependent child.
+163.Employees are not eligible for supporting partner leave where they have accessed another paid parental
+leave type following birth or placement.
+Additional unpaid parental leave beyond the first 12 months
+164.Employees are entitled to unpaid parental leave for a further period of up to 12 months, immediately
+following the end of the initial 12 month or 52 week period, totalling 24 months of leave.
+
+PM&C Enterprise Agreement 2021–2024
+
+20
+
+165.This additional period is not extended by periods of paid leave taken within the period.
+Return from parental leave
+166.Employees are entitled to return to their pre-parental leave position after a period of parental leave.
+Where this position no longer exists, they will return to a position at their substantive classification for
+which they are qualified and suited.
+Long service leave
+167.Employees may become eligible for LSL, in accordance with the LSL Act.
+168.LSL may be taken at full and half pay.
+169.The minimum period of long service leave that can be taken is seven calendar days at full pay, or
+14 calendar days at half pay. Long service leave cannot be broken by other leave types unless otherwise
+provided by legislation.
+Cultural and ceremonial leave
+170.Employees may access the following leave to meet cultural and/or ceremonial obligations, including to
+recognise the traditional roles and obligations of Aboriginal and Torres Strait Islander people to participate
+in cultural and ceremonial activities:
+• Up to three days leave with pay (pro rata for part-time) each financial year to participate in
+activities associated with their culture or ethnicity.
+• Up to one full day leave with pay each financial year to participate in NAIDOC Week celebrations.
+• Up to a total of two months leave without pay each financial year to fulfil cultural obligations.
+Community service leave
+171.Employees are entitled to leave to engage in eligible community service activity (voluntary emergency
+management or jury service). With the exception of jury duty, community service leave is normally
+unpaid. Miscellaneous leave with pay may be granted for emergency or crisis response.
+172.Employees required to attend jury service will be paid for their ordinary hours. Where employees receive
+jury service pay, the full amount must be repaid to PM&C.
+173.Where employees engage in a voluntary emergency management activity, including training and
+ceremonial duties, the period of leave consists of the time spent undertaking the activity plus any
+reasonable travel and recovery time.
+174.Paid community service leave counts as service.
+175.Unpaid community service leave counts as service except for long service leave purposes. The Delegate
+may determine that it does count for long service leave purposes on a case-by-case basis.
+176.PM&C will adopt any APS-wide arrangements relating to community service leave for emergency and
+crisis response.
+Defence related leave
+Defence reserve leave
+177.Employees will be granted leave to fulfil Australian Defence Force (ADF) Reserve and Continuous Full Time
+Service (CFTS) or Cadet Force obligations.
+178.Employees are entitled to leave with pay, of up to four weeks during each financial year, and an additional
+two weeks paid leave in the first year of ADF Reserve Service, for the purpose of fulfilling service in the
+ADF Reserve.
+
+PM&C Enterprise Agreement 2021–2024
+
+21
+
+179.With the exception of the additional two weeks in the first year of service, leave can be accumulated and
+taken over a period of two years.
+180.Defence Reserve leave counts as service for all purposes, except for unpaid leave to undertake Continuous
+Full Time Service (CFTS). Unpaid leave for the purpose of CFTS counts as service for all purposes except
+annual leave.
+181.Employees are not required to pay their tax-free ADF Reserve salary to PM&C.
+182.PM&C will adopt APS-wide arrangements relating to reservists called out for emergency and crisis
+response.
+Defence service sick leave
+183.Employees who are unfit for duty due to a war-caused or defence-caused condition are entitled to
+Defence service sick leave of nine weeks on commencement in the APS and an annual credit of three
+weeks for each year of APS service. Unused credits will accumulate to a maximum of nine weeks.
+184.Delegate approval is subject to the provision of a letter from the Department of Veterans’ Affairs
+confirming the condition is war-caused or defence-caused within the meaning of relevant legislation.
+Miscellaneous leave
+185.Miscellaneous leave may be granted with or without pay for an appropriate purpose that is not provided
+for elsewhere in this Agreement. The Delegate will consider requests in line with supporting evidence.
+186.Miscellaneous leave without pay will not be approved until annual and purchased leave credits are
+exhausted, unless the Delegate determines otherwise in exceptional circumstances.
+187.A period, or cumulative periods, of miscellaneous leave without pay exceeding 30 days within a 12 month
+period will not count as service for annual or personal/carer’s leave purposes, except that it may count for
+personal/carer’s leave if the leave without pay is determined by the Delegate to be in the interests of
+PM&C and the employee returns to duty with PM&C following the leave.
+188.Any period of miscellaneous leave without pay regardless of duration will not count as service for long
+service leave purposes, unless a Delegate determines otherwise on a case-by-case basis. Exceptions apply
+under the LSL Act where an employee is absent on account of ill-health, for specified Defence service, or
+to occupy an executive office.
+Leave portability and recognition of prior service
+189.Where employees join PM&C (either on a temporary or permanent basis) from an employer staffed under
+the PS Act, the Parliamentary Service Act 1999 or from the ACT Government, accrued annual leave and
+personal/carer’s leave credits will be transferred/recognised (however described) provided there is no
+break in service. This will exclude leave paid out on separation from the previous employer.
+190.An employee may, subject to Delegate approval, have previous government service recognised for
+personal/carer’s leave purposes where there has been no break in service greater than two months. For
+the purposes of this clause, Government service is as defined in the LSL Act.
+
+PM&C Enterprise Agreement 2021–2024
+
+22
+
+Section 7 – Conditions of Engagement and Separation
+Probation
+191.The probationary period for new ongoing employees is six months unless determined otherwise by the
+Delegate, as set out in the employment offer.
+Entry level programs
+192.PM&C may engage employees on entry-level programs such as the Graduate program or established APS
+wide programs, in accordance with the terms of the relevant program and as set out in the employment
+offer.
+Casual employees
+193.Casual employees are engaged on a non-ongoing basis to perform irregular or intermittent duties and will
+be paid a loading of 20% in lieu of paid leave entitlements (other than long service leave), public holidays
+not worked, notice of termination of employment, and redundancy benefits, in addition to their hourly
+rate of salary.
+194.Casual employees are ineligible for flex-time, TOIL and annual pay point advancement.
+195.Overtime for casual employees is paid for work performed beyond the agreed daily working hours, or in
+excess of 38 hours in a week. Casual loading is not paid during periods of overtime.
+196.Casual employees may access two days unpaid personal/carer’s leave for each occasion when an
+immediate family member or household member of the employee needs care and support because of
+illness, injury or an unexpected emergency.
+197.Casual employees are entitled to three days unpaid compassionate leave on each occasion where a
+member of the employee’s immediate family or household contracts or develops an illness or injury that
+poses a serious threat to their life, or dies.
+Shift workers
+198.Employees defined as shift workers will be paid the applicable salary rate for their classification under this
+Agreement and receive paid penalty rates as set out in the Australian Public Service Enterprise Award
+2015.
+199.Where a shift worker performs ordinary duties outside of the span of hours and on at least one day on
+Saturday or Sunday for an ongoing or fixed period, they are entitled to an additional week of annual leave
+for each year of service.
+Resignation
+200.Employees may resign from their employment by giving a minimum of two weeks notice in writing to their
+manager, unless the manager agrees to a shorter period. Employees will receive final monies on cessation
+of employment.
+Payment upon death of an employee
+201.Where an employee dies, or the Delegate determines that the employee is assumed to have died on a
+particular date, the Delegate will authorise payment of all leave entitlements otherwise payable on
+resignation or age retirement to their next of kin, subject to any legal requirements. Where the employee
+has not nominated a next of kin, payment will be made to the employee’s legal representative.
+
+PM&C Enterprise Agreement 2021–2024
+
+23
+
+Section 8 – Management of excess employees
+202.The management of excess employee provisions do not apply to non-ongoing employees or employees on
+probation.
+Meaning of excess employee
+203.An employee is excess to the requirements of PM&C if the Delegate determines:
+• the employee is included in a class of employees employed by PM&C, and there are more
+employees in the class than is necessary for the efficient and economical working of PM&C, or
+• the services of the employee cannot be effectively used because of technological or other changes
+in the work methods, or changes in the nature, extent or organisation of the functions of PM&C, or
+• the duties usually performed by the employee are to be performed by the employee at a different
+locality, and the employee is not willing to perform duties at that locality.
+Notification of being potentially excess
+204.The Delegate will notify employees who are potentially excess, in writing, including the reason/s, as soon
+as practicable.
+205.The Delegate will discuss the notification with the employee and, where they choose, their representative
+within 30 calendar days of the notice, to consider:
+• any measures that could be taken to remove or reduce the likelihood of an employee becoming
+excess, and
+• whether re-assignment of duties, VR or redeployment may be appropriate.
+206.The Delegate may invite employees who are not potentially excess to express interest in a VR, where this
+would allow the redeployment of potentially excess employees and aligns with workforce planning needs.
+207.Where an employee becomes potentially excess or is excess, the Delegate will approve a one-off
+reimbursement of up to $500 (plus GST) for advice from a registered financial adviser.
+Declaration of excess
+208.The Delegate may determine that an employee is excess to the requirements of PM&C:
+• 30 calendar days after the employee was notified of being potentially excess, or
+• earlier if the employee formally declines to participate in discussions, or
+• on an earlier date agreed by the employee.
+209.The Delegate will provide the options of redeployment and voluntary redundancy to an excess employee,
+as detailed below.
+Redeployment
+210.If an excess employee advises that they wish to be redeployed, the Delegate will take all reasonable steps
+to reassign the duties of an excess employee at the same level within PM&C, or to assist in the movement
+of the employee to another APS agency.
+211.PM&C will consider an excess employee in isolation from other applicants for an ongoing position in
+PM&C at or below the employee’s classification level for which the employee has applied.
+212. An employee seeking redeployment may choose to:
+• be referred to the APS redeployment register, and/or
+• access career transition assistance through a recognised provider. PM&C will meet reasonable costs
+associated with these services.
+
+PM&C Enterprise Agreement 2021–2024
+
+24
+
+213.The Delegate may approve the cost of reasonable travel and incidental expenses incurred by an excess
+employee in seeking alternative employment, where these are not met by a prospective employer.
+Retention period
+214.An excess employee will commence a retention period of seven months on the day the employee is
+formally advised in writing by the Delegate that they are an excess employee.
+215.If an excess employee is entitled to a redundancy payment in accordance with the NES the retention
+period is reduced by the number of weeks redundancy pay that the employee is entitled to under the FW
+Act on termination of employment.
+216.The retention period and notice period may be extended by any periods of paid personal/carer’s leave not
+exceeding six months that impact the redeployment process and are supported by medical evidence.
+217.During the retention period, the Delegate:
+• will continue to take reasonable steps to find alternative suitable employment for the excess
+employee, and/or
+• may reduce the excess employee’s classification as a means of securing alternative employment,
+after giving 28 calendar days notice to the employee.
+218.If an employee’s classification is reduced during the retention period the employee will continue to be
+paid at their substantive base salary immediately prior to the reduction in classification, for the balance of
+the retention period.
+219.Where the Delegate determines there is insufficient productive work available for the excess employee
+during the retention period, the Delegate may, with the agreement of the excess employee, terminate the
+employee’s employment under section 29 of the PS Act during the retention period on the grounds that
+they are excess to requirements and pay the balance of the retention period as a lump sum.
+220.On termination, the employee will be paid a lump sum comprising:
+• the balance of the retention period (as shortened by the number of weeks redundancy pay the
+employee is entitled to under the NES) and this payment will be taken to include the payment in
+lieu of notice of termination of employment, and
+• any redundancy payment to which the employee is entitled to under the NES.
+Voluntary Redundancy
+Offer of voluntary redundancy
+221.An excess employee not seeking redeployment, or an employee who has been invited to and expressed
+interest in a VR, will be made a single VR offer in writing and given 30 calendar days to consider,
+commencing the day after the offer is made.
+222.When an employee is offered a VR, they will be given information on the:
+• amount of their severance pay and the indicative value of the balance of any annual leave and long
+service leave credits
+• details regarding superannuation
+• likely taxation rules applying to the various payments
+• length of notice the employee is entitled to, and
+• availability of career advisory services.
+Period of notice for termination
+223.The employee will be provided with four weeks notice (or five weeks for an employee over 45 years of age
+with at least five years of continuous service) prior to the termination of their employment. The notice
+
+PM&C Enterprise Agreement 2021–2024
+
+25
+
+period will commence on the day after the employee is issued with a notice of termination under section
+29 of the PS Act.
+224.Where an employee requests and the Delegate agrees, or where the Delegate directs an earlier
+termination date within the notice period, the employee’s employment will be terminated under section
+29 of the PS Act on that date. The employee will receive payment in lieu of notice for the unexpired
+portion of the notice period on the basis of:
+• the employee’s current ordinary hours of work
+• the amounts payable to the employee in respect of those hours, e.g. allowances, and
+• any other payments under the employee’s contract of employment except for accruals that would
+have occurred had the person remained as an employee during the relevant notice period.
+Severance benefit
+225.An employee who accepts a VR and has their employment terminated by the Delegate under section 29 of
+the PS Act on the grounds that they are excess to requirements is entitled to two weeks salary for each
+completed year of continuous service, plus a pro-rata payment for completed months of service since the
+last completed year of service.
+226.The minimum amount payable will be four weeks salary and the maximum will be 48 weeks salary, subject
+to any minimum amount the employee is entitled to under the NES.
+227.Severance payments will be calculated on a pro-rata basis for any period where they have worked parttime hours during their period of service and where they have less than the equivalent of 24 years
+full-time service.
+228.Service for severance pay purposes means:
+• service in PM&C
+• Government service as defined in section 10 of the LSL Act
+• service with the Commonwealth (other than service with a joint Commonwealth-State body
+corporate in which the Commonwealth does not have a controlling interest) which is recognised for
+long service leave purposes
+• service with the Australian Defence Forces
+• APS service immediately preceding deemed resignation under the repealed Section 49 of the
+repealed Public Service Act 1922 if the service has not previously been recognised for severance pay
+purposes, and
+• service in another organisation where the employee was moved from the APS to give effect to an
+administrative re-arrangement; or an employee of that organisation is engaged as an APS employee
+as a result of an administrative re-arrangement, and such service is recognised for long service
+leave purposes.
+229.Service that will not count as service for severance pay purposes is any period of service which ceased
+through termination on the following grounds:
+•
+•
+•
+•
+•
+•
+•
+
+the employee lacks, or has lost, an essential qualification for performing their duties
+non-performance or unsatisfactory performance of duties
+inability to perform duties because of a physical or mental incapacity
+failure to satisfactorily complete an entry level program or training
+failure to meet a condition of engagement imposed under subsection 22(6) of the PS Act
+breach of the Code of Conduct
+any other ground prescribed by the Public Service Regulations
+
+PM&C Enterprise Agreement 2021–2024
+
+26
+
+• on a ground equivalent to those above under the repealed Public Service Act 1922
+• through voluntary retirement at or above the minimum retiring age applicable to the employee
+• with the payment of a retrenchment benefit or similar payment or an employer financed
+retirement benefit.
+230.For earlier periods of service to count as severance pay, there must be no breaks between periods of
+service, except where:
+• the break in service is less than one month and occurs where an offer of employment with the new
+employer was made and accepted by the employee before ceasing employment with the preceding
+employer, or
+• the earlier period of service was with the APS and ceased because the employee was deemed to
+have resigned from the APS on marriage under the repealed section 49 of the repealed Public
+Service Act 1922.
+Severance benefit – rate of payment
+231.Salary for severance pay purposes will include:
+• the employee’s substantive salary adjusted on a pro-rata basis for periods of part-time service
+• higher duties allowance for performance of duties at a higher classification level where the
+employee has been performing duties, and continues to perform duties, at the higher classification
+level for a continuous period of at least 12 months immediately prior to the date on which the
+employee was given notice of termination of employment, and
+• other allowances in the nature of salary which have been paid to the employee on a regular basis
+and have continued to be paid during periods of annual leave, excluding allowances which are
+reimbursements for expenses incurred.
+Involuntary Redundancy
+232.At the end of the retention period the Delegate may make the excess employee involuntarily redundant
+under section 29 of the PS Act.
+233.An excess employee will not be made involuntarily redundant where:
+• the employee has not been invited to accept an offer of VR
+• the employee has requested a VR, but the Delegate has refused, or
+• the employee has not been given four weeks notice of termination of employment (or five weeks
+for an employee over 45 years of age with at least five years’ continuous service), or payment in
+lieu of notice.
+
+PM&C Enterprise Agreement 2021–2024
+
+27
+
+Attachment A - Consultation term
+1.
+
+This term applies if PM&C:
+a. has made a definite decision to introduce a major change to production, program, organisation,
+structure or technology in relation to its enterprise that is likely to have a significant effect on the
+employees; or
+b. proposes to introduce a change to the regular roster or ordinary hours of work of employees.
+
+Major change
+2.
+
+For a major change referred to in paragraph (1)(a):
+a. PM&C must notify the relevant employees of the decision to introduce the major change; and
+b. subclauses (3) to (9) apply.
+
+3.
+
+The relevant employees may appoint a representative for the purposes of the procedures in this term.
+
+4.
+
+If:
+a. a relevant employee appoints, or relevant employees appoint, a representative for the purposes
+of consultation; and
+b. the employee or employees advise PM&C of the identity of the representative;
+PM&C must recognise the representative.
+
+5.
+
+As soon as practicable after making its decision, PM&C must:
+a. discuss with the relevant employees:
+i. the introduction of the change; and
+ii. the effect the change is likely to have on the employees; and
+iii. measures PM&C is taking to avert or mitigate the adverse effect of the change on the
+employees; and
+b. for the purposes of the discussion—provide, in writing, to the relevant employees:
+i. all relevant information about the change including the nature of the change proposed; and
+ii. information about the expected effects of the change on the employees; and
+iii. any other matters likely to affect the employees.
+
+6.
+
+However, PM&C is not required to disclose confidential or commercially sensitive information to the
+relevant employees.
+
+7.
+
+PM&C must give prompt and genuine consideration to matters raised about the major change by the
+relevant employees.
+
+8.
+
+If a term in this Agreement provides for a major change to production, program, organisation, structure or
+technology in relation to the enterprise of PM&C, the requirements set out in paragraph (2)(a) and
+subclauses (3) and (5) are taken not to apply.
+
+9.
+
+In this term, a major change is likely to have a significant effect on employees if it results in:
+a. the termination of the employment of employees; or
+b. major change to the composition, operation or size of PM&C’s workforce or to the skills required
+of employees; or
+c. the elimination or diminution of job opportunities (including opportunities for promotion or
+tenure); or
+d. the alteration of hours of work; or
+
+PM&C Enterprise Agreement 2021–2024
+
+28
+
+e. the need to retrain employees; or
+f. the need to relocate employees to another workplace; or
+g. the restructuring of jobs.
+Change to regular roster or ordinary hours of work
+10. For a change referred to in paragraph (1)(b):
+a. PM&C must notify the relevant employees of the proposed change; and
+b. subclauses (11) to (15) apply.
+11. The relevant employees may appoint a representative for the purposes of the procedures in this term.
+12. If:
+a. a relevant employee appoints, or relevant employees appoint, a representative for the purposes
+of consultation; and
+b. the employee or employees advise PM&C of the identity of the representative;
+PM&C must recognise the representative.
+13. As soon as practicable after proposing to introduce the change, PM&C must:
+a. discuss with the relevant employees the introduction of the change; and
+b. for the purposes of the discussion—provide to the relevant employees:
+i. all relevant information about the change, including the nature of the change; and
+ii. information about what PM&C reasonably believes will be the effects of the change on the
+employees; and
+iii. information about any other matters that PM&C reasonably believes are likely to affect the
+employees; and
+c. invite the relevant employees to give their views about the impact of the change (including any
+impact in relation to their family or caring responsibilities).
+14. However, PM&C is not required to disclose confidential or commercially sensitive information to the
+relevant employees.
+15. PM&C must give prompt and genuine consideration to matters raised about the change by the relevant
+employees.
+16. In this term:
+relevant employees means the employees who may be affected by a change referred to in subclause (1).
+
+PM&C Enterprise Agreement 2021–2024
+
+29
+
+Attachment B - Term for dealing with disputes
+1.
+
+If a dispute relates to:
+a. a matter arising under the agreement; or
+b. the National Employment Standards;
+this term sets out procedures to settle the dispute.
+
+2.
+
+PM&C or an employee who is a party to the dispute may appoint a representative for the purposes of the
+procedures in this term.
+
+3.
+
+In the first instance, the parties to the dispute must try to resolve the dispute at the workplace level, by
+discussions between the employee or employees and relevant supervisors and/or management.
+
+4.
+
+If discussions at the workplace level do not resolve the dispute, a party to the dispute may refer the
+matter to Fair Work Commission.
+
+5.
+
+The Fair Work Commission may deal with the dispute in two stages:
+a. the Fair Work Commission will first attempt to resolve the dispute as it considers appropriate,
+including by mediation, conciliation, expressing an opinion or making a recommendation; and
+b. if the Fair Work Commission is unable to resolve the dispute at the first stage, the Fair Work
+Commission may then:
+i. arbitrate the dispute; and
+ii. make a determination that is binding on the parties.
+Note:
+
+If Fair Work Commission arbitrates the dispute, it may also use the powers that are available to it under the FW Act.
+A decision that Fair Work Commission makes when arbitrating a dispute is a decision for the purpose of Div 3 of Part 5.1
+of the FW Act. Therefore, an appeal may be made against the decision.
+
+6.
+
+While the parties are trying to resolve the dispute using the procedures in this term:
+a. an employee must continue to perform their work as they would normally unless they have a
+reasonable concern about an imminent risk to their health or safety; and
+b. an employee must comply with a direction given by PM&C to perform other available work at the
+same workplace, or at another workplace, unless:
+i. the work is not safe; or
+ii. applicable work health safety legislation would not permit the work to be performed; or
+iii. the work is not appropriate for the employee to perform; or
+iv. there are other reasonable grounds for the employee to refuse to comply with the direction.
+
+7.
+
+The parties to the dispute agree to be bound by a decision made by Fair Work Commission in accordance
+with this term.
+
+PM&C Enterprise Agreement 2021–2024
+
+30
+
+Attachment C – Flexibility term (Individual Flexibility Arrangements)
+1.
+
+PM&C and an employee covered by this Agreement may agree to make an individual flexibility
+arrangement to vary the effect of terms of the agreement if:
+a. the arrangement deals with one or more of the following matters:
+i. arrangements about when work is performed;
+ii. overtime rates;
+iii. penalty rates;
+iv. allowances;
+v. remuneration; and/or
+vi. leave; and
+b. the arrangement meets the genuine needs of PM&C and the employee in relation to one or more
+of the matters mentioned in paragraph a); and
+c. the arrangement is genuinely agreed to by PM&C and the employee.
+
+2.
+
+PM&C will ensure that the terms of the individual flexibility arrangement:
+a. are about permitted matters under section 172 of the FW Act; and
+b. are not unlawful terms under section 194 of the FW Act; and
+c. result in the employee being better off overall than the employee would be if no arrangement
+was made.
+
+3.
+
+PM&C will ensure that the individual flexibility arrangement:
+a. is in writing; and
+b. includes the name of PM&C and the employee; and
+c. is signed by PM&C and the employee and if the employee is under 18 years of age, signed by a
+parent or guardian of the employee; and
+d. includes details of:
+i. the terms of the enterprise agreement that will be varied by the arrangement;
+ii. how the arrangement will vary the effect of the terms;
+iii. how the employee will be better off overall in relation to the terms and conditions of their
+employment as a result of the arrangement; and
+iv. the day on which the arrangement commences and, where applicable, when the arrangement
+ceases.
+
+4.
+
+PM&C will give the employee a copy of the individual flexibility arrangement within 14 days after it is
+agreed to.
+
+5.
+
+PM&C or the employee may terminate the individual flexibility arrangement:
+a. by giving no more than 28 days written notice to the other party to the arrangement; or
+b. if PM&C and the employee agree in writing — at any time.
+
+PM&C Enterprise Agreement 2021–2024
+
+31
+
+Attachment D – Supported Wage System
+Purpose
+1.
+
+This attachment defines the conditions which will apply to employees who, because of the effects of a
+disability, are eligible for a supported wage under the terms of this Agreement.
+
+Definitions
+2.
+
+In this attachment:
+
+• Approved assessor means a person accredited by the management unit established by the
+Commonwealth under the SWS to perform assessments of an individual’s productive capacity
+within the SWS.
+• Assessment instrument means the tool provided for under the SWS that records the assessment of
+the productive capacity of the person to be employed under the SWS.
+• Disability Support Pension means the Commonwealth Government pension scheme to provide
+income security for persons with a disability as provided under the Social Security Act 1991 (Cth), as
+amended from time to time, or any successor to that scheme.
+• Relevant minimum wage means the minimum wage prescribed in this Agreement for the class of
+work for which an employee is engaged.
+• SWS means the Commonwealth Government system to promote employment for people who
+cannot work at full wages under this Agreement because of a disability, as documented in the
+Supported Wage System Handbook. The Handbook is available from the JobAccess website
+(www.jobaccess.gov.au).
+• SWS wage assessment agreement means the document in the form required by the Department of
+Social Services that records the employee’s productive capacity and agreed wage rate.
+Eligibility Criteria
+3.
+
+Employees covered by this attachment will be those who are unable to perform the range of duties to the
+competence level required within the class for which the employee is engaged under this Agreement,
+because of the effects of a disability on their productive capacity and who meet the impairment criteria
+for receipt of a disability support pension.
+
+4.
+
+This attachment does not apply to any existing employee who has a claim against the employer which is
+subject to the provisions of workers compensation legislation or any provision of this Agreement relating
+to the rehabilitation of employees who are injured in the course of their employment.
+
+Supported wage rates
+5.
+
+Employees to whom this attachment applies shall be paid the applicable percentage of the relevant
+minimum wage according to the following table, provided that the minimum amount payable must be not
+less than $89.00 per week (as per the National Minimum Wage Order 2020). Note: The minimum amount
+payable is reviewed every year in July.
+
+PM&C Enterprise Agreement 2021–2024
+
+32
+
+Applicable percentage of relevant minimum wage paid to
+applicable employees
+
+6.
+
+Assessed capacity
+
+% of prescribed Agreement rate
+
+10%
+
+10%
+
+20%
+
+20%
+
+30%
+
+30%
+
+40%
+
+40%
+
+50%
+
+50%
+
+60%
+
+60%
+
+70%
+
+70%
+
+80%
+
+80%
+
+90%
+
+90%
+
+Where an employee’s assessed capacity is 10%, they must receive a high degree of assistance and
+support.
+
+Assessment of capacity
+7.
+
+For the purposes of establishing the percentage of the relevant minimum wage, the productive capacity of
+the employee will be assessed in accordance with the SWS by an approved assessor, having consulted the
+employer and the employee, and if the employee so desires, a union which the employee is eligible to
+join.
+
+8.
+
+Assessment made under this attachment must be documented in a SWS wage assessment agreement, and
+retained by the employer as a time and wages record in accordance with the FW Act.
+
+Lodgement of SWS wage assessment agreement
+9.
+
+All SWS wage assessment agreements under the conditions of this attachment, including the appropriate
+percentage of the relevant minimum wage to be paid to the employee, must be lodged by the employer
+with the Fair Work Commission.
+
+10. All SWS wage assessment agreements must be agreed and signed by the employee and employer parties
+to the assessment. Where a union which has an interest in this Agreement and is not a party to the
+assessment, the assessment will be referred by the Fair Work Commission to the union by certified mail
+and the agreement will take effect unless an objection is notified to the Fair Work Commission within 10
+working days.
+Review of assessment
+11. The assessment of the applicable percentage should be subject to annual review or more frequent review
+on the basis of a reasonable request for such a review. The process of review must be in accordance with
+the procedures for assessing capacity under the support wage system.
+Other terms and conditions of employment
+12. Where an assessment has been made, the applicable percentage will apply to the relevant wage rate only.
+Employees covered by the provisions of this attachment will be entitled to the same terms and conditions
+of employment as all other workers covered by this Agreement paid on a pro rata basis.
+
+PM&C Enterprise Agreement 2021–2024
+
+33
+
+Workplace adjustment
+13. An employer wishing to employ a person under the provisions of this attachment must take reasonable
+steps to make changes in the workplace to enhance the employee’s capacity to do the job. Changes may
+involve redesign of job duties, working time arrangements and work organisation in consultation with
+other workers in the area.
+Trial Period
+14. In order for an adequate assessment of the employee’s capacity to be made, an employer may employ a
+person under the provisions of this attachment for a Trial Period not exceeding 12 weeks, except that in
+some cases additional work adjustment time (not exceeding four weeks) may be needed.
+15. During that Trial Period the assessment of capacity will be undertaken and the percentage of the relevant
+minimum wage for a continuing employment relationship will be determined.
+16. The minimum amount payable to the employee during the Trial Period must be no less than the current
+weekly rate, as determined by the Fair Work Commission.
+17. Work trials should include induction or training as appropriate to the job being trialled.
+18. Where the employer and employee wish to establish a continuing employment relationship following the
+completion of the Trial Period, a further contract of employment will be entered into based on the
+outcome of assessment.
+
+PM&C Enterprise Agreement 2021–2024
+
+34
+
+

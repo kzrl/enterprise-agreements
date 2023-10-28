@@ -1,0 +1,3514 @@
+[2021] FWCA 190
+
+DECISION
+Fair Work Act 2009
+s.185—Enterprise agreement
+
+Defence Housing Australia
+(AG2020/3755)
+
+DEFENCE HOUSING AUSTRALIA ENTERPRISE AGREEMENT 2021
+Commonwealth employment
+DEPUTY PRESIDENT YOUNG
+
+MELBOURNE, 15 JANUARY 2021
+
+Application for approval of the Defence Housing Australia Enterprise Agreement 2021.
+[1]
+Defence Housing Australia (the Employer) has made an application for approval of an
+enterprise agreement known as the Defence Housing Australia Enterprise Agreement 2021
+(the Agreement) pursuant to s 185 of the Fair Work Act 2009 (the Act). The Agreement is a
+single-enterprise agreement.
+[2]
+The Employer has provided written undertakings. A copy of the undertakings is
+attached at Annexure A. I am satisfied that the undertakings will not cause financial detriment
+to any employee covered by the Agreement and the undertakings will not result in substantial
+changes to the Agreement. The undertakings are taken to be a term of the Agreement.
+[3]
+Subject to the undertakings referred to above, and on the basis of the material
+contained in the application, the accompanying statutory declaration, and the additional
+information provided by the Employer, I am satisfied that each of the requirements of ss 186,
+187, 188 and 190 as are relevant to this application for approval have been met.
+[4]
+CPSU, the Community and Public Sector Union, being a bargaining representative for
+the Agreement, has given notice under s 183 of the Act that it seeks to be covered by the
+Agreement. In accordance with s 201(2) and based on the statutory declaration provided by
+the organisation, I note that the Agreement covers the organisation.
+
+1
+
+[2021] FWCA 190
+
+[5]
+The Agreement was approved on 15 January 2021 and, in accordance with s 54, will
+operate from 22 January 2021. The nominal expiry date of the Agreement is 22 January 2024.
+
+DEPUTY PRESIDENT
+Printed by authority of the Commonwealth Government Printer
+<AE510108 PR726186>
+
+2
+
+[2021] FWCA 190
+
+Annexure A
+
+3
+
+Defence Housing Australia
+Enterprise Agreement
+2021
+Note - this agreement is to be read together with an undertaking given by the
+employer. The undertaking is taken to be a term of the agreement. A copy of it
+can be found at the end of the agreement.
+
+Defence Housing Australia Enterprise Agreement 2021
+
+TABLE OF CONTENTS
+PART A. TECHNICAL MATTERS ...................................................................................................3
+1.
+2.
+3.
+4.
+5.
+6.
+
+Title of this Agreement .................................................................................................................3
+Coverage, parties and persons bound .........................................................................................3
+Commencement and duration ......................................................................................................3
+National Employment Standards ..................................................................................................3
+Effect of Agreement on other employment instruments ...............................................................3
+Delegations ..................................................................................................................................3
+
+PART B. REMUNERATION .............................................................................................................4
+7. Pay rates ......................................................................................................................................4
+8. Salary increases ...........................................................................................................................4
+9. Performance Bonus Buy-out ........................................................................................................4
+10. Method of payment .......................................................................................................................4
+11. Salary on commencement, movement or promotion ...................................................................5
+12. Salary advancement .....................................................................................................................5
+13. Grandfathered Northern Territory Retention ................................................................................5
+14. Casual loading ..............................................................................................................................6
+15. Salary Packaging .........................................................................................................................6
+16. Overpayment of entitlements .......................................................................................................7
+17. Superannuation ............................................................................................................................7
+18. Supported salary for employees with a disability .........................................................................7
+19. Individual Flexibility Arrangements ...............................................................................................7
+PART C. CLASSIFICATION STRUCTURE .....................................................................................9
+20. Classification structure .................................................................................................................9
+21. Development programs ................................................................................................................9
+22. Juniors ..........................................................................................................................................9
+23. Higher duties ............................................................................................................................. 10
+PART D. PERFORMANCE MANAGEMENT ................................................................................ 10
+24. Performance Management Framework ..................................................................................... 10
+25. Managing underperformance .................................................................................................... 11
+PART E. HOURS OF WORK ........................................................................................................ 11
+26. Ordinary hours of work .............................................................................................................. 11
+27. Christmas stand down ............................................................................................................... 12
+28. Flextime arrangements.............................................................................................................. 12
+29. Working hours for EL1 and EL2 employees .............................................................................. 14
+30. Shiftwork .................................................................................................................................... 14
+31. Part time work ........................................................................................................................... 14
+32. Overtime .................................................................................................................................... 15
+33. Meal allowance .......................................................................................................................... 16
+PART F. LEAVE ........................................................................................................................... 16
+34. General provisions .................................................................................................................... 16
+35. Portability of leave ..................................................................................................................... 17
+36. Family or domestic violence support ......................................................................................... 17
+37. Annual leave .............................................................................................................................. 18
+38. Purchased leave ........................................................................................................................ 19
+39. Personal leave ........................................................................................................................... 20
+40. Unpaid carer’s leave .................................................................................................................. 22
+
+1
+Defence Housing Australia Enterprise Agreement 2021
+
+41. War service sick leave ............................................................................................................... 22
+42. Compassionate leave ................................................................................................................ 23
+43. Special leave ............................................................................................................................. 23
+44. Maternity and parental leave ..................................................................................................... 24
+45. Supporting partner/other primary care giver leave .................................................................... 25
+46. Recognition of other parental roles ........................................................................................... 25
+47. Career break leave .................................................................................................................... 26
+48. Long service leave .................................................................................................................... 26
+49. Community service leave .......................................................................................................... 26
+50. Defence Reservists leave.......................................................................................................... 26
+51. Other leave ................................................................................................................................ 27
+52. Public holidays .......................................................................................................................... 27
+53. Unauthorised absences............................................................................................................. 28
+54. Non-accrual of leave under suspension .................................................................................... 28
+PART G. ALLOWANCES.............................................................................................................. 29
+55. Travel......................................................................................................................................... 29
+56. Part day travel allowance .......................................................................................................... 29
+57. Motor vehicle allowance ............................................................................................................ 29
+58. Additional role allowances ......................................................................................................... 29
+59. School holiday care allowance .................................................................................................. 30
+PART I. OTHER ENTITLEMENTS .............................................................................................. 30
+60. Professional memberships ........................................................................................................ 30
+61. Relocation assistance ............................................................................................................... 30
+62. Employee Assistance Program ................................................................................................. 30
+63. Flu vaccination .......................................................................................................................... 30
+PART J. CONSULTATION ........................................................................................................... 31
+64. Staff Consultative Group ........................................................................................................... 31
+65. Consultation .............................................................................................................................. 31
+PART K. REDUNDANCY .............................................................................................................. 33
+66. General ...................................................................................................................................... 33
+67. Assistance to employees........................................................................................................... 34
+68. Severance entitlements ............................................................................................................. 34
+69. Notice of termination on retrenchment ...................................................................................... 35
+70. Reduction in classification ......................................................................................................... 35
+PART L. DISPUTE RESOLUTION ............................................................................................... 35
+71. Procedures for preventing and settling disputes ....................................................................... 35
+PART M. TERMINATION OF EMPLOYMENT .............................................................................. 37
+72. Resignation ............................................................................................................................... 37
+73. Cessation of employment .......................................................................................................... 37
+74. Review of decisions to terminate employment .......................................................................... 38
+Appendix 1 - Pay rates – Classification Structure ............................................................................ 39
+Appendix 2 – Performance bonus buy-out ....................................................................................... 40
+Appendix 3 – Definitions .................................................................................................................. 41
+Appendix 4 – Supported salary rates and conditions of employment .............................................. 43
+
+2
+Defence Housing Australia Enterprise Agreement 2021
+
+PART A. TECHNICAL MATTERS
+1.
+Title of this Agreement
+1.1
+This Agreement shall be known as the Defence Housing Australia
+Enterprise Agreement 2021.
+2.
+Coverage, parties and persons bound
+2.1
+This Agreement is made pursuant to Section 172 of the Fair Work Act
+2009. In accordance with Section 53 of that Act, this Agreement covers:
+(a)
+
+the Managing Director of DHA, on behalf of the Commonwealth
+of Australia; and
+
+(b)
+
+employees of DHA engaged under the Public Service Act 1999,
+excluding Senior Executive Service employees.
+
+3.
+Commencement and duration
+3.1
+This Agreement commences on the seventh day after the Agreement is
+approved by the Fair Work Commission.
+3.2
+
+The nominal expiry date is three (3) years after commencement.
+
+4.
+National Employment Standards
+4.1
+Nothing in this Agreement reduces the entitlement available to an
+employee under the National Employment Standards (NES).
+5.
+Effect of Agreement on other employment instruments
+5.1
+The conditions and entitlements in this Agreement replace any conditions
+and entitlements included in any other employment instrument, whether
+this is a formal or informal instrument that previously applied to an
+employee who is covered by this Agreement.
+5.2
+
+DHA guidelines, policies or procedures referred to in this Agreement are
+not incorporated into, and do not form part of the Agreement.
+
+5.3
+
+Where such policies are inconsistent with the provisions of this
+Agreement then this Agreement prevails.
+
+5.4
+
+Employees will make themselves familiar with DHA guidelines, policies
+and procedures as they may be varied from time to time and will be
+applied on the basis of their terms at the time of any relevant action or
+decision.
+
+6.
+Delegations
+6.1
+All the powers and authorities in this Agreement are held by the
+Managing Director of DHA.
+3
+Defence Housing Australia Enterprise Agreement 2021
+
+6.2
+
+The Managing Director may, by instrument in writing, delegate or
+authorise to a person any of the Managing Director’s powers, authorities
+or functions under this Agreement, excluding the power to delegate or
+authorise unless otherwise specified by the Managing Director.
+
+6.3
+
+The Managing Director may issue instructions relating to the exercise of
+a delegated power, authority or function.
+
+PART B. REMUNERATION
+7.
+Pay rates
+7.1
+The pay rates for employees are as set out at Appendix 1 to this
+Agreement.
+8.
+Salary increases
+8.1
+Annual salaries to be paid from the commencement of this Agreement
+are specified in Appendix 1.
+8.2
+
+The following pay increases will be payable under this Agreement:
+(a)
+
+2 per cent from the commencement of this Agreement1; and
+
+(b)
+
+2 per cent 12 months from the commencement of this
+Agreement; and
+
+(c)
+
+2 per cent 24 months from the commencement of this
+Agreement.
+
+9.
+Performance Bonus Buy-out
+9.1
+Ongoing and non-ongoing employees who are employed on the day this
+agreement commences will be paid a one off performance bonus buy-out
+determined on their substantive classification as specified in Appendix 2.
+9.2
+
+The bonus buy-out will be payable on the first pay day in July 2021. If an
+eligible employee as defined in clause 9.1, ceases employment prior to
+the first pay day in July 2021 they will receive payment of the bonus buyout in their final monies.
+
+10. Method of payment
+10.1
+Employees will be paid fortnightly in arrears and the fortnightly rate of
+pay will be calculated using the following formula:
+Fortnightly pay
+
+=
+
+Annual Salary X 12/313
+
+1
+
+Note: The Public Service (Terms and Conditions of Employment)(General wage increase deferrals during the COVID-19
+pandemic) Determination made under subsection 24(3) of the Public Service Act 1999 has the effect of deferring the first
+salary increase by six months from the date of the Agreement’s commencement.
+
+4
+Defence Housing Australia Enterprise Agreement 2021
+
+10.2
+
+Payment will be made to a financial institution account nominated by
+each employee, subject to the financial institution accepting payment by
+electronic funds transfer.
+
+11. Salary on commencement, movement or promotion
+11.1
+Where an employee commences employment with DHA or is promoted
+to a higher classification level, the Managing Director will determine their
+salary, having regard to the qualifications, knowledge, experience, ability
+of the employee and market rates. This will normally be the base salary
+of the classification.
+11.2
+
+Where an employee is being paid under a higher duties arrangement and
+that employee is promoted, that employee's salary will be equivalent to
+the combination of salary and higher duties allowance paid prior to the
+promotion or higher as determined by the Managing Director having
+regard to the qualifications, knowledge, experience and ability of the
+employee.
+
+12. Salary advancement
+12.1
+On 1 October each year, the Managing Director will advance an
+employee’s salary within the employee’s substantive classification pay
+band in Appendix 1 by two (2) per cent, subject to the employee:
+
+12.2
+
+(a)
+
+participating in the DHA performance management framework;
+
+(b)
+
+receiving a final end of cycle performance rating of ‘met all
+targets’ or an equivalent or higher rating;
+
+(c)
+
+being classified at that level for at least six months as at 30 June;
+and
+
+(d)
+
+not exceeding the top of their salary band, in which case an
+advancement of less than two (2) per cent will apply.
+
+Periods of unpaid leave are not to count as service and unauthorised
+absences will not be included in the period of service required under
+sub-clause 12.1(c).
+
+13. Grandfathered Northern Territory Retention
+13.1
+An employee who is employed in the Northern Territory on the date of
+commencement of this agreement will be eligible for an additional week’s
+paid leave to be provided in February each year where:
+(a)
+
+the employee has worked for DHA for a continuous period
+covering at least 1 August in the previous year to 30 January in
+the relevant year;
+
+5
+Defence Housing Australia Enterprise Agreement 2021
+
+(b)
+
+the employee has not had an unauthorised absence or more
+than four (4) weeks of paid and/or unpaid leave between
+1 October in the previous year and 30 January in the relevant
+year;
+
+(c)
+
+the employee has been assessed as having ‘met all targets’ or a
+higher rating during the previous 12 months; and
+
+(d)
+
+the employee is working in a Northern Territory based role on
+30 January of the relevant year.
+
+13.2
+
+This clause does not apply to non-ongoing employees engaged on an
+irregular or intermittent basis (casual).
+
+13.3
+
+The Northern Territory Retention arrangements will be provided to part
+time employees on a pro rata basis.
+
+13.4
+
+The paid leave specified in clause 13.1 must be used by 30 November in
+the year granted.
+
+13.5
+
+Employees who commence in a position in the Northern Territory after
+the date of commencement of this agreement will not be entitled to an
+additional weeks leave as specified in clause 13.1.
+
+14. Casual loading
+14.1
+Casual employees are engaged under paragraph 22(2)(c) of the Public
+Service Act 1999 on an irregular or intermittent basis.
+14.2
+
+Casual employees will be paid a 25 per cent loading on their salary in
+lieu of access to all forms of paid leave (other than Long Service Leave),
+payment for public holidays on which the employee is not rostered to
+work and the Christmas break period.
+
+14.3
+
+When a casual employee is required to work on a particular day and
+attends for the required hours, the minimum payment for that day will be
+based on three (3) hours’ work.
+
+15. Salary Packaging
+15.1
+Employees may have access to a salary packaging scheme. The
+scheme allows an employee to receive non-salary benefits in lieu of
+salary.
+15.2
+
+15.3
+
+The key requirements of the scheme are that:
+(i)
+
+the scheme operates at no cost to DHA;
+
+(ii)
+
+participation is entirely voluntary; and
+
+(iii)
+
+employees may be required to obtain financial advice to be able
+to participate in the scheme.
+
+Salary for superannuation, severance and termination purposes for an
+employee who has elected to convert part of their salary to non-salary
+6
+
+Defence Housing Australia Enterprise Agreement 2021
+
+benefits, shall be determined as if the salary packaging arrangements did
+not exist.
+16. Overpayment of entitlements
+16.1
+Where an employee is overpaid an amount of salary or other
+remuneration, the amount of the overpayment may be recovered from
+amounts payable to the employee by deductions authorised by the
+employee or by DHA’s Accountable Authority Instructions. A plan for
+recovery will be considered by the Managing Director in cases of
+financial hardship and a reasonable recovery plan will not be refused.
+17. Superannuation
+17.1
+DHA will make compulsory employer contributions as required by the
+applicable legislation and fund requirements.
+17.2
+
+Where an employee has chosen an accumulation superannuation fund
+other than the PSS Accumulation Plan (PSSap), the employer
+contribution will be the same percentage of the fortnightly superannuation
+contribution salary as that required for employees who are members of
+PSSap which will be no less than 15.4 per cent. This will not be reduced
+by any other contributions made through salary sacrifice arrangements.
+This clause does not apply where a superannuation fund cannot accept
+employer superannuation contributions (for example, unable to accept
+contributions for people aged over 75).
+
+17.3
+
+Employer superannuation contributions will not be paid on behalf of
+employees during periods of leave that do not count as service, unless
+otherwise required under legislation or fund requirements.
+
+17.4
+
+Employer superannuation contributions will be paid to accumulation
+superannuation funds during periods of paid and unpaid parental leave
+(including maternity and parental) for periods of leave to a maximum of
+52 weeks.
+
+18. Supported salary for employees with a disability
+18.1
+An employee who is unable to perform duties to the competence level
+required because of a disability and who meets the criteria for receipt of a
+Disability Support Pension will be paid the applicable percentage of the
+relevant pay rate that corresponds to their assessed capacity to do the
+work.
+18.2
+
+Specific conditions relating to the supported wages scheme are detailed
+in Appendix 4.
+
+19. Individual Flexibility Arrangements
+19.1
+The Managing Director and an employee covered by this Agreement may
+agree to make an individual flexibility arrangement to vary the effect of
+the following terms of this Agreement:
+7
+Defence Housing Australia Enterprise Agreement 2021
+
+(a)
+
+arrangements about when work is performed;
+
+(b)
+
+overtime rates;
+
+(c)
+
+penalty rates;
+
+(d)
+
+allowances;
+
+(e)
+
+remuneration; and/or
+
+(f)
+
+leave.
+
+19.2
+
+An individual flexibility arrangement must meet the genuine needs of
+DHA and the employee in relation to one or more of the matters
+mentioned in sub-clause 19.1 and must be genuinely agreed to by the
+Managing Director and the employee.
+
+19.3
+
+DHA must ensure that the terms of an individual flexibility arrangement:
+
+19.4
+
+(a)
+
+are about permitted matters under section 172 of the Fair Work
+Act 2009;
+
+(b)
+
+are not unlawful terms under section 194 of the Fair Work Act
+2009; and
+
+(c)
+
+result in the employee being better off overall than the employee
+would be if no arrangement was made.
+
+DHA must ensure that the individual flexibility arrangement:
+(a)
+
+is in writing;
+
+(b)
+
+includes the name of DHA and the employee;
+
+(c)
+
+is signed by the Managing Director and the employee and if the
+employee is under 18 years of age, signed by a parent or
+guardian of the employee;
+
+(d)
+
+includes details of:
+(i)
+
+the terms of this Agreement that will be varied by
+the arrangement;
+
+(ii) how the arrangement will vary the effect of the
+terms;
+(iii) how the employee will be better off overall in
+relation to the terms and conditions of their
+employment as a result of the arrangement; and
+(e)
+
+states the day on which the arrangement commences and,
+where applicable, when the arrangement ceases.
+
+19.5
+
+The Managing Director must give the employee a copy of the individual
+flexibility arrangement within 14 days after it is agreed.
+
+19.6
+
+The Managing Director or the employee may terminate the individual
+flexibility arrangement:
+8
+
+Defence Housing Australia Enterprise Agreement 2021
+
+(a)
+
+by giving 28 days’ written notice to the other party to the
+arrangement; or
+
+(b)
+
+if the Managing Director and employee agree in writing – at any
+time.
+
+PART C. CLASSIFICATION STRUCTURE
+20. Classification structure
+20.1
+The DHA classification structure is outlined at Appendix 1. The
+classification structure includes the following broadbands:
+
+20.2
+
+20.3
+
+(a)
+
+DHA1 to DHA2 broadband – called Broadband 1;
+
+(b)
+
+DHA3 to DHA4 broadband – called Broadband 2; and
+
+(c)
+
+DHA5 to DHA6 broadband – called Broadband 3.
+
+The Managing Director may advance an employee within their
+broadband where:
+(a)
+
+there is ongoing availability of work at the higher classification
+level;
+
+(b)
+
+the employee has satisfactorily completed any formal training
+requirement;
+
+(c)
+
+the employee is assessed as at least ‘met all targets’ or
+equivalent in the performance management framework;
+
+(d)
+
+attendance and conduct are satisfactory; and
+
+(e)
+
+the employee is assessed as having the necessary expertise,
+skill and ability to perform the tasks of the vacant role.
+
+The Managing Director may, through consultation establish further
+broadbanded classifications during the life of this agreement.
+
+21. Development programs
+21.1
+The Managing Director may engage employees in development
+programs such as, but not limited to, graduate programs, traineeships
+and cadetships.
+21.2
+
+The classification and progression arrangements for these employees
+will be set out under the program they participate in.
+
+22. Juniors
+22.1
+Junior rates of pay may apply to employees under 21 years of age holding
+the DHA Level 1 classification as follows:
+(a)
+
+under 18 years
+
+60% of the minimum pay point
+
+(b)
+
+at 18 years
+
+70% of the minimum pay point
+9
+
+Defence Housing Australia Enterprise Agreement 2021
+
+(c)
+
+at 19 years
+
+81% of the minimum pay point
+
+(d)
+
+at 20 years
+
+91% of the minimum pay point
+
+23. Higher duties
+23.1
+Where an employee performs the duties of a higher classified role for a
+continuous period of 10 working days or more at the DHA 3-6 level, or for
+a continuous period of 30 working days or more at the EL1-2 level,
+including public holidays, the Managing Director will determine a higher
+duties allowance for the employee. This will normally be the minimum
+salary at the higher classification.
+23.2
+
+A non-SES employee who is temporarily reassigned to perform work at
+an SES classification for a continuous period of 30 working days or more,
+will be paid at a rate determined by the Managing Director for the period
+of the higher duties.
+
+23.3
+
+Where an employee is initially required to work at a higher level for a
+period that does not qualify for additional payment and the higher level
+work is later extended for a continuous period beyond the qualifying
+period, the Managing Director will pay the employee for the entire
+duration of the higher duties.
+
+23.4
+
+The Managing Director may determine that an employee who is entitled
+to additional payment under this clause will be paid a higher amount than
+specified in sub-clause 23.1.
+
+PART D. PERFORMANCE MANAGEMENT
+24. Performance management framework
+24.1
+All employees are required to participate in the performance
+management framework which requires each employee to enter into an
+annual performance Agreement.
+24.2
+
+DHA is committed to a performance management framework that
+operates transparently and consistently, supports employees, provides
+regular objective feedback and focuses on learning and development
+opportunities.
+
+24.3
+
+The purpose of the performance management framework is to:
+
+24.4
+
+(a)
+
+develop a culture of high performance in DHA;
+
+(b)
+
+align individual performance requirements with business
+requirements;
+
+(c)
+
+ensure that employees have a clear understanding of their role,
+and the performance standards expected of them; and
+
+(d)
+
+identify and plan for learning and development needs.
+
+The principles of the performance management framework are:
+10
+
+Defence Housing Australia Enterprise Agreement 2021
+
+(a)
+
+joint responsibility – employees and managers will participate in
+all aspects of the performance management process, including
+initiating reviews, and seeking and providing feedback as
+required.
+
+(b)
+
+no surprises – the performance process will ensure that
+employees are aware of their performance progress. Managers
+should identify and address performance concerns at the earliest
+opportunity.
+
+(c)
+
+fair – the performance process will provide employees with an
+opportunity to respond to performance feedback, consistent with
+natural justice principles.
+
+25. Managing underperformance
+25.1
+The provisions of Part D do not apply to employees during their first six
+(6) months of employment in the APS.
+25.2
+
+Where the Managing Director considers that an employee’s performance
+is below the minimum level required at the employee’s classification
+level, an underperformance process may be initiated. Further
+information is in DHA’s guidelines for managing underperformance.
+
+25.3
+
+Where an employee’s performance continues to be below the minimum
+level required at the employee’s classification level, the Managing
+Director may:
+(a)
+
+reduce the employee’s classification level;
+
+(b)
+
+transfer the employee to another position at the same level; or
+
+(c)
+
+terminate the employee’s employment.
+
+PART E. HOURS OF WORK
+26. Ordinary hours of work
+26.1
+All employees covered by this agreement are required to accurately
+record their working hours, including break times and any leave.
+26.2
+
+The ordinary hours of work for a full time employee are 7 hours and 30
+minutes per day, Monday to Friday. A standard day is defined as being
+worked from 8:30am to 5:00pm with an hour for lunch.
+
+26.3
+
+The span within which ordinary hours may be worked are:
+
+26.4
+
+(a)
+
+6:30am to 12:00 midnight, Monday to Friday for shiftworkers; and
+
+(b)
+
+6:30am to 6:30pm, Monday to Friday for all other employees.
+
+A manager and employee may agree to a different pattern of hours by
+which the employee will meet their ordinary hours of duty.
+
+11
+Defence Housing Australia Enterprise Agreement 2021
+
+26.5
+
+The ordinary hours of duty for a part time employee are as specified in
+the part time agreement.
+
+26.6
+
+Employees should not work more than 10 hours in any one day and
+employees should have at least a 30 minute break after 5 hours of
+continuous work.
+
+26.7
+
+Non-ongoing employees working on an irregular or intermittent basis
+(casual) do not have set ordinary hours of work.
+
+26.8
+
+Employees at or below DHA6 level will not be required to be on call
+outside of the employee’s paid working hours.
+
+27. Christmas stand down
+27.1
+Employees other than those on parental leave (including paid maternity
+leave), long-service leave and leave without pay, will be provided paid
+time off without deduction from leave credits, for the three days between
+Christmas and New Years’ day which would otherwise be working days.
+27.2
+
+Employees at DHA6 level and below who are required to work on any of
+the working days between Christmas and New Year to provide the
+skeleton staffing required to meet operational requirements will be paid at
+the rate of:
+(a)
+
+double time and a half for all hours required to be worked on the
+first working day after Boxing Day;
+
+(b)
+
+double time for all hours required to be worked on the other two
+days.
+
+28. Flextime arrangements
+28.1
+All full time and part time employees at DHA6 level and below, unless
+otherwise determined by the Managing Director are eligible to participate
+in flextime arrangements.
+28.2
+
+Any authorised time worked on a day that is in excess of 7 hours
+30 minutes will accrue a flex credit. Where an employee works less than
+7 hours 30 minutes, the employee will accrue a flex debit for the reduced
+hours.
+
+28.3
+
+Employees, other than those working according to a roster, may choose
+to start between 8.00 am and 8.30 am or finish between 5.00 pm and
+5.30 pm without requiring approval from their manager.
+
+28.4
+
+An employee may start and/or finish outside those times and within the
+span of hours on a single day or on an ongoing basis with the prior
+approval of their manager and subject to operational requirements. This
+clause does not apply to employees who are working shiftwork or who
+are working according to a roster.
+
+28.5
+
+Accrual of flex credits above 7 hours and 30 minutes must be approved
+in advance by the employee’s manager.
+12
+
+Defence Housing Australia Enterprise Agreement 2021
+
+28.6
+
+Each employee will be entitled to a flex day each four (4) weeks subject
+to the employee having a credit of at least 7 hours and 30 minutes before
+taking the day off.
+
+28.7
+
+The timing of the flex day will be agreed between the manager and
+employee and must be able to be taken within a reasonable period, if
+delayed due to operational requirements.
+
+28.8
+
+An employee may take additional flex days (which may be as a full or
+part day) where they have sufficient credits accrued, subject to the
+approval of their manager.
+
+28.9
+
+The maximum credit a full time employee may accrue is 37 hours and
+30 minutes.
+
+28.10
+
+The maximum credit a part time employee can accrue is the agreed
+hours to be worked over a four (4) week period, divided by four (4).
+
+28.11
+
+The maximum debit a full time or part time employee may accrue is
+10 hours. Any debit that would take the employee beyond 10 hours debit
+will be treated as unpaid leave and may be regarded as an unauthorised
+absence.
+
+28.12
+
+Employees who work according to a roster (including shiftworkers) will
+have their rosters include sufficient additional time each day for full time
+employees at DHA6 level and below to allow such employees to take a
+flex day each four (4) weeks. The flex day will then be included in the
+roster.
+
+28.13
+
+An employee who works according to a roster may work in excess of the
+roster with the approval of the relevant manager. Where this is the case,
+the employee will accrue a credit for the additional time other than where
+the additional time is approved overtime.
+
+28.14
+
+Where a DHA level 6 or below employee is temporarily reassigned for
+more than three (3) months or promoted to an Executive level role, the
+manager and the employee should take all reasonable steps to balance
+any flex credits or debits to zero.
+
+28.15
+
+An employee will not be paid for any credits held by the employee on
+cessation of employment with DHA. Managers and employees have a
+joint obligation to reduce flex credits to zero prior to the employee
+ceasing employment.
+
+28.16
+
+The value of any debits held by the employee on cessation of
+employment will be treated as an overpayment and must be repaid. This
+repayment will normally be by way of a reduction in the employee’s final
+payment. Further information can be found in DHA’s Accountable
+Authority Instructions.
+
+13
+Defence Housing Australia Enterprise Agreement 2021
+
+29. Working hours for EL1 and EL2 employees
+29.1
+EL1 and EL2 employees are required to ensure their working hours are
+sufficient to meet all reasonable operational requirements, achieve
+required outcomes and, for full time employees be at least 150 hours for
+every four (4) weeks. They are not subject to flex leave provisions.
+29.2
+
+An EL1 and EL2 employee who consistently works additional hours may,
+with the agreement of the manager, be granted time off in lieu subject to
+managerial approval and operational requirements. This can be a short
+term absence, including full day absence. Time off in lieu will not be on
+an hour for hour basis.
+
+29.3
+
+Reasonable additional hours includes travel time.
+
+30. Shiftwork
+30.1
+Shiftworker means an employee who works shifts according to a roster
+which includes ordinary hours falling between 6:30pm and
+12:00 midnight - Monday to Friday.
+30.2
+
+A shiftworker will receive a shift penalty of 15 per cent for any shift that
+includes ordinary hours between 6:30pm and 12:00 midnight, Monday to
+Friday.
+
+30.3
+
+Shift penalties will not be payable in respect of any overtime worked by a
+shiftworker.
+
+30.4
+
+The Managing Director will not generally change a shift roster with less
+than seven (7) days’ notice to an employee without the employee’s
+agreement unless at least seven (7) days’ notice is not possible because
+the roster change is necessitated by:
+
+30.5
+
+(a)
+
+an unexpected absence of another employee; or
+
+(b)
+
+operational necessity caused by an event or incident not
+controlled by DHA.
+
+Shift penalties will not be paid for a flex day.
+
+31. Part time work
+31.1
+The Managing Director may engage employees on a part time basis or
+approve an employee’s request to work part time.
+31.2
+
+A part time employee is one whose ordinary hours of work are less than
+37 hours and 30 minutes per week.
+
+31.3
+
+Part time employees will not be required to work less than three (3)
+continuous hours per day (or an alternative period agreed by the
+Managing Director and the employee).
+
+31.4
+
+The minimum period of part time work that will be approved is four (4)
+weeks.
+14
+
+Defence Housing Australia Enterprise Agreement 2021
+
+31.5
+
+A part time work agreement should be reviewed annually and the
+employee provided with at least four (4) weeks’ notice of the review.
+Where a change to an existing part time agreement is required due to
+operational requirements, the employee should be given four (4) weeks’
+notice before any change is implemented.
+
+31.6
+
+An employee returning from parental leave (including maternity,
+adoption/foster and primary carer leave) will be given access to part time
+employment for up to two (2) years.
+
+31.7
+
+Unless otherwise specified in this Agreement, remuneration and other
+conditions for part time employees, including leave, will be calculated on
+a pro rata basis. Except long service leave, which will be administered in
+accordance with the Long Service Leave (Commonwealth Employees)
+Act 1976.
+
+31.8
+
+Allowances of a reimbursement nature will not be prorated for part time
+employees.
+
+31.9
+
+All part time employees, unless engaged in a prescribed part time role,
+will have a written part time work agreement specifying the prescribed
+weekly hours of duty and the agreed pattern of hours. Part time work
+agreements must be reviewed annually. Additional part time work
+agreement reviews may be initiated by the employee or the Managing
+Director with either party giving four weeks’ notice in writing.
+
+31.10
+
+Where an employee makes an application to work part time for caring
+purposes, DHA will not unreasonably refuse the application where it can
+be accommodated within operational requirements.
+
+32. Overtime
+32.1
+The Managing Director may approve overtime for employees at
+classification levels of DHA6 level and below.
+32.2
+
+Overtime for a non shiftworker applies when an employee is required to
+work beyond 6:30pm or on public holidays or on weekends. Where an
+employee is required to work beyond 6:30pm, overtime will be paid from
+5:30pm unless the employee and the Managing Director agree to a later
+commencement of payment for overtime. The Managing Director may
+approve overtime outside of these criteria where it is considered
+appropriate in the circumstances.
+
+32.3
+
+Overtime for a shiftworker is where the Managing Director directs an
+employee to work more than 30 minutes in excess of their rostered hours
+(in which case the overtime will commence from the end of the
+employee’s rostered shift), on public holidays or on weekends.
+
+32.4
+
+The normal means of compensation for overtime will be time off in lieu
+(TOIL), accrued at the overtime rate, which must be taken within eight (8)
+weeks of the overtime being worked. For a shiftworker, shift penalties
+will not be paid for time off in lieu. Where the employee’s manager is
+15
+
+Defence Housing Australia Enterprise Agreement 2021
+
+unable to identify a time within the following eight (8) weeks for the
+employee to take time off in lieu, the employee will be paid for the
+overtime.
+32.5
+
+For the purposes of calculating the entitlement, the following rates apply:
+(a)
+
+Monday to Friday (excluding public holidays) - time and a half;
+
+(b)
+
+Saturday – time and a half for the first three (3) hours and double
+time thereafter;
+
+(c)
+
+Sunday – double time; and
+
+(d)
+
+Public holidays:
+(i)
+
+where the employee is being paid for the public holiday
+in accordance with sub-clause 52.4 – time and a half
+for all hours worked in addition to the employee’s
+normal pay for that day;
+
+(ii) where the employee would not otherwise be paid for
+the public holiday – double time and a half for all hours
+worked.
+32.6
+
+For the purposes of sub-clause 32.5 the minimum period of overtime
+where it is not continuous with ordinary hours is three (3) hours.
+
+33. Meal allowance
+33.1
+An employee is entitled to claim a meal allowance of $31.95 where the
+employee is required to work:
+(a)
+
+more than two (2) hours overtime where the overtime is
+continuous with normal work; or
+
+(b)
+
+more than four (4) hours overtime on weekends or public
+holidays.
+
+33.2
+
+Meal allowance is not payable if the employee is receiving a meals and
+incidentals allowance.
+
+33.3
+
+Meal allowance will be adjusted in line with the Australian Taxation Office
+rate for overtime meal expenses.
+
+PART F. LEAVE
+34. General provisions
+34.1
+Public holidays that fall during a period of paid leave other than long
+service leave, maternity and parental leave, will not be deducted from the
+employee’s leave credits.
+34.2
+
+Leave taken by a full time employee will be treated as:
+(a)
+
+7 hours 30 minutes of work for a full day of leave; or
+16
+
+Defence Housing Australia Enterprise Agreement 2021
+
+(b)
+
+34.3
+
+the actual hours the employee was absent for a part day of
+leave.
+
+Leave taken by a part time employee will be treated as:
+(a)
+
+the actual hours to be worked on the relevant day of leave for full
+day absences; or
+
+(b)
+
+the actual hours the employee was absent for a part day of
+leave.
+
+35. Portability of leave
+35.1
+Where an ongoing APS employee moves (including on promotion or for
+an agreed period) from another agency to DHA, the employee’s unused
+accrued annual leave and personal/carer’s leave (however described)
+will be transferred, provided there is no break in continuity of service.
+35.2
+
+Where a person is engaged as an ongoing employee, and immediately
+prior to the engagement the person was employed as a non-ongoing
+APS employee, the Managing Director may at the employee’s request,
+recognise any accrued annual leave and personal/carer’s leave (however
+described), provided there is no break in continuity of service.
+
+35.3
+
+Any recognised annual leave excludes any accrued leave paid out on
+separation from the employee’s former agency.
+
+35.4
+
+Where an employee is engaged as either an ongoing or non-ongoing
+APS employee immediately following a period of ongoing employment in
+the Parliamentary Service or the ACT Government Service, the
+employee’s unused accrued annual leave and personal/carer’s leave
+(however described) will be recognised, provided there is no break in
+continuity of service.
+
+35.5
+
+For the purposes of this clause:
+(a)
+
+‘APS employee’ has the same meaning as the same term in the
+Public Service Act 1999;
+
+(b)
+
+‘Parliamentary Service’ refers to employment under the
+Parliamentary Service Act 1999.
+
+36. Family or domestic violence support
+36.1
+DHA is committed to supporting employees affected by domestic or
+family violence. DHA will take a flexible and supportive approach to
+assisting affected employees, as appropriate, in individual
+circumstances. Employees are encouraged to discuss which avenues of
+support are available to them with their manager or Human Resources.
+36.2
+
+Leave is available to employees who are affected by family or domestic
+violence. Employees can apply for either paid or unpaid other leave or
+personal/carer’s leave to cover absences for the purpose of, but not
+limited to:
+17
+
+Defence Housing Australia Enterprise Agreement 2021
+
+(a)
+
+illness or injury resulting from family or domestic violence;
+
+(b)
+
+providing care or support to a family or household member who
+is ill or injured as a result of family or domestic violence;
+
+(c)
+
+providing care or support to a family or household member who
+is affected by an unexpected emergency as a result of family or
+domestic violence;
+
+(d)
+
+obtain legal advice;
+
+(e)
+
+attend to Protection Order matters and Domestic Violence Order
+matters, however termed;
+
+(f)
+
+attend to issues arising through urgent property damage that is a
+consequence of family or domestic violence;
+
+(g)
+
+attend appropriate medical and/or counselling appointments;
+
+(h)
+
+access alternative accommodation; and
+
+(i)
+
+access alternative childcare or schooling for children.
+
+36.3
+
+These entitlements are in addition to any entitlement applying under the
+National Employment Standards.
+
+36.4
+
+Managers are to keep all information concerning the leave application
+strictly confidential. This includes after sighting any supporting
+documentation, returning that documentation to the employee.
+
+36.5
+
+Access to flexible working arrangements as per clause 28 may also be
+granted.
+
+36.6
+
+Further information is available in the DHA’s Domestic or family violence
+policy.
+
+37. Annual leave
+37.1
+Full time employees are entitled to 20 days of annual leave per year of
+employment, accrued and credited on a daily basis.
+37.2
+
+A shiftworker for the purposes of the additional week of annual leave
+provided for in the National Employment Standards is an employee who
+is regularly rostered to work their ordinary hours on a Sunday.
+
+37.3
+
+The Managing Director may approve the taking of annual leave, subject
+to the availability of credits.
+
+37.4
+
+DHA will not unreasonably refuse a request by an employee to take paid
+annual leave.
+
+37.5
+
+Employees will not accrue any annual leave during any unauthorised
+absences or unpaid leave that is not to count as service of more than
+30 calendar days in a calendar year.
+
+37.6
+
+Employees on worker’s compensation leave for more than 45 weeks
+commencing on the day after Comcare first determines the claim, will
+18
+
+Defence Housing Australia Enterprise Agreement 2021
+
+have annual leave credits calculated according to actual hours worked
+after completion of the 45 week period.
+Half pay annual leave
+37.7
+
+An employee may elect to take annual leave at half pay. Where this
+occurs, only half of the period of leave will count as service. An
+employee’s annual leave balance will be reduced at half the rate.
+
+Recall from leave
+37.8
+
+Where the Managing Director cancels approved annual leave, the
+affected employee will be entitled to the reimbursement of reasonable
+expenses incurred by the employee that are not otherwise recoverable
+under any insurance or from any other source and which are a direct
+result of the cancellation of the leave.
+
+Maximum annual leave credits
+37.9
+
+Where an employee has more than eight (8) weeks of annual leave
+credits (or 10 weeks for a shiftworker), the Managing Director may
+require the employee to take sufficient annual leave to reduce their
+credits to four (4) weeks (or five (5) weeks for a shiftworker). Where
+possible, any leave taken under this sub-clause will be at an agreed time.
+Where DHA and an employee are unable to agree on the timing for a
+required period of leave, the Managing Director may specify the timing of
+the leave as long as the employee has been provided with at least four
+weeks’ notice.
+
+Cashing out of annual leave credits
+37.10
+
+The Managing Director may agree to an employee’s request to ‘cash out’
+annual leave once per calendar year in accordance with the following:
+(a)
+
+the cashing out must not result in the employee having less than
+four (4) weeks of annual leave credits remaining;
+
+(b)
+
+each cashing out of a particular amount of paid annual leave
+must be by a separate agreement in writing;
+
+(c)
+
+the employee must be paid at least the full amount that would
+have been payable to the employee had the employee taken the
+leave that the employee has forgone.
+
+Payment for annual leave credits on termination of employment
+37.11
+
+Employees will be paid for any unused annual leave credits on
+resignation or cessation of employment.
+
+38. Purchased leave
+38.1
+The Managing Director may approve an employee’s request to purchase
+leave, funded by salary deductions.
+
+19
+Defence Housing Australia Enterprise Agreement 2021
+
+38.2
+
+Purchased leave is additional leave credits purchased by an employee
+through a reduction in an employee’s fortnightly salary for a period of
+time.
+
+38.3
+
+The minimum amount of leave that can be purchased is one (1) week
+and there is no upper limit. However, approval for access to purchased
+leave is subject to whether there will be an adverse operational impact
+and any costs involved in mitigating this impact.
+
+38.4
+
+Except where purchased leave is taken as part of a period of parental
+leave, purchased leave in excess of four (4) weeks does not count as
+service for any purpose and will not affect salary for superannuation or
+any other purpose.
+
+39. Personal leave
+Approval of personal leave
+39.1
+
+The Managing Director will, subject to the availability of personal leave
+credits, approve paid personal leave for an employee in the following
+circumstances:
+(a)
+
+where the employee is not fit for work due to personal illness or
+injury affecting the employee;
+
+(b)
+
+to provide care or support for a member of the employee’s
+immediate family or household who requires care or support
+because of:
+
+(c)
+
+39.2
+
+(i)
+
+a personal illness or personal injury affecting the member;
+or
+
+(ii)
+
+an unexpected emergency affecting the member;
+
+to attend preventative medical or health practitioner
+appointments.
+
+Ongoing employees will accrue personal leave credits in accordance with
+the following:
+(a)
+
+employees commencing with DHA who have not had leave
+credits transferred under the portability provisions of clause 35
+will receive 15 days of personal leave credits on commencement
+with DHA and after each subsequent 12 months of continuous
+service, an additional 15 days;
+
+(b)
+
+employees commencing with DHA who have transferred leave,
+or have had leave credits transferred under the portability
+provisions of clause 35, from an agency that credits personal
+leave annually will be credited with 15 days of personal leave
+credits 12 months after the last credit of leave. Then, after each
+subsequent 12 months’ continuous service, they will be credited
+with a further 15 days personal leave;
+20
+
+Defence Housing Australia Enterprise Agreement 2021
+
+(c)
+
+39.3
+
+employees commencing with DHA who have transferred leave,
+or have had leave credits transferred under the portability
+provisions of clause 35, from an agency that credits personal
+leave on a pro rata basis will be credited with 15 days personal
+leave on commencement with DHA and, after each subsequent
+12 months’ continuous service, they will be credited with a further
+15 days personal leave.
+
+Non-ongoing employees who are not employed on an irregular or
+intermittent basis (casual) will accrue personal leave credits in
+accordance with this clause as follows:
+(a)
+
+15 days during their first 12 months of employment, on a pro rata
+basis; and
+
+(b)
+
+15 days of personal leave credits at the commencement of the
+second and subsequent years of employment.
+
+39.4
+
+The date for accrual of personal leave credits will be deferred by the
+length of any period of unauthorised absence or leave not to count as
+service during the previous 12 months.
+
+39.5
+
+Part time employees will accrue, and be credited with, personal leave
+based on their ordinary part-time hours as at the accrual date.
+
+39.6
+
+Employees on worker’s compensation leave for more than 45 weeks
+commencing on the day after Comcare first determines the claim, will
+have personal leave credits calculated according to actual hours worked
+after completion of the 45 week period.
+
+39.7
+
+Unused personal leave credits will accumulate from year to year without
+limit.
+
+39.8
+
+Acceptable evidence must be provided by employees for absences due
+to personal injury or illness unless waived by the Managing Director
+where:
+
+39.9
+
+39.10
+
+(a)
+
+the employee has already taken five (5) days of personal leave in
+the accrual year without providing evidence; or
+
+(b)
+
+the absence is for more than two (2) consecutive days.
+
+The Managing Director may require:
+(a)
+
+acceptable evidence where the leave is taken due to an illness or
+injury of the employee or an immediate family or household
+member; or
+
+(b)
+
+a statutory declaration where the leave is due to an unexpected
+emergency affecting an immediate family or household member.
+
+In exceptional circumstances, such as chronic illness, where it is not
+reasonably practicable to provide evidence for each absence in excess of
+five (5) days in a calendar year, employees may provide medical
+evidence for a defined period.
+21
+
+Defence Housing Australia Enterprise Agreement 2021
+
+39.11
+
+Acceptable evidence will be evidence that would satisfy a reasonable
+person that the leave was taken in accordance with paragraph 39.1.
+Medical evidence from registered health practitioners will be accepted for
+the purposes of personal illness or injury or where required to undertake
+carer’s responsibilities. Where it is not reasonably practicable to provide
+a medical certificate from a registered health practitioner, a statutory
+declaration signed by the employee will be acceptable.
+
+39.12
+
+Personal leave will not be granted during a period of paid parental leave.
+
+Unpaid personal leave
+39.13
+
+Where an employee is unfit for work in accordance with paragraph 39.1
+and has no personal leave credits, the Managing Director may grant
+unpaid personal leave for a maximum continuous period of three (3)
+months, subject to the production of satisfactory medical evidence for the
+period granted. Unpaid leave under this sub-clause will count as service
+for all purposes other than for the purpose of accrual of annual and
+personal leave credits.
+
+39.14
+
+Any subsequent unpaid leave that is required by the employee will not
+count as service for any purpose unless provided for by legislation.
+
+40. Unpaid carer’s leave
+40.1
+In accordance with section 102 of the Fair Work Act 2009, an employee
+is entitled to two (2) days’ unpaid carer’s leave per permissible occasion
+where an employee has exhausted paid credits.
+40.2
+
+Unpaid carer’s leave does not count as service for any purpose.
+
+41. War service sick leave
+41.1
+The Managing Director may grant an eligible employee war service sick
+leave while unfit for duty because of a war-caused or defence-caused
+condition.
+41.2
+
+A war caused condition means an injury or disease of an employee that
+has been determined under the Veterans’ Entitlements Act 1986 or
+Military Rehabilitation and Compensation Act 2004 or other relevant
+legislation as amended from time to time, to be war-caused or defencecaused.
+
+41.3
+
+Eligible employees will accrue a special credit of nine (9) weeks on
+commencement with the APS and an annual credit of three (3) weeks for
+each year of APS service. Unused credits will accumulate to a maximum
+of nine (9) weeks.
+
+41.4
+
+The special credit must be used before the annual credits. Where an
+employee’s war service sick leave credits have expired, personal leave
+provisions will apply.
+
+22
+Defence Housing Australia Enterprise Agreement 2021
+
+41.5
+
+Approval of a grant of war service sick leave will be subject to the
+provision of a medical certificate stating the nature of the medical
+condition and a statement from the Department of Veterans’ Affairs
+stating the medical condition is a war-caused condition.
+
+41.6
+
+Leave that counts as service for personal leave purposes will count as
+service for war service sick leave purposes.
+
+42. Compassionate leave
+42.1
+The Managing Director will grant an employee paid compassionate leave
+of three (3) days on each occasion when a member of the employee’s
+immediate family or household:
+(a)
+
+is suffering from an illness or injury that poses a serious threat to
+their life; or
+
+(b)
+
+dies.
+
+42.2
+
+Casual employees will receive two (2) days unpaid compassionate leave
+for each occasion specified in clause 42.1.
+
+42.3
+
+This entitlement may be taken in a single continuous period or separate
+periods as agreed.
+
+42.4
+
+The Managing Director may require an employee accessing this leave to
+provide evidence of the illness, injury or death including certification from
+a medical practitioner that the illness or injury poses a serious threat to
+the person’s life.
+
+43. Special leave
+43.1
+The Managing Director may approve special leave where an employee is
+unable to attend work due to unforeseen, emergency or special
+circumstances. Access to special leave is subject to:
+(a)
+
+the availability of credits;
+
+(b)
+
+a satisfactory reason for taking the leave;
+
+(c)
+
+operational requirements; and
+
+(d)
+
+consideration of the employee’s personal circumstances.
+
+43.2
+
+Special leave will not be approved for a reason that is covered by the
+personal leave provisions.
+
+43.3
+
+Ongoing employees will accrue three (3) days of special leave on
+commencement with DHA and an additional three (3) days at the
+commencement of each subsequent 12 months of service.
+
+43.4
+
+Unused special leave will accumulate for the first two (2) years of service
+with DHA. At the end of the second and subsequent years of
+employment with DHA, unused special leave credits will be paid out in
+full.
+23
+
+Defence Housing Australia Enterprise Agreement 2021
+
+43.5
+
+Non-ongoing employees who are engaged for a term that exceeds
+12 months will have the same entitlement to special leave as ongoing
+employees except that the initial three (3) days of special leave credits
+will not accrue until after the first two (2) months of service.
+
+43.6
+
+Payment in lieu of unused special leave credits will not be paid to an
+employee on cessation of employment with DHA.
+
+44. Maternity and parental leave
+44.1
+The Managing Director will grant maternity and parental leave to eligible
+employees in accordance with the Maternity Leave (Commonwealth
+Employees) Act 1973 (Maternity Leave Act) and the National
+Employment Standards, with additional conditions set out in this clause.
+44.2
+
+An employee who is entitled to paid maternity leave under the Maternity
+Leave Act will be entitled to an additional two (2) weeks of paid maternity
+leave to be taken continuous with the entitlement to paid maternity leave
+provided by the Maternity Leave Act.
+
+44.3
+
+An employee is entitled to up to 52 weeks of unpaid parental leave on the
+birth of a child to the employee, the employee’s spouse or the
+employee’s de facto partner.
+
+44.4
+
+Employees are entitled to up to 52 weeks unpaid parental leave for
+adoption or permanent foster care where the child:
+(a)
+
+is, or will be, under the age of 16 years as at the day of
+placement or the proposed day of placement; and
+
+(b)
+
+has not, or will not have previously, lived continuously with the
+employee for a period of six (6) months or more as at the day of
+placement or the proposed day of placement; and
+
+(c)
+
+is not a child or step-child of the employee or the employee’s
+spouse or partner.
+
+44.5
+
+Documentary evidence of approval for adoption or enduring parental
+responsibilities under formal fostering arrangements must be submitted
+when applying for parental leave for adoption or permanent foster carer
+purposes.
+
+44.6
+
+If the employee is the primary caregiver to the child, up to 14 weeks of
+parental leave will be paid, commencing from the time of birth or
+placement of the child, provided the employee has completed 12 months
+continuous employment.
+
+44.7
+
+Where an employee is entitled to paid maternity or parental leave, the
+employee may elect to have the payment for that leave spread over a
+maximum of 28 weeks at a rate half of normal salary. Where the
+employee elects to take this option, a maximum of 14 weeks will count as
+service.
+24
+
+Defence Housing Australia Enterprise Agreement 2021
+
+44.8
+
+At the completion of the initial 52 weeks of maternity or parental leave, on
+request, employees will be granted an extension of unpaid parental leave
+for a further period of up to 52 weeks. The second period of unpaid
+leave is to commence immediately following the initial 52 week leave
+period.
+
+44.9
+
+Unpaid maternity or parental leave will not count as service for any
+purpose.
+
+44.10
+
+On ending maternity or parental leave, employees have the return to
+work guarantee and the right to request reasonable flexible working
+arrangements that are provided by the Fair Work Act 2009.
+
+45. Supporting partner/other primary care giver leave
+45.1
+The Managing Director will approve 10 days of paid parental leave for an
+employee who is not otherwise entitled to paid maternity or parental
+leave under the Maternity Leave Act or this agreement on the birth,
+adoption or permanent foster care placement of a child or their partner’s
+child.
+45.2
+
+The leave must be taken within 52 weeks of the birth/placement of the
+child and is inclusive of public holidays. If the leave is not taken within
+the first six (6) weeks of the birth or placement of the child, the taking of
+leave must be agreed by the employee and manager, subject to
+operational requirements.
+
+45.3
+
+This paid leave will count as service for all purposes. Employees may
+elect to have the payment for that leave spread out over 20 days at a rate
+of half normal salary. Where payment is spread over a longer period,
+only half the total leave period will count as service.
+
+45.4
+
+An employee who adopts a child is also entitled to two (2) days of unpaid
+pre-adoption leave to attend interviews or examinations required to
+obtain approval.
+
+45.5
+
+Documentary evidence as outlined in clause 44.5, or a birth certificate
+following the birth of a child, must be submitted when applying for
+supporting partner/other primary caregiver leave.
+
+45.6
+
+An employee who receives paid parental leave under clause 44 is not
+entitled to paid parental leave under this clause.
+
+46. Recognition of other parental roles
+46.1
+Where an employee is an enduring primary care giver, and has a
+parental role, for a child of an immediate family member, the Managing
+Director will approve parental leave under the same arrangements as
+provided in clause 44.3 to 44.9; however, the employee does not have an
+entitlement to payment for any leave (specifically payment of up to
+14 weeks) as provided under clause 44.3.
+25
+Defence Housing Australia Enterprise Agreement 2021
+
+47. Career break leave
+47.1
+The Managing Director may approve unpaid career break leave of up to
+six (6) months for an ongoing employee who has at least two (2) years of
+continuous employment with DHA.
+47.2
+
+Approval of leave under this clause will be subject to consideration of any
+operational impact and any costs involved in mitigating that impact.
+Career break leave may only be taken by an employee once every three
+(3) years.
+
+47.3
+
+Any leave approved under this clause will not count as service for any
+purpose.
+
+48. Long service leave
+48.1
+Long service leave is provided in accordance with the Long Service
+Leave (Commonwealth Employees) Act 1976 and will only be granted in
+minimum periods of 7 consecutive calendar days at full pay or 14 days at
+half pay.
+48.2
+
+Periods of long service leave cannot be broken with other periods of
+leave, except as otherwise provided for by legislation.
+
+49. Community service leave
+49.1
+The Managing Director will approve community service leave for an
+employee as provided in the Fair Work Act 2009.
+49.2
+
+All community service leave is unpaid except for:
+(a)
+
+periods of jury service, subject to the employee submitting to
+DHA any payments made to the employee for jury service other
+than reimbursement of costs;
+
+(b)
+
+the first five (5) days of voluntary emergency management
+activity in a calendar year; and
+
+(c)
+
+where otherwise approved by the Managing Director.
+
+50. Defence Reservists leave
+50.1
+The Managing Director may grant an employee leave (with or without
+pay) to enable the employee to fulfil Australian Defence Force (ADF)
+Reserve and Continuous Full Time Service (CFTS) or Cadet Force
+obligations.
+50.2
+
+An employee is entitled to leave with pay, for up to four (4) weeks during
+each calendar year, and an additional two (2) weeks paid leave in the
+first year of ADF Reserve Service, for the purpose of fulfilling service in
+the ADF Reserve.
+
+50.3
+
+With the exception of the additional two (2) weeks in the first year of
+service, leave can be accumulated and taken over a period of two (2)
+26
+
+Defence Housing Australia Enterprise Agreement 2021
+
+years, to enable the employee to undertake training as a member of the
+ADF Reserves.
+50.4
+
+Defence Reserve leave counts as service for all purposes, except for
+unpaid leave to undertake CFTS. Unpaid leave for the purpose of CFTS
+counts for all purposes except annual leave accrual.
+
+50.5
+
+Eligible employees may also apply for annual leave, long service leave or
+flex days, for the purpose of fulfilling ADF Reserve, CFTS or Cadet Force
+obligations.
+
+51. Other leave
+51.1
+The Managing Director may approve paid, part paid or unpaid leave in
+exceptional circumstances and/or for a reason considered by the
+Managing Director to be appropriate and/or in the interests of DHA.
+51.2
+
+Such leave may be approved subject to conditions and/or to count as
+service or not to count as determined by the Managing Director.
+
+51.3
+
+Other leave for a part day will not normally be approved.
+
+51.4
+
+Where an employee is on unpaid other leave on the working days
+immediately before and after a public holiday, payment will not be made
+for the public holiday.
+
+52. Public holidays
+52.1
+The following public holidays will apply under this Agreement:
+(a)
+
+New Year’s Day (1 January);
+
+(b)
+
+Australia Day (26 January);
+
+(c)
+
+Good Friday;
+
+(d)
+
+Easter Monday;
+
+(e)
+
+Anzac Day (25 April);
+
+(f)
+
+the Queen’s birthday holiday (on the day on which it is celebrated
+in a State or Territory or a region of a State or Territory);
+
+(g)
+
+Christmas Day (25 December);
+
+(h)
+
+Boxing Day (26 December); and
+
+(i)
+
+any other day, or part-day, declared or prescribed by or under a
+law of a State or Territory to be observed generally within the
+State or Territory, or a region of the State or Territory, as a public
+holiday, other than a day or part-day, or a kind of day or part-day,
+that is excluded by the Fair Work Regulations from counting as a
+public holiday.
+
+27
+Defence Housing Australia Enterprise Agreement 2021
+
+52.2
+
+If under a State or Territory law, a day or part-day is substituted for one (1)
+of the public holidays listed above, then the substituted day or part-day is
+the public holiday.
+
+52.3
+
+The Managing Director and an employee may agree on the substitution of
+a day or part-day that would otherwise be a public holiday, having regard
+to operational requirements.
+
+52.4
+
+An employee, who is absent on a day or part-day that is a public holiday
+in a place where the employee is based for work purposes, is entitled to
+be paid for the part or full day absence as if that day or part-day was not a
+public holiday, except where that person would not normally have worked
+on that day.
+
+52.5
+
+Where a public holiday occurs in a period when an employee is absent
+on paid leave (other than long service leave or paid maternity/parental
+leave) the public holiday will not be deducted from the employee’s paid
+leave entitlement.
+
+52.6
+
+Where an employee is on a period of leave without pay and a public
+holiday occurs, the employee will not be entitled to payment for the public
+holiday.
+
+53. Unauthorised absences
+53.1
+Where an employee is absent from duty without approval the absence
+will be without pay and will not count as service for any purpose. Other
+benefits provided under this Agreement will cease to be available to the
+employee until the employee resumes duty or is granted leave. Any
+amounts paid to an employee in respect of an unauthorised absence are
+overpayments and DHA will seek to recover those amounts.
+53.2
+
+Where an employee has been absent from work for five (5) or more
+consecutive working days without authorisation, DHA will make all
+reasonable efforts to contact an employee and the employee’s
+emergency contact, provide the employee with an opportunity to explain
+the absence and give genuine consideration to any explanation provided
+by the employee for the absence.
+
+53.3
+
+Where the employee fails to provide an explanation for the absence or
+the Managing Director considers that the explanation provided by the
+employee is not reasonable in the circumstances, the Managing Director
+may initiate action to terminate the employee’s employment on the
+grounds of non-performance of duty.
+
+54. Non-accrual of leave under suspension
+54.1
+If an employee has been suspended without pay under the Public
+Service Regulations 1999 because of suspected misconduct, the
+28
+Defence Housing Australia Enterprise Agreement 2021
+
+Managing Director may decide that the period of suspension will not
+count as service for the accrual of annual and personal leave credits.
+54.2
+
+If an employee has ceased to accrue credits under clause 54.1 and is not
+found to have breached the APS Code of Conduct, the employee will be
+credited with the leave credits which did not accrue.
+
+PART G. ALLOWANCES
+55. Travel
+55.1
+Where an employee is required to undertake travel on official business
+and is required to be away from home overnight:
+(a)
+
+The cost of reasonable accommodation will be paid by DHA; and
+
+(b)
+
+The employee will either:
+(i)
+
+be paid an allowance to cover the cost of meals and
+incidentals; or
+
+(ii)
+
+have reasonable meals and incidentals expenditure paid by
+DHA using a credit card or other suitable means.
+
+56. Part day travel allowance
+56.1
+Where an employee is required to be absent from their home locality for
+more than 10 hours, but is not required to be away overnight, the
+employee will be paid a taxable Part Day Travel Allowance of $50.00.
+57. Motor vehicle allowance
+57.1
+The Managing Director can authorise an employee to use an employee’s
+private vehicle for work related purposes and approve payment of a
+motor vehicle allowance.
+57.2
+
+The rate of motor vehicle allowance is the same as the rate determined
+by the “cents per kilometre” method used by the Australian Taxation
+Office.
+
+58. Additional role allowances
+58.1
+The Managing Director will approve payment of an additional role
+allowance of $28 per fortnight, fixed for the life of this agreement, for
+employees performing one or more of the following roles:
+(a)
+
+First Aid Officer;
+
+(b)
+
+Fire Warden or Deputy Fire Warden;
+
+(c)
+
+Harassment Contact Officer; and/or
+
+(d)
+
+Health and Safety Representative.
+
+29
+Defence Housing Australia Enterprise Agreement 2021
+
+58.2
+
+Any costs involved in attaining or retaining required qualifications for the
+additional roles will be paid or reimbursed as approved by the Managing
+Director.
+
+59. School holiday care allowance
+59.1
+The Managing Director may approve a school holiday care allowance
+where the employee has:
+
+59.2
+
+(a)
+
+more than 12 months continuous service with DHA;
+
+(b)
+
+less than 20 days of Annual leave credits, or the employee has
+more than 20 days of Annual leave credits, but the employee’s
+manager is unable to approve an application for Annual leave
+during the school holidays due to operational requirements; and
+
+(c)
+
+children under the age of 12 who are being cared for during the
+school holidays by a child care provider or a person who is not
+the employee’s partner or older child.
+
+Where eligible for the school holiday care allowance, and upon
+production of evidence of expenditure, the employee will be paid a
+taxable allowance of $30 per day per child to a maximum of $300 per
+week for an individual employee.
+
+PART I. OTHER ENTITLEMENTS
+60. Professional memberships
+60.1
+Where the Managing Director requires an employee to hold a
+professional membership, DHA will pay or reimburse the costs of such
+membership.
+61. Relocation assistance
+61.1
+Where an employee is required by the Managing Director to relocate to
+another DHA office that requires the employee to move residence, the
+Managing Director will pay or reimburse reasonable costs incurred by the
+employee as a result.
+62. Employee Assistance Program
+62.1
+DHA will make available to all employees and their immediate families a
+service to provide confidential, professional counselling to help resolve
+work related and personal problems.
+63. Flu vaccination
+63.1
+DHA will provide all employees with the opportunity to receive a flu
+vaccination each year by either provision of or reimbursement for a flu
+vaccination service.
+30
+Defence Housing Australia Enterprise Agreement 2021
+
+PART J. CONSULTATION
+64. Staff Consultative Group
+64.1
+DHA will continue to operate a Staff Consultative Group (SCG) under this
+Agreement.
+65. Consultation
+65.1
+This term applies if the employer:
+(a)
+
+has made a definite decision to introduce a major change to
+production, program, organisation, structure or technology in
+relation to its enterprise that is likely to have a significant effect
+on the employees; or
+
+(b)
+
+proposes to introduce a change to the regular roster or ordinary
+hours of work of employees.
+
+Major change
+65.2
+
+For a major change referred to in clause 65.1(a):
+(a)
+
+the employer must notify the relevant employees of the decision
+to introduce the major change; and
+
+(b)
+
+clauses 65.3 to 65.9 apply.
+
+65.3
+
+The relevant employees may appoint a representative for the purposes of
+the procedures in this term.
+
+65.4
+
+If:
+(a)
+
+a relevant employee appoints, or relevant employees appoint, a
+representative for the purposes of consultation; and
+
+(b)
+
+the employee or employees advise the employer of the identity of
+the representative;
+
+the employer must recognise the representative.
+65.5
+
+As soon as practicable after making its decision, the employer must:
+(a)
+
+(b)
+
+discuss with the relevant employees:
+(i)
+
+the introduction of the change;
+
+(ii)
+
+the effect the change is likely to have on the employees;
+and
+
+(iii)
+
+measures the employer is taking to avert or mitigate the
+adverse effect of the change on the employees; and
+
+for the purposes of the discussion—provide, in writing, to the
+relevant employees:
+(i)
+
+all relevant information about the change including the
+nature of the change proposed; and
+31
+
+Defence Housing Australia Enterprise Agreement 2021
+
+(ii)
+
+information about the expected effects of the change on
+the employees; and
+
+(iii)
+
+any other matters likely to affect the employees.
+
+65.6
+
+The employer is not required to disclose confidential or commercially
+sensitive information to the relevant employees.
+
+65.7
+
+The employer must give prompt and genuine consideration to matters
+raised about the major change by the relevant employees.
+
+65.8
+
+If a term in this agreement provides for a major change to production,
+program, organisation, structure or technology in relation to the enterprise
+of the employer, the requirements set out in paragraph 65.2(a) and
+subclauses 65.3 and 65.5 are taken not to apply.
+
+65.9
+
+In this term, a major change is likely to have a significant effect on
+employees if it results in:
+(a)
+
+the termination of the employment of employees; or
+
+(b)
+
+major change to the composition, operation or size of the
+employer’s workforce or to the skills required of employees; or
+
+(c)
+
+the elimination or diminution of job opportunities (including
+opportunities for promotion or tenure); or
+
+(d)
+
+the alteration of hours of work; or
+
+(e)
+
+the need to retrain employees; or
+
+(f)
+
+the need to relocate employees to another workplace;
+
+(g)
+
+the restructuring of jobs.
+
+Change to regular roster or ordinary hours of work
+65.10
+
+For a change referred to in clause 65.1(b):
+(a)
+
+the employer must notify the relevant employees of the proposed
+change; and
+
+(b)
+
+clauses 65.11 to 65.15 apply.
+
+65.11
+
+The relevant employees may appoint a representative for the purposes of
+the procedures in this term.
+
+65.12
+
+If:
+(a)
+
+a relevant employee appoints, or relevant employees appoint, a
+representative for the purposes of consultation; and
+
+(b)
+
+the employee or employees advise the employer of the identity of
+the representative;
+
+the employer must recognise the representative.
+65.13
+
+As soon as practicable after proposing to introduce the change, the
+employer must:
+32
+
+Defence Housing Australia Enterprise Agreement 2021
+
+(a)
+
+discuss with the relevant employees the introduction of the
+change; and
+
+(b)
+
+for the purposes of the discussion—provide to the relevant
+employees:
+
+(c)
+
+(i)
+
+all relevant information about the change, including the
+nature of the change; and
+
+(ii)
+
+information about what the employer reasonably believes
+will be the effects of the change on the employees; and
+
+(iii)
+
+information about any other matters that the employer
+reasonably believes are likely to affect the employees; and
+
+invite the relevant employees to give their views about the impact
+of the change (including any impact in relation to their family or
+caring responsibilities).
+
+65.14
+
+However, the employer is not required to disclose confidential or
+commercially sensitive information to the relevant employees.
+
+65.15
+
+The employer must give prompt and genuine consideration to matters
+raised about the change by the relevant employees.
+
+65.16
+
+In this term:
+relevant employees means the employees who may be affected by a
+change referred to in clause 65.1.
+
+PART K. REDUNDANCY
+66. General
+66.1
+This part only applies to an ongoing employee not subject to a probation
+period.
+66.2
+
+The Managing Director may retrench an employee where DHA has made
+a definite decision that it no longer requires an employee's job to be
+performed by the employee, or anyone else.
+
+66.3
+
+DHA may no longer require an employee's job to be performed by
+anyone, for reasons including:
+(a)
+
+there is a greater number of employees at a particular
+classification than is necessary for the efficient and economical
+working of DHA; or
+
+(b)
+
+the services of the employee cannot be effectively used because
+of technological or other changes in the work methods of DHA or
+structural or other changes in the nature, extent or organisation
+of the functions of DHA.
+
+33
+Defence Housing Australia Enterprise Agreement 2021
+
+67. Assistance to employees
+67.1
+An employee who may be retrenched will be entitled to the following:
+(a)
+
+information about the value of the employee’s termination
+payments if the employee is retrenched;
+
+(b)
+
+discussions about possible redeployment opportunities;
+
+(c)
+
+reimbursement of reasonable costs associated with the provision
+of financial assistance as approved prior to the retrenchment
+date of effect; and
+
+(d)
+
+where the employee chooses, referral to a career transition
+service.
+
+68. Severance entitlements
+68.1
+An employee terminated by the Managing Director on the grounds that
+the employee is excess to the requirements of DHA is entitled to
+payment of a redundancy benefit of an amount equal to two (2) weeks’
+salary for each completed year of continuous service, plus a pro rata
+payment for completed months of service since the last completed year
+of service, subject to any minimum amount the employee is entitled to
+under the National Employment Standards.
+68.2
+
+Earlier periods of service may count provided there are no breaks
+between the periods of service, except where a break in service is less
+than one (1) month and occurs where an offer of employment with the
+new employer was made and accepted by the employee before ceasing
+employment with the preceding employer.
+
+68.3
+
+Any period of service which ceased by way of any of the grounds for
+termination specified in Section 29 of the Public Service Act 1999
+(including any additional grounds prescribed in the Public Service
+Regulations); or on a ground equivalent to any of these grounds; or
+through voluntary retirement at or above the minimum retiring age
+applicable to the employee; or with the payment of a redundancy or
+similar payment or an employer-financed retirement benefit; will not count
+as service for severance pay purposes.
+
+68.4
+
+The minimum severance payment will be four (4) weeks’ salary and the
+maximum will be 48 weeks' salary.
+
+68.5
+
+The redundancy benefit will be calculated on a pro rata basis for any
+period where an employee has worked part-time hours during the period
+of service and the employee has less than 24 years of full-time service,
+subject to any minimum amount the employee is entitled to under the
+National Employment Standards.
+
+68.6
+
+For the purposes of sub-clause 68.1, the period of continuous service
+includes Government service as defined in Section 10 of the Long
+Service Leave (Commonwealth Employees) Act 1976.
+34
+
+Defence Housing Australia Enterprise Agreement 2021
+
+68.7
+
+For the purposes of sub-clause 68.1, absences from work which do not
+count as service for long service leave purposes will not count as
+continuous service for severance pay purposes.
+
+68.8
+
+For the purposes of sub-clause 68.1, the employee’s salary will be the
+higher of:
+
+68.9
+
+(a)
+
+the employee’s annual base salary at their permanent
+classification level; or
+
+(b)
+
+the salary payable at a higher classification level where the
+employee has been temporarily performing work and has been
+paid at that higher classification level for a period of 12 months or
+more immediately preceding the date on which DHA gave the
+employee notice of their termination.
+
+An employee will not be entitled to severance pay where DHA offers the
+employee comparable employment and the employee refuses that offer.
+
+69. Notice of termination on retrenchment
+69.1
+Where the employee is to be terminated or retrenched, the Managing
+Director will provide the employee with the notice of termination set out in
+clauses 73.2 to 73.4.
+70. Reduction in classification
+70.1
+The Managing Director may, in order to prevent an employee being
+retrenched, reduce the employee’s classification by one (1) level, or two
+(2) levels with the employee’s consent, provide alternative duties or
+secure comparable employment for the employee with another employer.
+70.2
+
+Where the Managing Director reduces the classification level of the
+employee under sub-clause 70.1, the employee will be entitled to income
+maintenance payments to maintain salary at the previous classification
+level for a period that is equal to two (2) weeks for every year of service
+(as defined by sub-clauses 68.6 and 68.7), subject to a minimum period
+of four (4) weeks and a maximum period of 48 weeks.
+
+PART L. DISPUTE RESOLUTION
+71. Procedures for preventing and settling disputes
+71.1
+If a dispute relates to:
+(a)
+
+a matter arising under this Agreement; or
+
+(b)
+
+the National Employment Standards;
+
+this part sets out procedures to settle the dispute.
+71.2
+
+An employee who is a party to the dispute may appoint a representative
+for the purposes of the procedures in this part.
+35
+
+Defence Housing Australia Enterprise Agreement 2021
+
+71.3
+
+In the first instance, the parties to the dispute must try to resolve the
+dispute at the workplace level, by discussions between the employee or
+employees and the relevant supervisors and/or managers.
+
+71.4
+
+If discussions at the workplace level do not resolve the dispute, a party to
+the dispute may refer the matter to the Fair Work Commission.
+
+71.5
+
+The Fair Work Commission may deal with the dispute in two stages:
+(a)
+
+The Fair Work Commission will first attempt to resolve the
+dispute as it considers appropriate, including by mediation,
+conciliation, expressing an opinion or making a recommendation;
+and
+
+(b)
+
+if the Fair Work Commission is unable to resolve the dispute at
+the first stage, the Fair Work Commission may then:
+(i)
+
+arbitrate the dispute; and
+
+(ii)
+
+make a determination that is binding on the parties.
+
+Note:
+
+If the Fair Work Commission arbitrates the dispute, it may also use the powers
+that are available to it under the Fair Work Act 2009. A decision that the Fair
+Work Commission makes when arbitrating a dispute is a decision for the purpose
+of Division 3 of Part 5.1 of the Fair Work Act 2009. Therefore, an appeal may be
+made against the decision.
+
+71.6
+
+While the parties are trying to resolve the dispute using the procedures in
+this part:
+(a)
+
+an employee must continue to perform work normally unless the
+employee has a reasonable concern about an imminent risk to
+health or safety; and
+
+(b)
+
+an employee must comply with a direction given by the employer
+to perform other available work at the same workplace, or at
+another workplace, unless;
+(i)
+
+the work is not safe;
+
+(ii) applicable occupational health and safety legislation would
+not permit the work to be performed;
+(iii) the work is not appropriate for the employee to perform; or
+(iv) there are other reasonable grounds for the employee to
+refuse to comply with the direction.
+71.7
+
+The parties to the dispute agree to be bound by a decision made by the
+Fair Work Commission in accordance with this part.
+
+36
+Defence Housing Australia Enterprise Agreement 2021
+
+PART M. TERMINATION OF EMPLOYMENT
+72. Resignation
+72.1
+An employee may resign at any time, and for whatever reason, and
+should give two (2) weeks written notice of their resignation from
+employment. The required notice period may be shortened or waived by
+the Managing Director.
+73. Cessation of employment
+Termination for serious misconduct
+73.1
+
+Nothing in this Agreement prevents DHA from terminating the
+employment of an employee for breaching the APS Code of Conduct,
+without further notice or payment in lieu of notice, in accordance with the
+Fair Work Act 2009 and associated regulations dealing with serious
+misconduct, and the Public Service Act 1999.
+
+Notice of termination
+73.2
+
+The Managing Director will provide employees with notice of termination
+in accordance with the following notice periods:
+Period of continuous service
+in the APS
+
+Period of notice
+
+Not more than 1 year
+
+1 week
+
+More than 1 year but not more than 3 years
+
+2 weeks
+
+More than 3 years but not more than 5 years
+
+3 weeks
+
+More than 5 years
+
+4 weeks
+
+73.3
+
+73.4
+
+The required period of notice set out in sub-clause 73.2 is increased by
+one (1) week where the employee:
+(a)
+
+is over 45 years of age; and
+
+(b)
+
+has completed at least two (2) years of continuous service with
+the APS.
+
+The Managing Director may elect to pay an employee in lieu of all or part
+of the required notice provided for in sub-clauses 73.2 and 73.3.
+
+Invalidity retirement
+73.5
+
+An employee will not, without their consent, be terminated on invalidity
+grounds before their available personal leave credits have been used,
+unless otherwise provided by legislation.
+37
+
+Defence Housing Australia Enterprise Agreement 2021
+
+Termination payments
+73.6
+
+Where an employee ceases employment with DHA, the employee will
+receive payment in lieu of unused annual leave credits. This payment
+will be based on the employee’s final base salary.
+
+Payment on death
+73.7
+
+Where an employee dies, or is assumed by DHA to have died, the
+Managing Director will authorise the payment of the amount to which the
+former employee would have been entitled had the employee resigned
+on that date, including accrued annual leave and long service leave,
+taking into account any relevant taxation legislation.
+
+73.8
+
+Payment of an amount authorised by DHA under sub-clause 73.7 shall
+be made to the executor of the former employee’s estate, the
+administrator of the former employee’s estate, the public trustee or such
+other person as the law requires in the jurisdiction pertaining to the
+former employee.
+
+74. Review of decisions to terminate employment
+74.1
+Termination of, or a decision to terminate, employment cannot be
+reviewed under the dispute prevention and settlement procedures
+addressed in clause 71 of this Agreement.
+
+38
+Defence Housing Australia Enterprise Agreement 2021
+
+Appendix 1 - Pay rates – Classification Structure
+
+Pay
+DHA level
+point
+
+Salary
+from
+start of
+this
+Agreement
+
+Higher duties
+adjustment to
+pay scales
+
+Initial pay
+increase
+
+Salary
+12 months
+from start of
+Agreement
+
+Salary
+24 months
+from start of
+Agreement
+
+DHA Trainee
+
+Min
+
+$49,334
+
+$49,334
+
+$50,321
+
+$51,327
+
+$52,354
+
+(APS Technical)
+
+Max
+
+$56,184
+
+$56,184
+
+$57,308
+
+$58,454
+
+$59,623
+
+DHA Level 1
+
+Min
+
+$51,598
+
+$51,598
+
+$52,630
+
+$53,683
+
+$54,757
+
+(APS Level 1)
+
+Max
+
+$57,700
+
+$57,700
+
+$58,854
+
+$60,031
+
+$61,232
+
+DHA Level 2
+
+Min
+
+$56,568
+
+$58,700
+
+$59,874
+
+$61,071
+
+$62,292
+
+(APS Level 2)
+
+Max
+
+$63,424
+
+$63,424
+
+$64,692
+
+$65,986
+
+$67,306
+
+DHA Level 3
+
+Min
+
+$64,752
+
+$64,752
+
+$66,047
+
+$67,368
+
+$68,715
+
+(APS Level 3)
+
+Max
+
+$71,748
+
+$71,748
+
+$73,183
+
+$74,647
+
+$76,140
+
+DHA Level 4
+
+Min
+
+$70,394
+
+$72,748
+
+$74,203
+
+$75,687
+
+$77,201
+
+(APS Level 4)
+
+Max
+
+$78,662
+
+$78,662
+
+$80,235
+
+$81,840
+
+$83,477
+
+DHA Level 5
+
+Min
+
+$79,309
+
+$79,662
+
+$81,255
+
+$82,880
+
+$84,538
+
+(APS Level 5)
+
+Max
+
+$86,564
+
+$86,564
+
+$88,295
+
+$90,061
+
+$91,862
+
+DHA Level 6
+
+Min
+
+$87,550
+
+$87,564
+
+$89,315
+
+$91.101
+
+$92,923
+
+(APS Level 6)
+
+Max
+
+$100,665
+
+$100,665
+
+$102,678
+
+$104,732
+
+$106,827
+
+Executive
+
+Min
+
+$106,293
+
+$106,293
+
+$108,419
+
+$110,587
+
+$112,799
+
+Level 1
+
+Max
+
+$129,722
+
+$129,722
+
+$132,316
+
+$134,962
+
+$137,661
+
+Executive
+
+Min
+
+$126,316
+
+$131,722
+
+$134,356
+
+$137,043
+
+$139,784
+
+Level 2
+
+Max
+
+$162,076
+
+$162,076
+
+$165,318
+
+$168,624
+
+$171,996
+
+Broadband 1
+
+Broadband 2
+
+Executive Level
+
+39
+Defence Housing Australia Enterprise Agreement 2021
+
+Appendix 2 – Performance bonus buy-out
+In accordance with clause 9, ongoing and non-ongoing employees working full
+time or part time covered by this agreement will be paid a one off taxable
+performance bonus buy out based on their substantive classification in
+accordance with the following table:
+Classification
+DHAL3
+DHAL4
+DHAL5
+DHAL6
+EXECL1
+EXECL2
+
+Bonus buy out
+$5,500
+$6,500
+$7,500
+$9,000
+$11,000
+$13,100
+
+40
+Defence Housing Australia Enterprise Agreement 2021
+
+Appendix 3 – Definitions
+Term
+
+Definition
+
+APS
+
+Australian Public Service.
+
+DHA
+
+Defence Housing Australia, the body created under the
+Defence Housing Australia Act 1987.
+
+Employee
+
+Means a person employed and paid by DHA and who is
+covered by this Agreement.
+
+Fair Work Act
+
+The Fair Work Act 2009 (Commonwealth) as amended or
+replaced.
+
+Fair Work
+Commission
+Fair Work Regulations
+Home
+
+Household member
+
+Immediate family
+
+Medical certificate
+Non-ongoing
+(temporary) APS
+employee
+Ongoing APS
+employee
+
+Fair Work Commission as established under the Fair Work
+Act.
+Fair Work Regulations as established under the Fair Work
+Act.
+The place that the employee normally resides and travels to
+and from in order to meet employment obligations.
+A person who usually resides in the same dwelling as the
+employee, with common provision for food or other essentials
+for living.
+(a) Means a spouse (includes a former spouse), de facto
+partner (includes a former de facto partner), child, foster
+child, parent, grandparent, grandchild or sibling of the
+employee; or
+(b) Means a child, foster child, parent, grandparent,
+grandchild or sibling of a spouse (includes a former
+spouse) or de facto partner (includes a former de facto
+partner) of the employee; and
+(c) Includes a member of the employee’s cultural kinship
+group or extended family where the employee is able to
+establish that the person has a similar relationship to that
+of a parent, grandparent, child, grandchild or sibling.
+Means a certificate signed by a registered health practitioner.
+An employee who is a non-ongoing employee as defined by
+the Public Service Act 1999.
+An employee who is an ongoing employee as defined by the
+Public Service Act 1999.
+
+De facto partner
+
+Means a person who, although not legally married to the
+employee,
+(a) lives with the employee in a relationship as a couple on a
+genuine domestic basis (whether the employee and the
+person are of the same sex or different sexes); and
+(b) includes a former de facto partner of the employee.
+
+Public Service Act
+
+The Public Service Act 1999 (Commonwealth).
+
+41
+Defence Housing Australia Enterprise Agreement 2021
+
+Registered health
+practitioner
+
+Means a health practitioner registered, or licensed, as a
+health practitioner (or as a health practitioner of a particular
+type) under a law of a State or Territory that provides for the
+registration or licensing of health practitioners (or health
+practitioners of that type).
+
+Retrenchment
+
+The termination of an employee’s employment under section
+29 of the Public Service Act on the grounds that the
+employee is excess to the requirements of DHA.
+
+42
+Defence Housing Australia Enterprise Agreement 2021
+
+Appendix 4 – Supported salary rates and conditions of
+employment
+4.1
+
+Supported salary rates and conditions of employment will apply to an
+employee with a disability who is eligible for consideration under the
+Supported Wage System (the System).
+
+4.2
+
+Employees covered by the System will be those who are unable to perform
+the range of duties to the competence level required within the class of
+work for which the employee is engaged, because of the effects of a
+disability on their productive capacity and who meet the impairment criteria
+test for a Disability Support Pension.
+
+4.3
+
+The schedule does not apply to any existing employee who has a claim
+against the employer which is subject to the provisions of workers
+compensation legislation or any provision of this agreement relating to the
+rehabilitation of employees who are injured in the course of their
+employment.
+
+Supported wage rates
+4.4
+
+Employees to whom the System applies will be paid the applicable
+percentage of the salary prescribed by this Agreement for the class of work
+which the person is performing according to the following schedule:
+Assessed Capacity
+
+% of Prescribed Salary
+
+10%
+
+10%
+
+20%
+
+20%
+
+30%
+
+30%
+
+40%
+
+40%
+
+50%
+
+50%
+
+60%
+
+60%
+
+70%
+
+70%
+
+80%
+
+80%
+
+90%
+
+90%
+
+43
+Defence Housing Australia Enterprise Agreement 2021
+
+(Provided that the minimum amount payable is not less than the minimum
+amount determined by the Annual Wage Review by the Fair Work
+Commission).
+4.5
+
+When an employee’s assessed capacity is 10 per cent, a higher degree of
+assistance and support will be provided. Assessment made under this
+schedule must be documented in a Supported Wage System wage
+assessment agreement, and retained by the employer as a time and wage
+record in accordance with the Act.
+
+Assessment of capacity
+4.6
+
+For the purpose of establishing the percentage of the salary to be paid to
+an employee, the productive capacity of the employee will be assessed in
+accordance with the System and documented in the assessment
+instrument.
+
+Lodgement of assessment instrument
+4.7
+
+All assessment instruments will be agreed and signed by the parties to the
+assessment. All assessment instruments, including the appropriate
+percentage of the salary to be paid to the employee, will be lodged by the
+employer with the Fair Work Commission.
+
+Review of assessment
+4.8
+
+The assessment of the applicable percentage should be subject to annual
+review or earlier, on the basis of a reasonable request for a review. The
+process of review will be in accordance with the procedures for assessing
+capacity under the System.
+
+Other terms and conditions of employment
+4.9
+
+Where an assessment has been made, the applicable percentage will
+apply to salary only. Employees covered by the provisions of the System
+will be entitled to the same terms and conditions of employment as all other
+workers covered by the Agreement, paid on a pro rata basis.
+
+Workplace adjustment
+4.10
+
+DHA will take reasonable steps to enhance the employee’s capacity to
+undertake assigned work. This may include re-design of role duties,
+changing working time arrangements and work organisation.
+
+44
+Defence Housing Australia Enterprise Agreement 2021
+
+Trial period
+4.11
+
+In order for an adequate assessment of the employee’s capacity to be
+made, an employer may employ a person under the provisions of the
+System for a trial period not exceeding twelve weeks, except that in some
+cases additional work adjustment time (not exceeding four (4) weeks) may
+be needed.
+
+4.12
+
+During that trial period the assessment of capacity will be undertaken and
+the percentage of the relevant minimum wage for a continuing employment
+relationship will be determined. The minimum amount payable to the
+employee during the trial period will be not less than the minimum amount
+determined by the Annual Wage Review by the Fair Work Commission.
+
+4.13
+
+Work trials should include induction or training as appropriate to the job
+being trialled.
+
+4.14
+
+Where DHA and the employee wish to establish a continuing employment
+relationship following the completion of the trial period, a further contract
+of employment will be entered into based on the outcome of assessment.
+
+45
+Defence Housing Australia Enterprise Agreement 2021
+
+SIGNATORIES
+Defence Housing Australia
+Signed for Defence Housing Australia by:
+Barry Jackson
+Managing Director
+26 Brisbane Avenue
+BARTON ACT 2600
+
+Signature:
+Date:
+
+Employee Bargaining Representative: Community and Public Sector Union
+Signed for and on behalf of the Community and Public Sector Union as a bargaining
+representative:
+Melissa Payne
+CPSU Deputy National President
+40 Brisbane Avenue
+BARTON ACT 2600
+
+Signature:
+Date:
+46
+Defence Housing Australia Enterprise Agreement 2021
+
+OFFICIAL
+
+IN THE FAIR WORK COMMISSION
+FWC Matter No.:
+AG2020/3755
+Applicant:
+Defence Housing Australia
+Section 185 - Application for approval of a single enterprise agreement
+
+Undertaking - Section 190
+I, Barry Jackson, Managing Director have the authority given to me by Defence Housing
+Australia to give the following undertakings with respect to the Defence Housing Australia
+Enterprise Agreement 2021 ("the Agreement"):
+1. Defence Housing Australia (DHA) undertakes that where an employee is engaged as
+either a Cadet or a Graduate, the employee will be classified as a Broadband 2.
+2. Any broadbanded classifications created in accordance with clause 20.3, will only be formed
+by banding together existing classifications as identified in Appendix 1. Employees who fall
+within a newly created broadbanded classification will not be assigned a classification lower than
+their existing classification at the time the broadbanded classification was created. These
+employees will be eligible for upward movement within the broadband in accordance with clause
+20.2.
+3. Where DHA requires an employee to work according to a roster which includes
+ordinary hours falling between 6:30pm and 6:30am Monday to Friday, or from 6:00 pm to
+6:30 am Monday to Friday if the employee is classified as a trainee, the employee will be entitled
+to a shift penalty of 15 per cent.
+4. Where DHA requires an employee to work a continuous night shift during Monday to
+Friday, the employee will be entitled to a shift penalty of 30 per cent. A continuous night shift is
+where the shifts fall wholly within the period 6:00pm and 8:00am and are worked for a period
+exceeding four weeks.
+5. DHA undertakes that where an employee is required to work overtime not continuous
+with normal duty between 6:30pm and 6:30am Monday to Friday, the employee will
+be entitled to overtime in accordance with the provisions of clauses 32.4 to 32.6 of the
+Agreement.
+These undertakings are provided on the basis of issues raised by the Fair Work Commission
+in the application before the Fair Work Commission.
+
+OFFICIAL
+
+

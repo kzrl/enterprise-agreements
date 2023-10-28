@@ -1,0 +1,2202 @@
+[2018] FWCA 6664
+
+DECISION
+Fair Work Act 2009
+s.185—Enterprise agreement
+
+The Treasury
+(AG2018/4705)
+
+TREASURY ENTERPRISE AGREEMENT 2018-2021
+Commonwealth employment
+DEPUTY PRESIDENT KOVACIC
+
+CANBERRA, 29 OCTOBER 2018
+
+Application to approve the Treasury Enterprise Agreement 2018-2021.
+[1]
+An application has been made for approval of an enterprise agreement known as the
+Treasury Enterprise Agreement 2018-2021 (the Agreement). The application was made
+pursuant to s.185 of the Fair Work Act 2009 (the Act). It has been made by The Treasury. The
+Agreement is a single enterprise agreement.
+[2]
+I am satisfied that each of the requirements of ss.186, 187 and 188 as are relevant to
+this application for approval have been met.
+[3]
+The Community and Public Sector Union being a bargaining representative for the
+Agreement, has given notice under s.183 of the Act that it wants the Agreement to cover it. In
+accordance with s.201(2) I note that the Agreement covers the organisation.
+[4]
+The Agreement is approved and, in accordance with s.54 of the Act, will operate from
+5 November 2018. The nominal expiry date of the Agreement is 5 November 2021.
+
+Printed by authority of the Commonwealth Government Printer
+<AE500610 PR701836>
+
+1
+
+Treasury Enterprise
+Agreement
+2018-2021
+
+Table of contents
+Part 1 — Scope ............................................................................................................................. 1
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+
+Title .........................................................................................................................................................1
+Parties .....................................................................................................................................................1
+Operation................................................................................................................................................1
+Entitlements under Commonwealth laws ..............................................................................................1
+Delegation ..............................................................................................................................................2
+Individual Flexibility Arrangement ..........................................................................................................2
+General consultation with employees ....................................................................................................3
+Consultation relating to major change ...................................................................................................3
+
+Part 2 — Flexible working conditions ............................................................................................ 5
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+
+Responsibilities .......................................................................................................................................5
+Attendance and hours of duty ................................................................................................................5
+Flextime ..................................................................................................................................................6
+Overtime and time off in lieu .................................................................................................................7
+Public holidays ........................................................................................................................................8
+Christmas closedown ..............................................................................................................................9
+
+Part 3 — Leave entitlements ........................................................................................................10
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+3.8
+3.9
+3.10
+3.11
+3.12
+3.13
+3.14
+3.15
+
+Application and approval of leave ........................................................................................................10
+Annual leave .........................................................................................................................................10
+Personal leave.......................................................................................................................................10
+Carer’s leave .........................................................................................................................................11
+Purchased leave ....................................................................................................................................12
+Sabbatical leave ....................................................................................................................................12
+Compassionate leave ............................................................................................................................12
+Parental leave .......................................................................................................................................12
+Adoption and permanent foster care leave .........................................................................................13
+Short-term foster care leave ................................................................................................................14
+Long service leave .................................................................................................................................14
+Defence reservists leave .......................................................................................................................14
+Miscellaneous leave .............................................................................................................................15
+Unauthorised absence ..........................................................................................................................15
+Payment in lieu of leave entitlements on death of employee .............................................................15
+
+Part 4 — Conditions of engagement .............................................................................................16
+4.1
+4.2
+4.3
+4.4
+4.5
+
+Portability of leave ................................................................................................................................16
+Non-ongoing employees.......................................................................................................................16
+Casual employees .................................................................................................................................16
+Resignation ...........................................................................................................................................17
+Probation ..............................................................................................................................................17
+
+Part 5 — Remuneration ...............................................................................................................18
+5.1
+5.2
+5.3
+5.4
+
+Payment of salary .................................................................................................................................18
+Superannuation ....................................................................................................................................18
+Performance management ...................................................................................................................18
+Application of pay rates ........................................................................................................................19
+
+ii
+
+5.5
+5.6
+
+Flexible remuneration packaging .........................................................................................................22
+Supported salary ...................................................................................................................................22
+
+Part 6 — Allowances and reimbursements ...................................................................................23
+6.1
+6.2
+6.3
+6.4
+6.5
+6.6
+6.7
+6.8
+6.9
+6.10
+6.11
+6.12
+
+Minimum allowance rates ....................................................................................................................23
+Travel allowance ...................................................................................................................................23
+Overtime meal allowance .....................................................................................................................23
+First aid officer allowance .....................................................................................................................23
+Departmental Liaison Officer allowance ..............................................................................................23
+Restriction allowance ...........................................................................................................................23
+Establishment allowance — graduate recruitment ..............................................................................24
+Lifestyle contribution ............................................................................................................................24
+Family responsibilities ..........................................................................................................................24
+Loss, damage and indemnity ................................................................................................................24
+Relocation expenses on engagement or reassignment of duties .........................................................24
+Overseas conditions of service .............................................................................................................24
+
+Part 7 — Management of excess employees ................................................................................25
+7.1
+7.2
+7.3
+7.4
+7.5
+7.6
+7.7
+7.8
+7.9
+7.10
+
+Application ............................................................................................................................................25
+Definition of ‘excess’ ............................................................................................................................25
+Process ..................................................................................................................................................25
+Entitlement ...........................................................................................................................................26
+Service for redundancy pay purposes ..................................................................................................27
+Service not to count as service for redundancy pay purposes .............................................................27
+Earlier periods of service ......................................................................................................................28
+Rate of payment — redundancy pay ....................................................................................................28
+Period of notice — termination ............................................................................................................28
+Reduction in classification ....................................................................................................................29
+
+Part 8 — Dispute resolution .........................................................................................................30
+8.1
+
+Dispute resolution procedures .............................................................................................................30
+
+Part 9 — Definitions ....................................................................................................................32
+Schedule A — Rates of pay ..........................................................................................................34
+
+iii
+
+Part 1 — Scope
+1.1
+
+Title
+a) This Agreement shall be known as the Treasury Enterprise Agreement 2018-2021.
+
+1.2
+
+Parties
+a) In accordance with section 172(2) of the Fair Work Act 2009, this Agreement covers the
+Secretary of the Treasury (on behalf of the Commonwealth) and all Treasury employees
+employed under the Public Service Act 1999, except for:
+
+1.3
+
+i.
+
+Senior Executive Service (SES) employees;
+
+ii.
+
+employees employed in the Commonwealth Grants Commission;
+
+iii.
+
+employees employed in the Australian Office of Financial Management; and
+
+iv.
+
+employees employed in the Royal Australian Mint.
+
+Operation
+a) This Agreement will come into operation seven days after it is approved by the
+Fair Work Commission. The nominal expiry date of this Agreement will be three years
+after this Agreement comes into operation.
+b) Various employment provisions contained within this Agreement are administered in
+conjunction with Treasury policies and guidelines. These policies and guidelines do not
+form part of this Agreement but are indicative of how various employment provisions
+may be applied and are an integral part of Treasury’s management framework. This
+Agreement will prevail over those policies and guidelines to the extent of any
+inconsistency unless contrary to statute or common law. Such policies and guidelines
+will be available to all employees and will be updated as necessary following a
+reasonable consultation period.
+c) In the event of a dispute in relation to this Agreement, the parties will have access to
+the dispute resolution procedures set out in Part 8.
+d) This Agreement comprehensively states the terms and conditions of employment of the
+employees covered by this Agreement other than implied terms of the contract of
+employment and terms and conditions applying under a Commonwealth law.
+
+1.4
+
+Entitlements under Commonwealth laws
+a) This Agreement does not affect an employee’s entitlements, if any, contained in the
+Public Service Act 1999, the Fair Work Act 2009 and other Commonwealth legislation,
+including legislation relating to:
+
+i.
+
+long service leave;
+
+1
+
+1.5
+
+ii.
+
+maternity leave;
+
+iii.
+
+superannuation;
+
+iv.
+
+work health and safety;
+
+v.
+
+safety, rehabilitation and compensation; and
+
+vi.
+
+review of actions.
+
+Delegation
+a) The Secretary may delegate to, or authorise, a person to perform any of the Secretary’s
+powers or functions under this Agreement.
+
+1.6
+
+Individual Flexibility Arrangement
+a) The Secretary and an employee covered by this Agreement may agree to make an
+Individual Flexibility Arrangement (IFA) to vary the effect of terms of the Agreement if:
+i.
+
+the arrangement deals with one or more of the following matters:
+1) arrangements about when work is performed;
+2) overtime rates;
+3) penalty rates;
+4) allowances;
+5) leave and leave loading;
+6) remuneration; and
+
+ii.
+
+the IFA meets the genuine needs of Treasury and the employee in relation to one
+or more of the matters mentioned in clause 1.6(a)(i); and
+
+iii.
+
+the IFA is genuinely agreed to by the Secretary and the employee.
+
+b) The Secretary must ensure that the terms of the IFA:
+i.
+
+are about permitted matters under section 172 of the Fair Work Act 2009; and
+
+ii.
+
+are not unlawful terms under section 194 of the Fair Work Act 2009; and
+
+iii.
+
+result in the employee being better off overall than the employee would be if no
+arrangement was made.
+
+c) The Secretary must ensure that the IFA:
+i.
+
+is in writing; and
+
+ii.
+
+includes the name of the employer and employee; and
+2
+
+iii.
+
+is signed by the employer and employee and if the employee is under 18 years of
+age, signed by a parent or guardian of the employee; and
+
+iv.
+
+includes details of:
+1) the terms of this Agreement that will be varied by the arrangement; and
+2) how the arrangement will vary the effect of the terms; and
+3) how the employee will be better off overall in relation to the terms and
+conditions of their employment as a result of the arrangement; and
+
+v.
+
+states the day on which the arrangement commences.
+
+d) The Secretary must give the employee a copy of the IFA within 14 days after it is agreed
+to.
+e) The Secretary or employee may terminate the IFA:
+
+1.7
+
+i.
+
+by giving no more than 28 days’ written notice to the other party to the
+arrangement; or
+
+ii.
+
+if the Secretary and employee agree in writing — at any time.
+
+General consultation with employees
+a) Treasury has a Workplace Relations Committee (WRC).
+b) Treasury will consult with, and take into account the views of, the WRC on issues
+surrounding the implementation and operation of this Agreement, as these affect the
+employment conditions of employees. Treasury will allow a reasonable period for the
+WRC to consider issues.
+c) Treasury will continue to undertake consultation with employees outside the WRC
+forum.
+
+1.8
+
+Consultation relating to major change
+a) This clause applies where a definite decision is made to introduce major changes in a
+work area that are likely to have significant effects on employees, other than where
+provision is already made elsewhere in this Agreement regarding a specific major
+change.
+b) The Secretary must notify the employees who are likely to be affected by the proposed
+changes, where:
+
+i.
+
+a definite decision is made to introduce major changes in program, organisation,
+structure or technology that are likely to have significant effects on employees;
+or
+
+ii.
+
+there is a proposal to introduce a change to the regular roster or ordinary hours
+of work of an employee.
+3
+
+c) Significant effects include:
+
+i.
+
+termination of employment;
+
+ii.
+
+major changes in the composition, operation or size of the Treasury’s workforce
+or in the skills required;
+
+iii.
+
+the elimination or diminution of job opportunities, promotion opportunities or
+job tenure;
+
+iv.
+
+alteration in hours of work;
+
+v.
+
+the need to retrain employees;
+
+vi.
+
+the need to relocate employees to another workplace; and
+
+vii.
+
+the restructuring of jobs.
+
+d) The relevant employees may appoint a representative for the purposes of the
+procedures in this clause.
+e) The Secretary must discuss with the employees affected and their representatives, if
+any, the introduction of the changes referred to in clause 1.8(b)(i), the effects the
+changes are likely to have on employees and measures to avert or mitigate the adverse
+effects of such changes on employees and must give prompt and genuine consideration
+to matters raised by the employees and/or their representatives in relation to the
+changes.
+f)
+
+The Secretary must discuss with the employees affected and their representatives, if
+any, the introduction of the changes referred to in clause 1.8(b)(ii), and invite the
+relevant employees to give their views about the impact of the change (including any
+impact in relation to their family and caring responsibilities), and must give prompt and
+genuine consideration to any views given by the employees and/or their
+representatives about the impact of the change.
+
+g) The discussions must commence as early as practicable after a definite decision has
+been made to make the changes referred to in clause 1.8(b).
+h) For the purposes of such discussion, the employees concerned and their
+representatives, if any, are to be provided in writing all relevant information about the
+changes, including the nature of the changes proposed, the expected effects of the
+changes on employees and any other matters likely to affect employees. The Secretary
+is not required to disclose confidential or commercially sensitive information to the
+employees.
+
+4
+
+Part 2 — Flexible working conditions
+2.1
+
+Responsibilities
+a) Managers should ensure employees are able to access flexible working conditions
+through this Agreement, where eligible. It is the responsibility of individual employees
+to consult their managers when accessing flexible working conditions and to be aware
+that operational requirements may limit access at certain times. Further information on
+flexible work can be found in the Flexible Work Policy.
+
+2.2
+
+Attendance and hours of duty
+
+2.2.1
+
+Normal hours
+a) An employee’s normal hours are those hours and times, within the bandwidth, that the
+employee works on a regular basis.
+
+2.2.2
+
+Full-time employees
+a) The ordinary hours of work for a full-time employee are 38 hours each week, which
+translates to a standard day of 7 hours and 36 minutes from Monday to Friday, within a
+bandwidth from 7 am to 7 pm.
+Note: A manager and employee may agree to vary the bandwidth under clause 2.2.4.
+b) Using flexible working hours, employees are not expected to work more than 10 hours
+in any given day. Overtime (or, where agreed, time off in lieu of overtime for those who
+are entitled to overtime) will be paid for hours required by the manager to be worked
+outside the bandwidth or for work in excess of 10 hours on any one day, in accordance
+with clause 2.4.1.
+c) For this Agreement, a standard day for the purposes of leave, attendance (including
+flextime) and payment of salary shall constitute the hours 8:30 am to 12:30 pm and
+1:30 pm to 5:06 pm.
+d) For the purposes of section 62 of the Fair Work Act 2009 (maximum weekly hours), the
+parties agree that the averaging periods will be successive 26 week periods beginning
+on the day this Agreement comes into operation.
+
+2.2.3
+
+Part-time employees
+a) Any employee who has an agreement with their Division Head to work fewer hours
+than the standard week of 38 hours is a part-time employee.
+b) Managers will facilitate requests from full-time employees for part-time work
+arrangements, subject to Treasury’s operational requirements. All employees returning
+from parental, adoption or permanent foster care leave will have access to part-time
+work, where Treasury’s operational requirements permit, at least up until the child has
+
+5
+
+reached school age. A manager must provide a written response to the request for
+part-time work arrangements stating whether the request has been granted or refused.
+c) The terms and conditions of employment of a part-time employee shall be, unless
+otherwise provided for in this Agreement, those of full-time employees but reduced on
+a pro-rata basis (where appropriate) for the number of hours worked.
+d) An employee may return to full-time arrangements with the agreement of the Division
+Head. At the expiry of the part-time arrangement an employee has the right to revert
+to full-time work.
+e) Agreed part-time hours will be within the 7 am to 7 pm bandwidth.
+Note: A manager and employee may agree to vary the bandwidth under clause 2.2.4.
+f)
+
+2.2.4
+
+No full-time employee will be compelled to change to part-time arrangements.
+
+Variation of hours
+a) The 7 am to 7 pm bandwidth may be varied if the employee and manager agree, having
+regard to operational requirements, provided the length of the bandwidth period
+remains a minimum of 12 continuous hours.
+b) The bandwidth as varied will be taken to be the bandwidth for that employee for all
+purposes under this Agreement (including for the purposes of determining an
+employee’s eligibility to receive overtime payments).
+
+2.2.5
+
+Regular breaks
+a) An employee should not work more than five hours without a break of at least
+30 minutes.
+
+2.3
+
+Flextime
+a) Employees at or below the APS 6 level are entitled to access flextime. Further
+information can be found in the policy relating to flextime.
+b) Flextime arrangements include the following features:
+i.
+
+an employee may carry over a maximum of 38 hours as a flex credit or up to
+10 hours as a flex debit into the next settlement period.
+
+ii.
+
+a settlement period is a four week period.
+
+iii.
+
+an employee may take up to five days as flextime in any one settlement period,
+subject to operational requirements.
+
+6
+
+2.4
+
+Overtime and time off in lieu
+
+2.4.1
+
+APS level employees: overtime and time off in lieu
+a) Overtime is payable to employees at or below APS 6 level.
+b) Overtime will be paid at the appropriate penalty rate as prescribed in clause 2.4.1 for
+hours worked outside the bandwidth or in excess of 10 hours on any one day, with the
+approval of an employee’s manager.
+Note: A manager and employee may agree to vary the bandwidth under clause 2.2.4.
+c) For part-time employees at these levels, overtime is work performed at the direction of
+a manager which is not continuous with the employee’s agreed or specified hours or is
+beyond the total hours of work specified for the employee.
+d) For an employee eligible to receive overtime payments, overtime hours worked will be
+paid at the following penalty rates:
+i.
+
+overtime worked Monday to Saturday will be paid at the rate of time and a
+quarter for the first three hours each day and time and a half thereafter.
+
+ii.
+
+overtime worked on Sunday will be paid at the rate of time and a half.
+Emergency duty, where no notice is given to the employee prior to ceasing
+ordinary duty, will also be paid at the rate of time and a half.
+
+iii.
+
+overtime worked on a public holiday will be paid at the rate of double time. Duty
+on a public holiday, not in excess of the prescribed weekly hours (that is duty
+during prescribed standard hours) will be payable at ordinary time in addition to
+payment for the holiday.
+
+e) Where overtime is continuous with ordinary duty, overtime payments will be made for
+hours actually worked (that is, there will be no minimum period for which overtime will
+be paid). Where overtime is not continuous, or where overtime constitutes emergency
+duty, payment for each separate overtime attendance will be for a minimum of
+two hours.
+f)
+
+Where an employee is directed to work outside the bandwidth by their manager, the
+employee will be entitled to an eight hour break plus reasonable travelling time before
+commencing work again. If the break occurs during standard working hours, then the
+employee will receive their normal salary during that period.
+
+g) Clause 2.4.1(f) does not apply to an employee who is directed to work outside the
+bandwidth for a period of two hours or less and the period of work commences no
+earlier than two hours before the beginning of the bandwidth.
+h) Where a break as described in clause 2.4.1(f) is not possible due to operational
+requirements as approved by the employee’s manager, the employee will be paid for
+subsequent periods of work at the rate of time and a half of the employee’s salary until
+the employee has taken an eight hour break.
+
+7
+
+2.4.2
+
+i)
+
+Where agreed with managers, employees may take time off in lieu of overtime at the
+appropriate penalty rate specified in clause 2.4.1.
+
+j)
+
+Where time off in lieu of payment of overtime has been agreed, but the employee has
+not been granted that time off within four weeks or another agreed period due to
+operational requirements, the employee may elect to receive payment of the original
+entitlement.
+
+Executive level employees: flexible hours and time off in lieu
+a) Employees at the Executive Levels 1 and 2 are able to work flexible hours, under
+Treasury’s Time Off In Lieu (TOIL) system. This means that variations in attendance
+times and absences, including for part-day or full-day absences may be approved by
+managers without the need for a leave application. Further information on TOIL can be
+found in the TOIL Guidelines.
+
+2.5
+
+Public holidays
+a) Employees will be entitled to the following public holidays:
+i.
+
+New Year’s Day (1 January);
+
+ii.
+
+Australia Day (26 January);
+
+iii.
+
+Good Friday;
+
+iv.
+
+Easter Monday
+
+v.
+
+Anzac Day (25 April);
+
+vi.
+
+the Queen’s birthday holiday (on the day on which it is celebrated in a State or
+Territory or a region of a State or Territory);
+
+vii.
+
+Christmas Day (25 December);
+
+viii.
+
+Boxing Day (26 December); and
+
+ix.
+
+any other day, or part-day, declared or prescribed by or under a law of the State
+or Territory in which the employee is based for work purposes to be observed
+generally within the State or Territory, or a region of the State or Territory, as a
+public holiday, other than a day or part-day, or a kind of day or part-day, that is
+excluded by the Fair Work Regulations from counting as a public holiday.
+
+b) If under a state or territory law, a day or part-day is substituted for one of the public
+holidays listed above, then the substituted day or part-day is the public holiday.
+c) The Secretary and an employee may agree on the substitution of a day or part-day that
+would otherwise be a public holiday in the place the employee is based for work
+purposes, having regard to operational requirements.
+d) An employee, who is absent on a day or part-day that is a public holiday in the place
+where the employee is based for work purposes, is entitled to be paid for the part or
+8
+
+full day absence as if that day or part-day was not a public holiday, except where that
+person would not normally have worked on that day.
+e) Where a public holiday falls during a period when an employee is absent on
+long service leave, maternity and primary carer leave or adoption and permanent foster
+care leave there is no entitlement to receive payment as a public holiday. Payment for
+that day would be in accordance with the entitlement for that form of leave (for
+example if on long service leave half pay, payment is on half pay).
+
+2.6
+
+Christmas closedown
+a) Treasury will close its normal operations from the close of business on the last working
+day before Christmas Day, with business resuming on the first working day after New
+Year’s Day (Christmas closedown).
+b) Employees will be provided with time off between Christmas and New Year’s Day and
+will be paid in accordance with their ordinary hours of work. Where an employee is
+absent on long service leave, maternity and primary carer leave, or adoption and
+permanent foster care leave, payment for Christmas closedown will be in accordance
+with the entitlement for that form of leave (for example if on long service leave at half
+pay, payment is at half pay).
+c) With the exception of long service leave, maternity and primary carer leave or adoption
+and permanent foster care leave there will be no deduction from paid leave credits for
+the Christmas closedown.
+d) If an employee is directed to work on any of the working days during Christmas
+closedown, then the employee may elect to have their credit of annual leave increased
+by the equivalent period, or to receive the equivalent period as time off in lieu. In
+addition, employees who are directed to work on the first work day after the
+Boxing Day Public Holiday will be paid as if it were a public holiday.
+e) A part-time employee as defined in clause 2.2.3 who would not usually work one or
+more of the working days between Christmas Day and New Year’s Day will be granted a
+period of absence equal to 20 per cent of their weekly part-time hours for each of the
+days on which they would not usually work.
+f)
+
+An absence under clause 2.6 will count as service for all purposes.
+
+9
+
+Part 3 — Leave entitlements
+3.1
+
+Application and approval of leave
+a) All forms of leave must be applied for and approved by the Secretary or a manager as
+determined in this part. Approvals for leave apart from personal leave, carer’s leave,
+compassionate leave, maternity and primary carer leave, and adoption and permanent
+foster care leave, are subject to Treasury’s operational requirements. Further
+information on leave can be found in the Leave Guidelines.
+b) Where an employee takes more than 30 days in aggregate leave without pay in a
+calendar year (annual leave) or an accrual year (personal/carer’s leave), the whole
+period will not count as service for the purposes of annual and personal/carer’s leave
+accruals, subject to legislation.
+
+3.2
+
+Annual leave
+a) Annual leave will accrue at a rate of 20 days each year for a full-time employee and on
+a pro-rata basis for part-time employees.
+b) Annual leave is cumulative and accrues on a pro-rata basis.
+c) Annual leave will be credited daily and will be available for use as it accrues.
+d) Annual leave may be taken at half pay. When annual leave is taken at half pay,
+deductions from leave credits will be halved.
+e) If an employee has been credited more than 60 days of annual leave, the employee is
+to reach an agreement with their manager on a reasonable time period for taking up to
+a quarter of the credited annual leave.
+f)
+
+An employee may make a written agreement with their manager to cash out a
+particular amount of accrued annual leave, provided that after cash out the employee’s
+remaining entitlement to annual leave is 20 days or more. The employee will be paid
+the full amount that would have been payable had the employee taken the leave that
+has been forgone. Cash out of annual leave is subject to conditions in guidelines.
+
+g) Untaken annual leave will be paid out to the employee if the employment relationship
+ends, in accordance with the National Employment Standards.
+h) Employees in receipt of compensation for incapacity under the Safety, Rehabilitation
+and Compensation Act 1988 for more than 45 cumulative weeks will accrue annual
+leave credits on a pro-rata basis for hours actually worked.
+
+3.3
+
+Personal leave
+a) Personal leave may be used when an employee is ill or injured and is unable to attend
+for duty, or under the conditions described in clause 3.4 (carer’s leave).
+
+10
+
+b) Full-time employees will have a paid personal leave entitlement of 15 days each year.
+Part-time employees, other than casual employees, will accrue personal leave on a
+pro-rata basis. Personal leave credits are cumulative.
+c) Ongoing employees will accrue annual personal leave credits in advance. The annual
+accrual date will be deferred by periods of leave not to count as service of more than
+30 days in aggregate over the previous year.
+d) Non-ongoing employees will accrue four days personal leave after one month of service
+and one day for each month of service thereafter. Credits will be reduced by any
+amounts of leave not to count as service.
+e) Any unused personal leave entitlement will not be paid out on separation from
+Treasury.
+f)
+
+Personal leave may be taken at half pay for absences of at least one day. When
+personal leave is taken at half pay, deductions from leave credits will be halved.
+
+g) An employee will provide a medical certificate or, where it is not practical to provide a
+medical certificate, a statutory declaration or other supporting evidence acceptable to
+their manager in the following circumstances:
+i.
+
+when the employee is or will be absent on personal leave for three or more
+consecutive working days, unless the manager informs the employee that such
+evidence will not be required; or
+
+ii.
+
+if the manager has reason to believe that the employee’s absence is not
+consistent with the appropriate use of personal leave.
+
+h) Where an employee’s entitlement to personal leave is exhausted, the Division Head of
+People and Organisational Strategy Division may approve additional leave as paid,
+unpaid or half pay leave and may determine conditions under which the leave will
+apply.
+i)
+
+3.4
+
+Employees in receipt of compensation for incapacity under the Safety, Rehabilitation
+and Compensation Act 1988 for more than 45 cumulative weeks will accrue personal
+leave credits on a pro-rata basis for hours actually worked.
+
+Carer’s leave
+a) An employee may apply to use their accumulated personal leave to care for sick family,
+household members, or a person for whom they have caring responsibility.
+b) Carer’s leave is provided for circumstances that require an employee to be absent in
+order to care for a person described in clause 3.4(a) who is ill or injured and who is in
+need of care or where there is an unexpected emergency affecting the person.
+c) Employees with long-term or regular caring responsibilities may apply for carer’s leave
+when their existing arrangements fail.
+
+11
+
+d) The use of carer’s leave is subject to the same conditions as use of personal leave in
+respect of provision of medical certificates or statutory declarations.
+e) Paid carer’s leave will count as service for all purposes.
+f)
+
+3.5
+
+If the employee has exhausted their entitlement to paid personal leave, the employee
+may take up to two days’ unpaid carer’s leave each time a member of the employee’s
+family or household requires care or support because of a personal illness or injury of
+the member, or an unexpected emergency affecting the member.
+
+Purchased leave
+a) By agreement, ongoing employees may purchase up to 20 days’ leave in a year, with
+deductions from fortnightly salary in equal instalments over the course of the year, or a
+lesser period.
+
+3.6
+
+Sabbatical leave
+a) By agreement, an ongoing employee may purchase up to one years’ leave to enable
+them to take a long period of sabbatical leave.
+
+3.7
+
+Compassionate leave
+a) An employee may take up to three days’ paid compassionate leave each time a
+member of the employee’s family or household or a person for whom the employee
+has a close personal relationship: contracts or develops a personal illness that poses a
+serious threat to their life; sustains a personal injury that poses a serious threat to their
+life; or dies.
+b) Paid compassionate leave will count as service for all purposes.
+
+3.8
+
+Parental leave
+a) An employee is entitled to maternity leave in accordance with the
+Maternity Leave (Commonwealth Employees) Act 1973.
+b) An employee may elect to spread the payment for the leave granted under
+clause 3.8(a) over a maximum period of 24 weeks at a rate of no less than half pay. Any
+such period of leave in excess of 12 weeks will not count as service for any purpose.
+c) An employee, other than a casual, who has at least 12 continuous months of APS
+service and who is the primary carer of a child may take four weeks’ paid leave within
+12 months of the birth of that child, which:
+i.
+
+must be taken as a continuous block;
+
+ii.
+
+is only available to employees who are the primary carer of their own child or
+their partner’s child;
+
+iii.
+
+for primary carers who are the birth mother, is in addition to the entitlement
+under clause 3.8(a).
+
+12
+
+d) An employee may elect to spread the payment for the leave granted under clause
+3.8(c) over a maximum period of eight weeks at a rate of no less than half pay. Any such
+period of leave in excess of four weeks will not count as service for any purpose.
+e) An employee who accesses leave under clause 3.8 is not also entitled to access leave
+under clause 3.9 in circumstances where both forms of leave would be available to that
+employee, in respect of that child.
+f)
+
+No employee may access more than 16 weeks' paid leave under clause 3.8.
+
+g) An employee who is not the primary carer is entitled to 10 days’ paid leave at or close
+to the time of the birth of the child.
+
+3.9
+
+Adoption and permanent foster care leave
+a) An ongoing employee who has at least 12 continuous months of APS service is entitled
+to up to 16 weeks’ paid leave for the purposes of adopting or permanently fostering a
+child.
+b) Following adoption approval, or equivalent permanent fostering arrangement, an
+employee who is the primary carer of the child becomes eligible for the leave in clause
+3.9(a) where:
+i.
+
+the child is under school age on the day of placement; and
+
+ii.
+
+the child did not previously live with the employee for a period of six months or
+more before the day of placement; and
+
+iii.
+
+the child is not a child or step-child of the employee or the employee’s partner,
+unless that child had not been in the custody and care of the employee or the
+employee’s partner for a significant period of time.
+
+c) Documentary evidence of approval for adoption or permanent fostering must be
+submitted to the Secretary when applying for this leave.
+d) Adoption and permanent foster care leave is available from one week prior to the date
+of placement of a child. It must be taken as a single, unbroken period.
+e) An employee is unable to access personal leave while on paid adoption and permanent
+foster care leave.
+f)
+
+An employee may take leave granted under clause 3.9 at half pay. Any adoption and
+permanent foster care leave in excess of 16 weeks does not count as service for any
+purpose.
+
+g) An employee who accesses leave under clause 3.9 is not also entitled to access leave
+under clause 3.8 in circumstances where both forms of leave would be available to that
+employee, in respect of that child.
+
+13
+
+h) Where any employee adopts or permanently fosters a child who meets the criteria in
+clause 3.9(b), and the employee is not the primary carer of the child, the employee is
+entitled to 10 days’ paid leave at or close to the date of placement of the child.
+
+3.10
+
+i)
+
+No employee may access more than 16 weeks' paid leave under clause 3.9.
+
+j)
+
+Employees are entitled to unpaid adoption related leave in accordance with the Fair
+Work Act 2009.
+
+Short-term foster care leave
+a) An ongoing employee who has parental responsibilities under formal fostering
+arrangements may access up to five days’ paid short-term foster care leave in a
+calendar year.
+b) Documentary evidence of parental responsibilities under formal fostering
+arrangements must be submitted to the Secretary when applying for short-term foster
+care leave.
+
+3.11
+
+Long service leave
+a) An employee is eligible for long service leave in accordance with the
+Long Service Leave (Commonwealth Employees) Act 1976.
+b) The minimum period during which long service leave can be taken is seven calendar
+days at full pay (or 14 calendar days at half pay). Long service leave cannot be broken
+with other periods of leave, except as otherwise provided by legislation.
+
+3.12
+
+Defence reservists leave
+a) An employee may be granted leave by their manager (with or without pay) to enable
+the employee to fulfil Australian Defence Force (ADF) Reserve and Continuous Full Time
+Service (CFTS) or Cadet Force obligations.
+Note: The entitlement to leave for Reserve Service is prescribed under the Defence
+Reserve Service (Protection) Act 2001.
+b) An employee is entitled to ADF Reserve leave with pay, for up to four weeks during
+each financial year for the purpose of fulfilling service in the ADF Reserve. These
+purposes include training and operational duty as required.
+i.
+
+A further two weeks’ paid leave may be granted to facilitate participation in
+additional ADF Reserve training, including induction requirements. This two week
+period of paid leave may be accessed during an employee’s first two years of ADF
+Reserve service. No employee can access more than two weeks’ paid leave under
+this clause.
+
+ii.
+
+With the exception of the additional two weeks’ leave which can be taken any
+time within the first two years of service, leave can be accumulated and taken
+over a period of two years, to enable the employee to undertake training as a
+member of the ADF Reserves.
+
+14
+
+iii.
+
+Employees are not required to pay their tax free ADF Reserve salary to the
+Treasury in any circumstances.
+
+c) Defence Reserve leave counts as service for all purposes, except for unpaid leave to
+undertake Continuous Full Time Service (CFTS). Unpaid leave for the purpose of CFTS
+counts for all purposes except annual leave.
+d) Eligible employees may also apply for annual leave, long service leave, leave without
+pay, or they may use flextime for the purpose of fulfilling ADF Reserve, CFTS or Cadet
+Force obligations.
+e) Employees are to notify their manager at the earliest opportunity once the dates for
+ADF Reserve, CFTS or Cadet Force activities are known and/or changed.
+
+3.13
+
+Miscellaneous leave
+a) The Secretary may grant leave not provided for elsewhere to an employee for a
+purpose that the Secretary considers to be in the interests of Treasury and the APS,
+having regard to operational requirements. Further information on miscellaneous leave
+can be found in the Leave Guidelines.
+b) Miscellaneous leave may be granted for the period requested or another period, with
+or without pay and may be subject to conditions as determined by the Secretary.
+c) When an employee is granted Leave Without Pay (LWOP), the Secretary will determine
+whether the period of LWOP counts as service for the purposes of annual and personal
+leave entitlements.
+
+3.14
+
+Unauthorised absence
+a) Where an employee is absent from duty and the period of absence was not authorised,
+all pay and other benefits provided under this Agreement (such as flextime) will cease
+to be available until the employee resumes duty or is granted leave.
+b) Any period of unauthorised absence does not count as service for any purpose, and no
+entitlements accrue during this period.
+
+3.15
+
+Payment in lieu of leave entitlements on death of employee
+a) Where an employee dies, or is presumed to have died on a particular date, the
+Division Head of People and Organisational Strategy Division may authorise payment
+to be made to dependants, the partner of the former employee or the former
+employee’s legal representative of all leave entitlements otherwise payable on
+resignation or retirement.
+
+15
+
+Part 4 — Conditions of engagement
+4.1
+
+Portability of leave
+a) Where an employee moves (including on promotion or for an agreed period) from
+another agency where they were an ongoing APS employee, the employee’s unused
+accrued annual leave and personal/carer’s leave (however described) will be
+transferred, provided there is no break in continuity of service.
+b) Where an employee is engaged as either an ongoing or non-ongoing APS employee
+immediately following a period of ongoing employment in the Parliamentary Service
+or the ACT Government Service, the employee’s unused accrued annual leave and
+personal/carer’s leave (however described) will be transferred.
+c) For the purposes of this clause:
+i.
+
+‘APS employee’ has the same meaning as in the Public Service Act 1999; and
+
+ii.
+
+‘Parliamentary Service’ refers to employment under the Parliamentary Service
+Act 1999.
+
+d) Where a person is engaged as an ongoing employee, and immediately prior to the
+engagement the person was employed as a non-ongoing APS employee, the Secretary
+may, at the employee’s request, recognise any accrued annual leave and
+personal/carer’s leave (however described), provided there is no break in continuity
+of service. Any transferred annual leave excludes any accrued leave paid out on
+separation.
+
+4.2
+
+Non-ongoing employees
+a) Unless otherwise specified in this Agreement, the terms and conditions for non-ongoing
+employees shall be those set out in this Agreement as applying to ongoing employees.
+
+4.3
+
+Casual employees
+a) Treasury will engage casual employees as necessary to perform duties that are irregular
+or intermittent.
+b) A casual employee is entitled to be paid an additional 20 per cent of the hourly rate of
+pay which is payable to a full-time employee in the same classification who is paid at
+the rate applicable to the classification. This additional payment is in lieu of
+entitlements to annual leave, paid personal leave, paid parental leave, paid adoption
+and permanent foster care leave, paid short-term foster care leave, paid compassionate
+leave and payment for public holidays not worked.
+c) A casual employee is entitled to unpaid carer’s leave and unpaid compassionate leave
+in accordance with the National Employment Standards.
+
+16
+
+4.4
+
+Resignation
+
+4.4.1
+
+Notice of resignation or retirement from the APS
+a) An employee will give a minimum of two weeks’ notice of an intended resignation or
+retirement from the APS, unless otherwise agreed with their Division Head, or the
+Division Head of People and Organisational Strategy Division.
+
+4.4.2
+
+Date of effect of resignation or retirement
+a) The date of effect of an employee’s resignation or retirement will not be a day on which
+the employee would normally not have been on duty or on an approved period of
+leave.
+b) Resignations will take effect only on a normal working day, not on a weekend or
+public holiday unless exceptional circumstances exist as determined by the
+Division Head of People and Organisational Strategy Division.
+
+4.5
+
+Probation
+a) The duration of the probationary period for the purposes of subsection 22(6) of the
+Public Service Act 1999 will be six months, unless the Secretary determines otherwise.
+Further information can be found in the Probation Policy.
+
+17
+
+Part 5 — Remuneration
+5.1
+
+Payment of salary
+a) All employees shall be paid fortnightly and salary will be paid by electronic funds
+transfer into a financial institution account of the employee’s choice, unless otherwise
+agreed with the Secretary.
+b) The fortnightly salary will be ascertained by applying the following formula:
+Fortnightly salary = annual salary multiplied by 12 and divided by 313.
+
+5.2
+
+Superannuation
+a) Treasury will make compulsory employer contributions as required by the applicable
+legislation and fund requirements.
+b) Where an employee is a member of PSSap, the employer contributions will be
+15.4 per cent of the employee’s fortnightly contribution salary. Where an employee
+exercises superannuation choice by selecting an accumulation fund other than PSSap,
+employer contributions will be 15.4 per cent of an employee’s ordinary time earnings.
+This will not be reduced by any other contributions made through salary sacrifice
+arrangements. This clause does not apply where a superannuation fund cannot accept
+employer superannuation contributions.
+c) Employer superannuation contributions will not be paid on behalf of employees during
+periods of unpaid leave that do not count as service, unless otherwise required under
+legislation.
+d) The Secretary may choose to limit superannuation choice to complying superannuation
+funds that allow employee and/or employer contributions to be paid through
+fortnightly electronic funds transfer using a file generated by Treasury’s payroll system.
+
+5.3
+
+Performance management
+
+5.3.1
+
+Application of Performance Development System
+a) The Performance Development System (PDS) will apply to all employees subject to this
+Agreement, except as provided for in clause 5.3.3. Further information can be found in
+the Performance Development System Policy.
+
+5.3.2
+
+Principles
+a) The PDS will provide a basis for:
+
+i.
+
+determining base pay;
+
+ii.
+
+rewarding good work performance;
+
+18
+
+5.3.3
+
+iii.
+
+providing mechanisms for feedback between employees and managers;
+
+iv.
+
+addressing under-performance; and
+
+v.
+
+developing employees in their current roles.
+
+Underperformance
+a) The underperformance provisions of the PDS do not apply to employees on probation
+or to non-ongoing employees.
+
+5.4
+
+Application of pay rates
+
+5.4.1
+
+Rate of pay following commencement of this Agreement
+a) Salary rates will be as set out in Schedule A to this Agreement.
+b) There are three salary increases that will occur throughout this Agreement:
+
+i.
+
+2 per cent on commencement of the Agreement;
+
+ii.
+
+2 per cent 12 months after commencement; and
+
+iii.
+
+2 per cent 24 months after commencement.
+
+c) The columns in Schedule A show:
+
+5.4.2
+
+i.
+
+the salary rates that applied before the commencement of this Agreement;
+
+ii.
+
+the rates that will apply with effect from the date on which this Agreement
+comes into operation;
+
+iii.
+
+the rates that will apply 12 months after commencement of the Agreement; and
+
+iv.
+
+the rates that will apply 24 months after commencement of the Agreement.
+
+Salary and classification structure
+a) For the purposes of determining salary:
+
+i.
+
+Base pay is the salary point in Schedule A that is applicable to an employee’s
+nominal classification and pay point.
+
+ii.
+
+An employee promoted within Treasury will have base pay at the lowest pay
+point of the relevant classification, unless determined otherwise by the Secretary
+or under the terms of the PDS.
+
+iii.
+
+Where an employee remains on a pay point as described in clause 5.4.8, that
+interim pay point will be regarded as base pay.
+
+b) For the purposes of determining classification, Treasury’s APS classifications below
+Executive Levels 1 and 2 are broadbanded as follows:
+
+19
+
+i.
+
+Treasury Broadband 1 — APS 1, APS 2, APS 3, APS 4; and
+
+ii.
+
+Treasury Broadband 2 — APS 5, APS 6.
+
+c) Movement within the broadbands will be determined through the PDS or merit
+selection exercise subject to work availability, sufficient skills and satisfactory
+performance.
+d) Movement from Broadband 1 to Broadband 2, Broadband 2 to Executive Level 1, or
+Executive Level 1 to Executive Level 2 may occur only following a merit selection
+process.
+
+5.4.3
+
+Salary movement
+a) With the exception of merit selection or as a result of sanctions following a breach of
+the APS Code of Conduct or redeployment in accordance with clause 7.10 of this
+Agreement (reduction in classification due to being excess to requirements),
+movements between base rates of salary shall be determined under the terms of the
+PDS or by a decision of the Remuneration Committee in accordance with the
+Remuneration Guidelines.
+b) Salary recommendations resulting from formal performance appraisals will be effective
+from the first pay period commencing in the month following completion of each
+formal appraisal cycle.
+c) APS level staff will have two formal appraisals under the PDS each calendar year.
+d) Executive Level staff will have one formal appraisal and one informal appraisal under
+the PDS each calendar year.
+
+5.4.4
+
+Salary for superannuation, severance and termination purposes
+a) The salary levels applying under this Agreement which are specified in Schedule A shall
+be the salary level for superannuation, severance and termination payment purposes
+from the date on which they take effect as base pay.
+b) Nothing in clause 5.4.4(a) displaces superannuation legislation as it applies to
+employees who have a higher salary recognised for superannuation purposes.
+
+5.4.5
+
+Temporary reassignment of duties
+a) An employee may be temporarily assigned duties, at their substantive level or at a
+higher classification or at a higher level within a broadband. Prior to any assignment,
+managers will consult with the employee.
+b) An employee temporarily assigned duties at a higher classification for a period of four
+weeks or more, will be paid for that period at a rate equal to the salary they would
+receive if promoted or advanced to the level. If the employee’s performance appraisal
+is conducted against the work level of the higher level or classification, then the
+employee may be paid according to the outcome of the performance appraisal under
+the PDS.
+
+20
+
+c) For periods of less than four weeks, employees will undertake the temporary
+assignment at a higher level, at the request of the manager, without additional
+payment.
+d) The additional payment for temporary assignment at a higher level is treated as pay for
+the purposes of determining other allowances based on pay.
+e) An employee who is temporarily assigned for a period of four weeks or more at a
+classification that attracts different conditions of service, will receive the conditions of
+service of the temporary classification, subject to any limitations advised by the
+relevant manager to the employee.
+f)
+
+5.4.6
+
+An employee who is receiving additional payment for temporary assignment at a higher
+level and is granted paid leave, or who observes a public holiday, will continue to
+receive the additional payment during that absence, for as long as that absence falls
+within the period that the employee is temporarily assigned higher duties.
+
+Temporary reassignment of duties at SES level
+a) Where an employee covered by this Agreement is temporarily assigned duties under
+clause 5.4.5 at a level in the Senior Executive Service (SES), the employee’s rate of
+payment will be determined by the Secretary, taking account of the SES Pay Model.
+
+5.4.7
+
+New employees
+a) The Secretary may determine that a new employee may have an initial interim salary at
+a point between two pay points within the relevant classification, as determined in
+Schedule A. Progression to the next highest pay point within the relevant classification
+will be determined under the terms of the PDS or by the Remuneration Committee.
+b) If, following salary increases under this Agreement, a lower pay point as determined in
+Schedule A exceeds the interim salary point, then the employee will receive salary at
+the relevant pay point.
+c) If an employee moves to Treasury from another APS agency at which the employee had
+a salary higher than the highest pay point relating to the employee’s classification in
+Treasury, then the Secretary may determine that the employee may be paid at that
+higher salary as an interim salary. That interim salary will not be subject to any
+increases under this Agreement. If, following increases under this Agreement, the
+highest pay point of the employee’s classification becomes higher than the interim
+salary, the employee may move to the highest pay point of the relevant classification
+under the provisions for salary movement as determined under the terms of the PDS or
+by the Remuneration Committee.
+
+5.4.8
+
+Cadets
+a) During periods of full-time study, employees on cadetships will be paid at a rate of
+57 per cent of the lower pay point prescribed in Schedule A for APS 1 employees,
+unless the Secretary determines otherwise.
+
+21
+
+b) During periods of employment, cadets will be paid at the lower point of the full rate of
+an APS 1 employee, unless the Secretary determines otherwise.
+
+5.4.9
+
+Salary on reduction
+a) Where an employee is assigned duties at a classification lower than the employee’s
+previous classification (for example, as an outcome of an underperformance process, a
+sanction under section 15 of the Public Service Act 1999, redeployment under clause
+7.3 of this Agreement, or at the request of the employee), the employee’s salary will be
+determined by the employee’s Division Head, taking account of the employee’s most
+recent performance appraisal.
+
+5.5
+
+Flexible remuneration packaging
+a) All ongoing employees will have access to flexible remuneration packaging. Further
+information is contained in the relevant Treasury guidelines.
+
+5.6
+
+Supported salary
+a) Employees who are unable to perform duties to the competence level required because
+of a disability and who meet the criteria for receipt of a disability support pension may
+be paid according to the percentage of the relevant pay rate that corresponds to their
+assessed capacity to perform the work.
+b) Schedule C (Supported Wage System) to the Australian Public Service Enterprise
+Award 2015 as in force on 1 July 2018, is incorporated by reference into the terms of
+this Agreement.
+
+22
+
+Part 6 — Allowances and reimbursements
+6.1
+
+Minimum allowance rates
+a) The rates that apply at the commencement of this Agreement will be the minimum that
+will apply. Further information can be found in the Allowance and Reimbursement
+Guidelines.
+
+6.2
+
+Travel allowance
+a) An employee who undertakes travel on official business and is required to be away
+from home overnight will be paid an allowance for meals and incidental expenses. An
+allowance for accommodation will be paid where there are reasonable and actual costs
+involved. Wherever possible Treasury will prepay accommodation costs.
+b) In some circumstances, an allowance will be payable for travel that does not involve an
+overnight absence.
+
+6.3
+
+Overtime meal allowance
+a) An employee who is required by their manager to work overtime and takes a meal
+break during the overtime (within meal break periods) will be paid a meal allowance, in
+addition to any entitled overtime. An employee is not eligible for the overtime meal
+allowance where Treasury provides the employee with a meal.
+
+6.4
+
+First aid officer allowance
+a) An employee who possesses a first aid certificate or equivalent qualification and has
+been appointed as a first aid officer will receive payment of a first aid officer allowance.
+
+6.5
+
+Departmental Liaison Officer allowance
+a) An employee who performs duties of Departmental Liaison Officer (DLO) is entitled to
+an annual allowance as determined by the Secretary.
+b) An employee who receives the DLO allowance is not entitled to claim for any overtime
+worked while performing the duties of DLO.
+
+6.6
+
+Restriction allowance
+a) A manager may direct an employee to be contactable and to be available to perform
+extra duty outside of the bandwidth, subject to payment of an allowance. The rate of
+payment will be 7.5 per cent of the employee’s hourly rate of salary for each restricted
+hour on Monday to Friday, 10 per cent of the employee’s hourly rate of salary for each
+restricted hour on Saturday and Sunday, and 15 per cent of the employee’s hourly rate
+of salary for each restricted hour on public holidays.
+Note: A manager and employee may agree to vary the bandwidth under clause 2.2.4.
+
+23
+
+6.7
+
+Establishment allowance — graduate recruitment
+a) Employees who are recruited to Treasury as a result of a graduate recruitment
+campaign may be entitled to an establishment allowance in the form of a single lump
+sum payment to cover relocation costs incurred in the graduate’s commencement at
+Treasury.
+b) Unless otherwise determined by the Division Head of People and Organisational
+Strategy Division, clause 6.11 (removal expenses) will not apply to employees recruited
+under graduate recruitment campaigns.
+
+6.8
+
+Lifestyle contribution
+a) In recognition of the benefit to Treasury of employees undertaking initiatives of their
+own, each eligible ongoing employee may apply for a single payment of $600 each
+calendar year to contribute towards maintaining a healthy lifestyle. Further information
+on payment of the lifestyle contribution can be found in the Allowance and
+Reimbursement Guidelines.
+
+6.9
+
+Family responsibilities
+a) Where employees may be called upon to respond to an unexpected workplace
+demand, managers may approve reimbursement of reasonable expenses arising from
+additional family care arrangements made necessary where an employee is required to
+travel away from their normal work location for business purposes or is directed to
+work outside their normal patterns of work. Wherever possible, employees should alert
+their manager when that situation might arise.
+
+6.10
+
+Loss, damage and indemnity
+a) A Division Head may approve reimbursement to an employee for loss or damage to
+clothing or personal effects, which occurred in the course of the employee’s work.
+
+6.11
+
+Relocation expenses on engagement or reassignment of duties
+a) The Secretary may approve financial assistance to existing or prospective employees to
+assist with relocation and removal expenses where an employee is relocating for work
+purposes. The employee will be notified of any assistance before they move locality.
+Further information on removal or relocation expenses can be found in the Relocation
+Guidelines.
+
+6.12
+
+Overseas conditions of service
+a) In determining the appropriate conditions and rates, Treasury may be guided by the
+conditions of service extended to employees of the Department of Foreign Affairs and
+Trade and material available from accredited providers, for employees on overseas
+posts and on short-term duty overseas.
+
+24
+
+Part 7 — Management of excess employees
+7.1
+
+Application
+a) The following redeployment, retirement and redundancy provisions will apply to
+employees who are excess, other than non-ongoing employees and those employees
+on probation.
+
+7.2
+
+Definition of ‘excess’
+a) An employee is excess if:
+
+7.3
+
+i.
+
+the employee is included in a class of employees, which class comprises a greater
+number of employees than is necessary for the efficient and economical working
+of the Treasury;
+
+ii.
+
+the services of the employee cannot be effectively used because of technological
+or other changes in the work methods of the Treasury or changes in the nature,
+extent or organisation of the functions of the Treasury; or
+
+iii.
+
+where the duties usually performed by the employee are to be performed at a
+different locality, the employee is not willing to perform duties at the locality and
+the Secretary has determined that these provisions will apply to that employee.
+
+Process
+a) If the Secretary identifies an employee as excess, the Secretary will inform the
+employee they are excess. The Secretary will hold discussions with the excess employee
+and, if the employee chooses, with a representative nominated by the employee, to
+consider any of the following options:
+
+i.
+
+Redeployment at the employee’s current classification level within the Treasury
+or the APS. The Treasury may use the services of an external placement
+organisation to assist in the process of redeployment and the provision of
+retraining services.
+
+ii.
+
+Reduction on redeployment pursuant to clause 7.10 of this Agreement.
+
+iii.
+
+Transfer of another employee to the position occupied by the excess employee (a
+‘swap’) and the former employee immediately accepting retirement pursuant to
+clause 7.3(a)(iv). This clause is subject to the Secretary being satisfied that the
+excess employee can, with reasonable training, effectively replace the employee
+accepting retirement.
+
+iv.
+
+Termination of the employee’s employment (referred to elsewhere in this clause
+as redundancy) under section 29 of the Public Service Act 1999, with entitlements
+pursuant to clause 7.4 of this Agreement. An offer of redundancy can be made to
+an excess employee during a redeployment period.
+
+25
+
+7.3.1
+
+Provision of information
+a) An excess employee will be entitled to have access to information in relation to:
+
+7.3.2
+
+i.
+
+the sums of money the employee would receive by way of severance pay, pay in
+lieu of notice and paid up leave credits;
+
+ii.
+
+the amount of accumulated superannuation contributions;
+
+iii.
+
+the options open to the employee concerning superannuation; and
+
+iv.
+
+the taxation rules applicable to the various payments.
+
+Decision by the Secretary
+a) Following the discussions and consideration referred to in clause 7.3(a), the Secretary
+may decide to take action specified in that clause in relation to an excess employee.
+b) If the Secretary decides that an excess employee should be offered voluntary
+redundancy, the Secretary may invite the employee in writing to accept an offer of
+voluntary redundancy.
+
+7.3.3
+
+Time frames
+a) If it is determined that clause 7.3(a)(i) should apply, then the period during which time
+the employee and the Treasury will actively seek a suitable vacancy for the excess
+employee will be two months. The Secretary may determine that it is in the interests of
+the Treasury or the APS to extend the redeployment period.
+b) An employee who is made an offer of redundancy pursuant to clause 7.3.2 must either
+accept or decline the offer, in writing to the Secretary not before seven days and not
+later than 21 days after the making of the offer and after receiving the information in
+clause 7.3.1, unless the Secretary agrees to an extension of the period of the offer.
+
+7.3.4
+
+Involuntary redundancy
+a) If the excess employee situation has not been resolved at the end of the period
+referred to in clause 7.3.3 through the options in clause 7.3(a), the Secretary may
+terminate the employee’s employment under section 29 of the Public Service Act 1999,
+by giving notice in accordance with clause 7.9. Entitlements under clause 7.4 will apply.
+
+7.4
+
+Entitlement
+a) An excess employee whose employment is terminated by redundancy pursuant to
+clause 7.3(a)(iv) or 7.3.4 will be entitled to be paid redundancy pay of a sum equal to
+two weeks salary for each completed year of continuous service, plus a pro-rata
+payment for completed months of service since the last completed year of service.
+b) The minimum sum payable as redundancy pay on termination will be four weeks’ salary
+and the maximum will be 48 weeks’ salary, subject to any minimum entitlement the
+employee would be entitled to under the National Employment Standards.
+
+26
+
+c) Redundancy pay will be calculated on a pro-rata basis where the employee has worked
+part-time hours during the period of service and the employee has less than 24 years’
+full-time service.
+
+7.5
+
+Service for redundancy pay purposes
+a) Subject to clause 7.6, for the purpose of calculating entitlements in accordance with
+clause 7.4 ‘service’ means:
+
+7.6
+
+i.
+
+service in an APS agency;
+
+ii.
+
+government service as defined in section 10 of the Long Service Leave
+(Commonwealth Employees) Act 1976;
+
+iii.
+
+service with the Commonwealth (other than service with a joint Commonwealth
+State body or a body corporate in which the Commonwealth does not have a
+controlling interest) which is recognised for long service leave purposes;
+
+iv.
+
+service with the Australian Defence Forces; and
+
+v.
+
+service in another organisation where:
+1)
+
+an employee was transferred from that organisation with a transfer of
+function; or
+
+2)
+
+an employee engaged by that organisation on work connected with the
+function is engaged as a result of the transfer of that function to the APS
+and such service is recognised for long service leave purposes.
+
+Service not to count as service for redundancy pay purposes
+a) Any period of service which ceased in any of the following ways will not count as
+service for redundancy pay purposes:
+
+i.
+
+retrenchment;
+
+ii.
+
+retirement on grounds of invalidity;
+
+iii.
+
+termination of probation;
+
+iv.
+
+‘voluntary’ retirement at or above the minimum retiring age applicable to the
+employee or with the payment of an employer financed retirement benefit; or
+
+v.
+
+termination of employment for:
+1)
+
+misconduct or a breach of the APS Code of Conduct;
+
+2)
+
+non-performance or unsatisfactory performance of duties;
+
+3)
+
+failure to meet a condition of employment imposed at engagement;
+
+4)
+
+inability to perform duties because of a physical or mental incapacity;
+
+27
+
+5)
+
+loss of an essential qualification; or
+
+6)
+
+failure to complete an entry level training course.
+
+b) Absences from duty that do not count as service for long service leave purposes will not
+count as service for redundancy pay purposes.
+
+7.7
+
+Earlier periods of service
+a) For earlier periods of service to count, there must be no breaks between the periods
+except where the break in service is less than one month and occurs where an offer of
+employment with the new employer was made and accepted by the employee before
+ceasing employment with the preceding employer.
+
+7.8
+
+Rate of payment — redundancy pay
+a) For the purposes of calculating any payment under clause 7.4 or 7.10, ‘salary’ will
+include:
+
+7.9
+
+i.
+
+the employee’s full-time base salary, adjusted on a pro-rata basis for periods of
+part-time service;
+
+ii.
+
+other allowances in the nature of salary which have been paid during periods of
+annual leave and on a regular basis and which are not reimbursement for
+expenses incurred or payment for disabilities associated with the performance of
+a duty; and
+
+iii.
+
+salary payments where the employee has been temporarily assigned duties at a
+higher classification or at a higher level within a broadband for a continuous
+period of at least 12 months immediately preceding the date on which the
+employee is given notice of termination.
+
+Period of notice — termination
+a) Where an excess eligible employee is terminated, the period of notice will be
+four weeks. In the case of an employee over 45 years of age with at least five years’
+continuous service the period of notice will be five weeks. Where the Secretary and the
+employee agree to a termination date within the notice period, the employee’s
+employment will terminate on that date. The employee will be paid compensation in
+lieu of notice for the unexpired portion of the notice period. The payments an
+employee would have received in respect of the ordinary time the employee would
+have worked during the period of notice, had the employment not been terminated,
+will be used in calculating any payment in lieu of notice.
+b) An employee will be entitled to reasonable time off with full pay to attend necessary
+employment interviews, from the date the period of notice commences.
+c) Where expenses to attend interviews are not met by the prospective employer, the
+employee will be entitled to reasonable travel and incidental expenses incurred.
+
+28
+
+7.10
+
+Reduction in classification
+a) Where the Secretary proposes to reduce an excess employee’s classification, pursuant
+to clause 7.3, either:
+
+i.
+
+the employee will be given the same period of notice as the employee would
+have been entitled to receive pursuant to clause 7.9; or
+
+ii.
+
+the Treasury may pay an amount to maintain the level of salary received by the
+employee at the date of notice of reduction in classification for the number of
+weeks of notice still owing. Such payments will be calculated in accordance with
+clause 7.4.
+
+29
+
+Part 8 — Dispute resolution
+8.1
+
+Dispute resolution procedures
+a) If a dispute relates to a matter under this agreement, or the National Employment
+Standards, the parties to the dispute must first attempt to resolve the matter at the
+workplace level by discussions between the employee or employees concerned and the
+relevant manager.
+
+b) If discussions at the workplace level do not resolve the dispute, and all appropriate
+steps have been taken in accordance with clause 8.1(a), a party to the dispute may
+refer the matter to the Fair Work Commission.
+
+c) The Fair Work Commission may deal with the dispute in two stages:
+i.
+
+the Fair Work Commission will first attempt to resolve the dispute as it considers
+appropriate, including by mediation, conciliation, expressing an opinion or
+making a recommendation; and
+
+ii.
+
+if the Fair Work Commission is unable to resolve the dispute at the first stage, the
+Fair Work Commission may then:
+1) arbitrate the dispute; and
+2) make a determination that is binding on the parties.
+Note: If the Fair Work Commission arbitrates the dispute, it may also use the
+powers that are available to it under the Act.
+A decision that the Fair Work Commission makes when arbitrating a dispute is a
+decision for the purpose of Div 3 of Part 5.1 of the Fair Work Act 2009. Therefore,
+an appeal may be made against the decision.
+
+d) The Treasury or an employee who is a party to the dispute may appoint another
+person, organisation or association to accompany and/or represent them for the
+purposes of this term.
+
+e) While the parties are trying to resolve the dispute using the procedures in this clause:
+i.
+
+an employee must continue to perform their work as they would normally unless
+they have a reasonable concern about an imminent risk to their health or safety;
+and
+
+30
+
+ii.
+
+an employee must comply with a direction given by the Secretary to perform
+other available work at the same workplace, or at another workplace, unless:
+1) the work is not safe; or
+2) applicable occupational health and safety legislation would not permit the
+work to be performed; or
+3) the work is not appropriate for the employee to perform; or
+4) there are other reasonable grounds for the employee to refuse to comply
+with the direction.
+
+f) The parties to the dispute agree to be bound by a decision made by the Fair Work
+Commission in accordance with this clause.
+
+g) Any disputes arising under a previous collective or enterprise agreement, or the
+National Employment Standards that are unresolved at the date of commencement of
+this Agreement will be progressed under the dispute resolution procedures in this
+Agreement.
+
+31
+
+Part 9 — Definitions
+‘Agreement’ means the Treasury Enterprise Agreement 2018-2021.
+‘APS’ means Australian Public Service.
+‘APS Level’ is the classification structure for all levels below Executive Level.
+‘Bandwidth’ means the hours between 7 am to 7 pm, Monday to Friday excluding public holidays, or
+the bandwidth otherwise agreed between the employee and the manager under clause 2.2.4,
+provided the varied bandwidth remains a minimum continuous 12 hour period.
+‘Department’, unless otherwise specified, means the Treasury.
+‘Employee’, unless otherwise stated, refers to someone employed in Treasury, ongoing or
+non-ongoing, full-time or part-time, who is employed under or within the meaning of the
+Public Service Act 1999.
+‘Family’ is defined as a person who:
+•
+
+is related to the employee by blood or marriage (including former spouses); or
+
+•
+
+has a strong affinity with the employee by way of traditional or ceremonial affiliation, as
+determined by the Secretary; or
+
+•
+
+stands in a genuine domestic or household relationship with the employee without
+discrimination as to sexual preference (including a former de facto partner); or
+
+•
+
+is a child or an adopted child of the employee; or
+
+•
+
+is a child or an adopted child of the person who stands in a genuine domestic or household
+relationship with the employee.
+
+‘Flextime’ means the scheme of flexible working hours in Treasury.
+‘Full-time employee’ means an employee whose ordinary hours of work are 38 hours each week.
+‘LWOP’ means leave without pay.
+‘Manager’ is taken to mean all or any of the following: ‘Manager’, ‘Immediate Manager’,
+‘Team Leader’ and ‘Division Head’.
+‘Part-time employee’ means an employee whose normal hours of work are less than 38 hours each
+week.
+‘PDS’ means Performance Development System.
+‘Salary’ means the amount determined under Part 5 and Schedule A to this Agreement.
+‘Secretary’ means the Secretary of the Treasury or the Secretary’s delegate.
+
+32
+
+‘SES Pay Model’ means the model that the Secretary to the Treasury may apply to the salary of
+Senior Executive employees in the Treasury.
+‘Standard day’ means 7 hours and 36 minutes each day worked between the hours of 8:30 am to
+12:30 pm and 1:30 pm to 5:06 pm, Monday to Friday.
+‘TOIL’ means the Time Off In Lieu system in Treasury.
+
+33
+
+Schedule A — Rates of pay
+Pay
+point
+
+Current
+rates
+
+Effective on
+commencement
+
+Effective
+12 months after
+commencement
+
+Effective
+24 months after
+commencement
+
+$
+
+$
+
+$
+
+$
+
+APS 1.1
+
+45,791
+
+46,707
+
+47,641
+
+48,594
+
+1.2
+
+49,725
+
+50,720
+
+51,734
+
+52,769
+
+APS 2.1
+
+52,780
+
+53,836
+
+54,913
+
+56,011
+
+2.2
+
+56,275
+
+57,401
+
+58,549
+
+59,720
+
+APS 3.1
+
+59,768
+
+60,963
+
+62,182
+
+63,426
+
+3.2
+
+63,259
+
+64,524
+
+65,814
+
+67,130
+
+APS 4.1
+
+66,756
+
+68,091
+
+69,453
+
+70,842
+
+4.2
+
+70,248
+
+71,653
+
+73,086
+
+74,548
+
+APS 5.1
+
+75,054
+
+76,555
+
+78,086
+
+79,648
+
+5.2
+
+79,860
+
+81,457
+
+83,086
+
+84,748
+
+APS 6.1
+
+84,664
+
+86,357
+
+88,084
+
+89,846
+
+6.2
+
+89,468
+
+91,257
+
+93,082
+
+94,944
+
+6.3
+
+96,457
+
+98,386
+
+100,354
+
+102,361
+
+6.4
+
+102,571
+
+104,622
+
+106,714
+
+108,848
+
+EL 1.1
+
+110,435
+
+112,644
+
+114,897
+
+117,195
+
+1.2
+
+119,100
+
+121,482
+
+123,912
+
+126,390
+
+1.3
+
+126,681
+
+129,215
+
+131,799
+
+134,435
+
+EL 2.1
+
+134,892
+
+137,590
+
+140,342
+
+143,149
+
+2.2
+
+141,532
+
+144,363
+
+147,250
+
+150,195
+
+2.3
+
+148,170
+
+151,133
+
+154,156
+
+157,239
+
+2.4
+
+154,811
+
+157,907
+
+161,065
+
+164,286
+
+Broadband 1
+
+Broadband 2
+
+#
+
+#
+
+EL 1
+
+#
+
+EL 2
+
+# Salary beyond which progression subject to decision by Remuneration Committee
+
+34
+
+
