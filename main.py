@@ -13,7 +13,8 @@ phrases = ["zone of discretion","salary advancement",
 def main():
     context = 30 # number of lines of context after matches to show.
     tocRegex = re.compile(r'\.{4}') # Terms of Contents lines appear to have 4 or more . characters.
-    
+
+    output_rows = []
     
     with open('output.csv', 'w', newline='') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',',
@@ -26,15 +27,13 @@ def main():
                 lines = []
                 for line in f:
                     l = line.lower().strip() # convert to lowercase, strip whitespace/newlines.
-                    if l == "":
-                        continue
                     lines.append(l)
  
                 for i in range(len(lines)):
                     l = lines[i]
                     for p in phrases:
                         if p in l:
-
+                            print(f"file: {filename}, num:{i}, line:{l}")
                             tocMatch = tocRegex.search(l)
 
                             # skip toc lines
@@ -54,11 +53,24 @@ def main():
                                 continue
                             
                             contextStr = "\n".join(contextLines)
-                            csvwriter.writerow([filename,i, p, contextStr])
+                            lineNumberLink = f'<a href="https://github.com/kzrl/enterprise-agreements/blob/master/txt/{filename}#L{i}">{i}</a>'
+                            #csvwriter.writerow([filename,lineNumberLink, p, contextStr])
+                            csv_row = [filename,i, p, contextStr]
+                            html_row = [filename,lineNumberLink, p, contextStr]
+                            output_rows.append(html_row)
+                            csvwriter.writerow(csv_row)
                             #csvwriter.writerow([filename,p, i, l, "match"])
                             #print(f"file: {filename} phrase: {p} linenum: {i} match:{l}")
-                
 
+                write_html(output_rows)
+
+def write_html(rows):
+    with open("output.html", "w") as f:
+        f.write("<html><head><title>Output</title><style>table, th, td { border: 1px solid black;} table { border-collapse: collapse; }</style></head><body><table><thead><tr>")
+        f.write("<td>Filename</td><td>Line</td><td>Keyword</td><td>Match</td></tr><tbody>")
+        for row in rows:
+            f.write(f"<tr><td>{row[0]}</td><td>{row[1]}</td><td>{row[2]}</td><td><pre>{row[3]}</pre></td></tr>")
+        f.write("</tbody></table></body></html>")
 
 if __name__ == "__main__":
     main()
