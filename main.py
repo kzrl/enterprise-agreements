@@ -64,12 +64,17 @@ def main():
 
                 write_html(output_rows)
 
+def highlight_match(s, keyword):
+    return s.replace(keyword, f"<b>{keyword}</b>")
+                
 def write_html(rows):
 
     css = """
 <style>table, th, td { border: 1px solid black;}
     table { border-collapse: collapse; }
     .filename {font-size: 0.8em;}
+    .match { white-space: pre;
+    font-family: monospace; }
 </style>
 """
     
@@ -77,7 +82,7 @@ def write_html(rows):
         f.write(f"<!DOCTYPE html><html><head><title>Output</title>{css}</head><body><table><thead><tr>")
         f.write("<td>Filename</td><td>Line</td><td>Keyword</td><td>Match</td></tr><tbody>")
         for row in rows:
-            f.write(f"<tr><td><span class=\"filename\">{row[0]}</span></td><td>{row[1]}</td><td>{row[2]}</td><td><pre>{row[3]}</pre></td></tr>")
+            f.write(f"<tr><td><span class=\"filename\">{row[0]}</span></td><td>{row[1]}</td><td>{row[2]}</td><td class=\"match\">{highlight_match(row[3], row[2])}</td></tr>")
         f.write("</tbody></table></body></html>")
 
 if __name__ == "__main__":
