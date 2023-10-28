@@ -71,6 +71,7 @@ def write_html(rows):
 
     css = """
 <style>table, th, td { border: 1px solid black;}
+    td { padding: 0.5em; }
     table { border-collapse: collapse; }
     .filename {font-size: 0.8em;}
     .match { white-space: pre;
