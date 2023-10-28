@@ -65,11 +65,19 @@ def main():
                 write_html(output_rows)
 
 def write_html(rows):
+
+    css = """
+<style>table, th, td { border: 1px solid black;}
+    table { border-collapse: collapse; }
+    .filename {font-size: 0.8em;}
+</style>
+"""
+    
     with open("index.html", "w") as f:
-        f.write("<html><head><title>Output</title><style>table, th, td { border: 1px solid black;} table { border-collapse: collapse; }</style></head><body><table><thead><tr>")
+        f.write(f"<!DOCTYPE html><html><head><title>Output</title>{css}</head><body><table><thead><tr>")
         f.write("<td>Filename</td><td>Line</td><td>Keyword</td><td>Match</td></tr><tbody>")
         for row in rows:
-            f.write(f"<tr><td>{row[0]}</td><td>{row[1]}</td><td>{row[2]}</td><td><pre>{row[3]}</pre></td></tr>")
+            f.write(f"<tr><td><span class=\"filename\">{row[0]}</span></td><td>{row[1]}</td><td>{row[2]}</td><td><pre>{row[3]}</pre></td></tr>")
         f.write("</tbody></table></body></html>")
 
 if __name__ == "__main__":
