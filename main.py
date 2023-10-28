@@ -53,7 +53,7 @@ def main():
                                 continue
                             
                             contextStr = "\n".join(contextLines)
-                            lineNumberLink = f'<a href="https://github.com/kzrl/enterprise-agreements/blob/master/txt/{filename}#L{i}">{i}</a>'
+                            lineNumberLink = f'<a href="https://github.com/kzrl/enterprise-agreements/blob/master/txt/{filename}#L{i+1}">{i+1}</a>'
                             #csvwriter.writerow([filename,lineNumberLink, p, contextStr])
                             csv_row = [filename,i, p, contextStr]
                             html_row = [filename,lineNumberLink, p, contextStr]
